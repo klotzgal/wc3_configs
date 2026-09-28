@@ -4091,3 +4091,1590 @@ Tip=[|cff81BAFFR|r] Stone Gaze - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Stone Gaz
 Researchtip="[|cff81BAFFR|r] Learn Stone Gaze - [|cffffcc00Level %d|r]"
 Hotkey=R
 Researchhotkey=R
+
+// Standard Warcraft III: hero and unit abilities (QWERDF).
+// Keep these object IDs separate from the DotA-specific entries above.
+
+// Shared and neutral unit commands
+[anei]
+Tip=(|cffffcc00R|r) Select User
+Hotkey=R
+
+[adsm]
+Tip=(|cffffcc00Q|r) Dispel Magic
+Hotkey=Q
+
+[acd2]
+Tip=(|cffffcc00W|r) Abolish Magic
+Hotkey=W
+
+[ashm]
+Tip=(|cffffcc00D|r) Hide
+Hotkey=D
+
+[ahid]
+Tip=(|cffffcc00D|r) Hide
+Hotkey=D
+
+[ahar]
+Tip=(|cffffcc00F|r) Gather
+UnTip=(|cffffcc00F|r) Return Resources
+Hotkey=F
+Unhotkey=F
+
+// HUMAN - Peasant, Militia, and Arcane Tower
+[amic]
+Tip=(|cffffcc00W|r) Call to Arms
+UnTip=(|cffffcc00E|r) Back to Work
+Hotkey=W
+Unhotkey=E
+
+[ahta]
+Tip=(|cffffcc00Q|r) Reveal
+Hotkey=Q
+
+[ahrp]
+Tip=(|cffffcc00D|r) Repair
+Hotkey=D
+
+[amil]
+Tip=(|cffffcc00W|r) Call to Arms
+UnTip=(|cffffcc00E|r) Return to Work
+Hotkey=W
+Unhotkey=E
+
+// Human - Footman
+[adef]
+Tip=(|cffffcc00Q|r) Defend
+UnTip=(|cffffcc00Q|r) Stop Defend
+Hotkey=Q
+Unhotkey=Q
+
+// Human - Mortar Team
+[afla]
+Tip=(|cffffcc00Q|r) Flare
+Hotkey=Q
+
+// Human - Sorceress
+[aslo]
+Tip=(|cffffcc00Q|r) Slow
+Hotkey=Q
+
+[aivs]
+Tip=(|cffffcc00W|r) Invisibility
+Hotkey=W
+
+[aply]
+Tip=(|cffffcc00E|r) Polymorph
+Hotkey=E
+
+// Human - Priest
+[ahea]
+Tip=(|cffffcc00Q|r) Heal
+Hotkey=Q
+
+[adis]
+Tip=(|cffffcc00W|r) Dispel Magic
+Hotkey=W
+
+[ainf]
+Tip=(|cffffcc00E|r) Inner Fire
+Hotkey=E
+
+// Human - Spell Breaker
+[asps]
+Tip=(|cffffcc00Q|r) Spell Steal
+Hotkey=Q
+
+[acmg]
+Tip=(|cffffcc00W|r) Control Magic
+Hotkey=W
+
+// Human - Dragonhawk Rider
+[amls]
+Tip=(|cffffcc00Q|r) Aerial Shackles
+Hotkey=Q
+
+[aclf]
+Tip=(|cffffcc00W|r) Cloud
+Hotkey=W
+
+// Human hero - Archmage
+[ahbz]
+Tip=(|cffffcc00Q|r) Blizzard - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Blizzard - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Blizzard - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Blizzard - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[ahwe]
+Tip=(|cffffcc00W|r) Summon Water Elemental - [|cffffcc00Level 1|r],(|cffffcc00W|r) Summon Water Elemental - [|cffffcc00Level 2|r],(|cffffcc00W|r) Summon Water Elemental - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Summon Water Elemental - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[ahab]
+Researchtip=(|cffffcc00E|r) Learn Brilliance Aura - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[ahmt]
+Tip=(|cffffcc00R|r) Mass Teleport
+Researchtip=(|cffffcc00R|r) Learn Mass Teleport
+Hotkey=R
+Researchhotkey=R
+
+// Human hero - Blood Mage
+[AHfs]
+Tip=(|cffffcc00Q|r) Flame Strike - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Flame Strike - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Flame Strike - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Flame Strike - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[AHbn]
+Tip=(|cffffcc00W|r) Banish - [|cffffcc00Level 1|r],(|cffffcc00W|r) Banish - [|cffffcc00Level 2|r],(|cffffcc00W|r) Banish - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Banish - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[AHdr]
+Tip=(|cffffcc00E|r) Siphon Mana - [|cffffcc00Level 1|r],(|cffffcc00E|r) Siphon Mana - [|cffffcc00Level 2|r],(|cffffcc00E|r) Siphon Mana - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00E|r) Learn Siphon Mana - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[AHpx]
+Tip=(|cffffcc00R|r) Summon Phoenix
+Researchtip=(|cffffcc00R|r) Learn Summon Phoenix
+Hotkey=R
+Researchhotkey=R
+
+// Human hero - Mountain King
+[AHtb]
+Tip=(|cffffcc00Q|r) Storm Bolt - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Storm Bolt - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Storm Bolt - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Storm Bolt - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[AHtc]
+Tip=(|cffffcc00W|r) Thunder Clap - [|cffffcc00Level 1|r],(|cffffcc00W|r) Thunder Clap - [|cffffcc00Level 2|r],(|cffffcc00W|r) Thunder Clap - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Thunder Clap - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[AHbh]
+Researchtip=(|cffffcc00E|r) Learn Bash - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[AHav]
+Tip=(|cffffcc00R|r) Avatar
+Researchtip=(|cffffcc00R|r) Learn Avatar
+Hotkey=R
+Researchhotkey=R
+
+// Human hero - Paladin
+[AHhb]
+Tip=(|cffffcc00Q|r) Holy Light - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Holy Light - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Holy Light - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Holy Light - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[AHds]
+Tip=(|cffffcc00W|r) Divine Shield - [|cffffcc00Level 1|r],(|cffffcc00W|r) Divine Shield - [|cffffcc00Level 2|r],(|cffffcc00W|r) Divine Shield - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Divine Shield - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[AHad]
+Researchtip=(|cffffcc00E|r) Learn Devotion Aura - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[AHre]
+Tip=(|cffffcc00R|r) Resurrection
+Researchtip=(|cffffcc00R|r) Learn Resurrection
+Hotkey=R
+Researchhotkey=R
+
+// ORC - Burrow and Peon
+[abtl]
+Tip=(|cffffcc00Q|r) Battle Stations
+Hotkey=Q
+
+[astd]
+Tip=(|cffffcc00W|r) Stand Down
+Hotkey=W
+
+[arep]
+Tip=(|cffffcc00D|r) Repair
+Hotkey=D
+
+// Orc - Troll Berserker
+[absk]
+Tip=(|cffffcc00Q|r) Berserk
+Hotkey=Q
+
+// Orc - Raider
+[aens]
+Tip=(|cffffcc00Q|r) Ensnare
+Hotkey=Q
+
+// Orc - Kodo Beast
+[adev]
+Tip=(|cffffcc00Q|r) Devour
+Hotkey=Q
+
+// Orc - Troll Batrider
+[auco]
+Tip=(|cffffcc00Q|r) Unstable Concoction
+Hotkey=Q
+
+// Orc - Shaman
+[aprg]
+Tip=(|cffffcc00Q|r) Purge
+Hotkey=Q
+
+[apg2]
+Tip=(|cffffcc00Q|r) Purge
+Hotkey=Q
+
+[alsh]
+Tip=(|cffffcc00W|r) Lightning Shield
+Hotkey=W
+
+[ablo]
+Tip=(|cffffcc00E|r) Bloodlust
+Hotkey=E
+
+// Orc - Troll Witch Doctor
+[aeye]
+Tip=(|cffffcc00Q|r) Sentry Ward
+Hotkey=Q
+
+[asta]
+Tip=(|cffffcc00W|r) Stasis Trap
+Hotkey=W
+
+[ahwd]
+Tip=(|cffffcc00E|r) Healing Ward
+Hotkey=E
+
+// Orc - Spirit Walker
+[aspl]
+Tip=(|cffffcc00Q|r) Spirit Link
+Hotkey=Q
+
+[adcn]
+Tip=(|cffffcc00W|r) Disenchant
+Hotkey=W
+
+[aast]
+Tip=(|cffffcc00E|r) Ancestral Spirit
+Hotkey=E
+
+[acpf]
+Tip=(|cffffcc00R|r) Corporeal Form
+UnTip=(|cffffcc00R|r) Ethereal Form
+Hotkey=R
+Unhotkey=R
+
+// Orc hero - Far Seer
+[aocl]
+Tip=(|cffffcc00Q|r) Chain Lightning - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Chain Lightning - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Chain Lightning - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Chain Lightning - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[aofs]
+Tip=(|cffffcc00W|r) Far Sight - [|cffffcc00Level 1|r],(|cffffcc00W|r) Far Sight - [|cffffcc00Level 2|r],(|cffffcc00W|r) Far Sight - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Far Sight - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[aosf]
+Tip=(|cffffcc00E|r) Feral Spirit - [|cffffcc00Level 1|r],(|cffffcc00E|r) Feral Spirit - [|cffffcc00Level 2|r],(|cffffcc00E|r) Feral Spirit - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00E|r) Learn Feral Spirit - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[aoeq]
+Tip=(|cffffcc00R|r) Earthquake
+Researchtip=(|cffffcc00R|r) Learn Earthquake
+Hotkey=R
+Researchhotkey=R
+
+// Orc hero - Tauren Chieftain
+[aosh]
+Tip=(|cffffcc00Q|r) Shockwave - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Shockwave - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Shockwave - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Shockwave - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[aows]
+Tip=(|cffffcc00W|r) War Stomp - [|cffffcc00Level 1|r],(|cffffcc00W|r) War Stomp - [|cffffcc00Level 2|r],(|cffffcc00W|r) War Stomp - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn War Stomp - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[aoae]
+Researchtip=(|cffffcc00E|r) Learn Endurance Aura - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[aore]
+Researchtip=(|cffffcc00R|r) Learn Reincarnation
+Researchhotkey=R
+
+// Orc hero - Blademaster
+[aowk]
+Tip=(|cffffcc00Q|r) Wind Walk - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Wind Walk - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Wind Walk - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Wind Walk - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[aomi]
+Tip=(|cffffcc00W|r) Mirror Image - [|cffffcc00Level 1|r],(|cffffcc00W|r) Mirror Image - [|cffffcc00Level 2|r],(|cffffcc00W|r) Mirror Image - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Mirror Image - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[aocr]
+Researchtip=(|cffffcc00E|r) Learn Critical Strike - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[aoww]
+Tip=(|cffffcc00R|r) Bladestorm
+Researchtip=(|cffffcc00R|r) Learn Bladestorm
+Hotkey=R
+Researchhotkey=R
+
+// Orc hero - Shadow Hunter
+[aohw]
+Tip=(|cffffcc00Q|r) Healing Wave - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Healing Wave - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Healing Wave - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Healing Wave - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[aohx]
+Tip=(|cffffcc00W|r) Hex - [|cffffcc00Level 1|r],(|cffffcc00W|r) Hex - [|cffffcc00Level 2|r],(|cffffcc00W|r) Hex - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Hex - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[aosw]
+Tip=(|cffffcc00E|r) Serpent Ward - [|cffffcc00Level 1|r],(|cffffcc00E|r) Serpent Ward - [|cffffcc00Level 2|r],(|cffffcc00E|r) Serpent Ward - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00E|r) Learn Serpent Ward - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[aovd]
+Tip=(|cffffcc00R|r) Big Bad Voodoo
+Researchtip=(|cffffcc00R|r) Learn Big Bad Voodoo
+Hotkey=R
+Researchhotkey=R
+
+// UNDEAD - Acolyte and buildings
+[asac]
+Tip=(|cffffcc00Q|r) Sacrifice
+Hotkey=Q
+
+[auns]
+Tip=(|cffffcc00W|r) Unsummon Building
+Hotkey=W
+
+[arst]
+Tip=(|cffffcc00D|r) Restore
+Hotkey=D
+
+[aaha]
+Tip=(|cffffcc00F|r) Gather
+Hotkey=F
+
+[alam]
+Tip=(|cffffcc00R|r) Sacrifice
+Hotkey=R
+
+// Undead - Ghoul
+[acan]
+Tip=(|cffffcc00Q|r) Cannibalize
+Hotkey=Q
+
+[ahrl]
+Tip=(|cffffcc00F|r) Gather
+UnTip=(|cffffcc00F|r) Return Resources
+Hotkey=F
+Unhotkey=F
+
+// Undead - Crypt Fiend
+[aweb]
+Tip=(|cffffcc00Q|r) Web
+Hotkey=Q
+
+[abur]
+Tip=(|cffffcc00R|r) Burrow
+UnTip=(|cffffcc00R|r) Unburrow
+Hotkey=R
+Unhotkey=R
+
+// Undead - Gargoyle
+[astn]
+Tip=(|cffffcc00Q|r) Stone Form
+UnTip=(|cffffcc00Q|r) Gargoyle Form
+Hotkey=Q
+Unhotkey=Q
+
+// Undead - Necromancer
+[arai]
+Tip=(|cffffcc00Q|r) Raise Dead
+Hotkey=Q
+
+[auhf]
+Tip=(|cffffcc00W|r) Unholy Frenzy
+Hotkey=W
+
+[acri]
+Tip=(|cffffcc00E|r) Cripple
+Hotkey=E
+
+// Undead - Banshee
+[acrs]
+Tip=(|cffffcc00Q|r) Curse
+Hotkey=Q
+
+[aams]
+Tip=(|cffffcc00W|r) Anti-magic Shell
+Hotkey=W
+
+[aam2]
+Tip=(|cffffcc00W|r) Anti-magic Shell
+Hotkey=W
+
+[apos]
+Tip=(|cffffcc00E|r) Possession
+Hotkey=E
+
+[aps2]
+Tip=(|cffffcc00E|r) Possession
+Hotkey=E
+
+// Undead - Meat Wagon
+[amel]
+Tip=(|cffffcc00Q|r) Get Corpse
+Hotkey=Q
+
+[amed]
+Tip=(|cffffcc00W|r) Drop All Corpses
+Hotkey=W
+
+// Undead - Abomination
+[acn2]
+Tip=(|cffffcc00Q|r) Cannibalize
+Hotkey=Q
+
+// Undead - Obsidian Statue
+[arpl]
+Tip=(|cffffcc00Q|r) Essence of Blight
+Hotkey=Q
+
+[arpm]
+Tip=(|cffffcc00W|r) Spirit Touch
+Hotkey=W
+
+// Undead - Destroyer
+[advm]
+Tip=(|cffffcc00Q|r) Devour Magic
+Hotkey=Q
+
+[afak]
+Tip=(|cffffcc00W|r) Orb of Annihilation
+Hotkey=W
+
+[aabs]
+Tip=(|cffffcc00R|r) Absorb Mana
+Hotkey=R
+
+// Undead hero - Death Knight
+[audc]
+Tip=(|cffffcc00Q|r) Death Coil - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Death Coil - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Death Coil - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Death Coil - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[audp]
+Tip=(|cffffcc00W|r) Death Pact - [|cffffcc00Level 1|r],(|cffffcc00W|r) Death Pact - [|cffffcc00Level 2|r],(|cffffcc00W|r) Death Pact - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Death Pact - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[auau]
+Researchtip=(|cffffcc00E|r) Learn Unholy Aura - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[auan]
+Tip=(|cffffcc00R|r) Animate Dead - [|cffffcc00Level 1|r],(|cffffcc00R|r) Animate Dead - [|cffffcc00Level 2|r],(|cffffcc00R|r) Animate Dead - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00R|r) Learn Animate Dead - [|cffffcc00Level %d|r]
+Hotkey=R
+Researchhotkey=R
+
+// Undead hero - Dreadlord
+[aucs]
+Tip=(|cffffcc00Q|r) Carrion Swarm - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Carrion Swarm - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Carrion Swarm - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Carrion Swarm - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[ausl]
+Tip=(|cffffcc00W|r) Sleep - [|cffffcc00Level 1|r],(|cffffcc00W|r) Sleep - [|cffffcc00Level 2|r],(|cffffcc00W|r) Sleep - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Sleep - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[auav]
+Researchtip=(|cffffcc00E|r) Learn Vampiric Aura - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[auin]
+Tip=(|cffffcc00R|r) Inferno - [|cffffcc00Level 1|r],(|cffffcc00R|r) Inferno - [|cffffcc00Level 2|r],(|cffffcc00R|r) Inferno - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00R|r) Learn Inferno - [|cffffcc00Level %d|r]
+Hotkey=R
+Researchhotkey=R
+
+// Undead hero - Lich
+[aufn]
+Tip=(|cffffcc00Q|r) Frost Nova - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Frost Nova - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Frost Nova - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Frost Nova - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[aufu]
+Tip=(|cffffcc00W|r) Frost Armor - [|cffffcc00Level 1|r],(|cffffcc00W|r) Frost Armor - [|cffffcc00Level 2|r],(|cffffcc00W|r) Frost Armor - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Frost Armor - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[audr]
+Tip=(|cffffcc00E|r) Dark Ritual - [|cffffcc00Level 1|r],(|cffffcc00E|r) Dark Ritual - [|cffffcc00Level 2|r],(|cffffcc00E|r) Dark Ritual - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00E|r) Learn Dark Ritual - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[audd]
+Tip=(|cffffcc00R|r) Death and Decay - [|cffffcc00Level 1|r],(|cffffcc00R|r) Death and Decay - [|cffffcc00Level 2|r],(|cffffcc00R|r) Death and Decay - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00R|r) Learn Death and Decay - [|cffffcc00Level %d|r]
+Hotkey=R
+Researchhotkey=R
+
+// Undead hero - Crypt Lord
+[auim]
+Tip=(|cffffcc00Q|r) Impale - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Impale - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Impale - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Impale - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[auts]
+Researchtip=(|cffffcc00W|r) Learn Spiked Carapace - [|cffffcc00Level %d|r]
+Researchhotkey=W
+
+[aucb]
+Tip=(|cffffcc00E|r) Carrion Beetles - [|cffffcc00Level 1|r],(|cffffcc00E|r) Carrion Beetles - [|cffffcc00Level 2|r],(|cffffcc00E|r) Carrion Beetles - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00E|r) Learn Carrion Beetles - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[auls]
+Tip=(|cffffcc00R|r) Locust Swarm - [|cffffcc00Level 1|r],(|cffffcc00R|r) Locust Swarm - [|cffffcc00Level 2|r],(|cffffcc00R|r) Locust Swarm - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00R|r) Learn Locust Swarm - [|cffffcc00Level %d|r]
+Hotkey=R
+Researchhotkey=R
+
+// Undead - Carrion Beetle burrow variants
+[abu2]
+Tip=(|cffffcc00R|r) Burrow
+UnTip=(|cffffcc00R|r) Unburrow
+Hotkey=R
+Unhotkey=R
+
+[abu3]
+Tip=(|cffffcc00R|r) Burrow
+UnTip=(|cffffcc00R|r) Unburrow
+Hotkey=R
+Unhotkey=R
+
+// NIGHT ELF - Ancients and Tree of Life
+[aro1]
+Tip=(|cffffcc00E|r) Root
+UnTip=(|cffffcc00E|r) Uproot
+Hotkey=E
+Unhotkey=E
+
+[aro2]
+Tip=(|cffffcc00E|r) Root
+UnTip=(|cffffcc00E|r) Uproot
+Hotkey=E
+Unhotkey=E
+
+[aeat]
+Tip=(|cffffcc00Q|r) Eat Tree
+Hotkey=Q
+
+[adri]
+Tip=(|cffffcc00W|r) Unload All
+Hotkey=W
+
+[aent]
+Tip=(|cffffcc00W|r) Entangle Gold Mine
+Hotkey=W
+
+// Night Elf - Moon Well and Wisp
+[ambt]
+Tip=(|cffffcc00Q|r) Replenish Mana and Life
+Hotkey=Q
+
+[aren]
+Tip=(|cffffcc00D|r) Renew
+Hotkey=D
+
+[adtn]
+Tip=(|cffffcc00W|r) Detonate
+Hotkey=W
+
+[awha]
+Tip=(|cffffcc00F|r) Gather
+Hotkey=F
+
+// Night Elf - Archer and Hippogryph
+[aco2]
+Tip=(|cffffcc00Q|r) Mount Hippogryph
+Hotkey=Q
+
+// Night Elf - Huntress
+[aesn]
+Tip=(|cffffcc00Q|r) Sentinel
+Hotkey=Q
+
+// Night Elf - Dryad
+[aadm]
+Tip=(|cffffcc00Q|r) Abolish Magic
+Hotkey=Q
+
+// Night Elf - Druid of the Claw
+[aroa]
+Tip=(|cffffcc00Q|r) Roar
+Hotkey=Q
+
+[ara2]
+Tip=(|cffffcc00Q|r) Roar
+Hotkey=Q
+
+[arej]
+Tip=(|cffffcc00W|r) Rejuvenation
+Hotkey=W
+
+[abrf]
+Tip=(|cffffcc00R|r) Bear Form
+UnTip=(|cffffcc00R|r) Night Elf Form
+Hotkey=R
+Unhotkey=R
+
+// Night Elf - Mountain Giant
+[atau]
+Tip=(|cffffcc00Q|r) Taunt
+Hotkey=Q
+
+[agra]
+Tip=(|cffffcc00W|r) War Club
+Hotkey=W
+
+// Night Elf - Hippogryph and Archer transport variants
+[aco3]
+Tip=(|cffffcc00Q|r) Pick up Archer
+Hotkey=Q
+
+[adec]
+Tip=(|cffffcc00Q|r) Dismount Archer & Hippogryph
+Hotkey=Q
+
+// Night Elf - Druid of the Talon
+[afae]
+Tip=(|cffffcc00Q|r) Faerie Fire
+Hotkey=Q
+
+[acyc]
+Tip=(|cffffcc00W|r) Cyclone
+Hotkey=W
+
+[arav]
+Tip=(|cffffcc00R|r) Storm Crow Form
+UnTip=(|cffffcc00R|r) Night Elf Form
+Hotkey=R
+Unhotkey=R
+
+// Night Elf - Faerie Dragon
+[apsh]
+Tip=(|cffffcc00Q|r) Phase Shift
+Hotkey=Q
+
+[amfl]
+Tip=(|cffffcc00W|r) Mana Flare
+UnTip=(|cffffcc00W|r) Stop Mana Flare
+Hotkey=W
+Unhotkey=W
+
+// Night Elf - Sentinel variant
+[aesr]
+Tip=(|cffffcc00Q|r) Sentinel
+Hotkey=Q
+
+// Night Elf hero - Demon Hunter
+[aemb]
+Tip=(|cffffcc00Q|r) Mana Burn - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Mana Burn - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Mana Burn - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Mana Burn - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[aeim]
+Tip=(|cffffcc00W|r) Activate Immolation - [|cffffcc00Level 1|r],(|cffffcc00W|r) Activate Immolation - [|cffffcc00Level 2|r],(|cffffcc00W|r) Activate Immolation - [|cffffcc00Level 3|r]
+UnTip=(|cffffcc00W|r) Deactivate Immolation
+Researchtip=(|cffffcc00W|r) Learn Activate Immolation - [|cffffcc00Level %d|r]
+Hotkey=W
+Unhotkey=W
+Researchhotkey=W
+
+[aeev]
+Researchtip=(|cffffcc00E|r) Learn Evasion - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[aeme]
+Tip=(|cffffcc00R|r) Metamorphosis
+Researchtip=(|cffffcc00R|r) Learn Metamorphosis
+Hotkey=R
+Researchhotkey=R
+
+// Night Elf hero - Keeper of the Grove
+[aeer]
+Tip=(|cffffcc00Q|r) Entangling Roots - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Entangling Roots - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Entangling Roots - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Entangling Roots - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[aefn]
+Tip=(|cffffcc00W|r) Force of Nature - [|cffffcc00Level 1|r],(|cffffcc00W|r) Force of Nature - [|cffffcc00Level 2|r],(|cffffcc00W|r) Force of Nature - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Force of Nature - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[aeah]
+Researchtip=(|cffffcc00E|r) Learn Thorns Aura - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[aetq]
+Tip=(|cffffcc00R|r) Tranquility
+Researchtip=(|cffffcc00R|r) Learn Tranquility
+Hotkey=R
+Researchhotkey=R
+
+// Night Elf hero - Priestess of the Moon
+[aest]
+Tip=(|cffffcc00Q|r) Scout - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Scout - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Scout - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Scout - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[ahfa]
+Tip=(|cffffcc00W|r) Searing Arrows - [|cffffcc00Level 1|r],(|cffffcc00W|r) Searing Arrows - [|cffffcc00Level 2|r],(|cffffcc00W|r) Searing Arrows - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Searing Arrows - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[aear]
+Researchtip=(|cffffcc00E|r) Learn Trueshot Aura - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[aesf]
+Tip=(|cffffcc00R|r) Starfall
+Researchtip=(|cffffcc00R|r) Learn Starfall
+Hotkey=R
+Researchhotkey=R
+
+// Night Elf hero - Warden
+[aebl]
+Tip=(|cffffcc00W|r) Blink - [|cffffcc00Level 1|r],(|cffffcc00W|r) Blink - [|cffffcc00Level 2|r],(|cffffcc00W|r) Blink - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Blink - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[aefk]
+Tip=(|cffffcc00Q|r) Fan of Knives - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Fan of Knives - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Fan of Knives - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Fan of Knives - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[aesh]
+Tip=(|cffffcc00E|r) Shadow Strike - [|cffffcc00Level 1|r],(|cffffcc00E|r) Shadow Strike - [|cffffcc00Level 2|r],(|cffffcc00E|r) Shadow Strike - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00E|r) Learn Shadow Strike - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[aesv]
+Tip=(|cffffcc00R|r) Vengeance
+Researchtip=(|cffffcc00R|r) Learn Vengeance
+Hotkey=R
+Researchhotkey=R
+
+// Night Elf - Avatar of Vengeance and campaign variants
+[avng]
+Tip=(|cffffcc00Q|r) Spirit of Vengeance
+Hotkey=Q
+
+[awfb]
+Tip=(|cffffcc00Q|r) Firebolt
+Hotkey=Q
+
+[aevi]
+Tip=(|cffffcc00R|r) Metamorphosis
+Researchtip=(|cffffcc00R|r) Learn Metamorphosis
+Hotkey=R
+Researchhotkey=R
+
+// NAGA - workers and units
+[anha]
+Tip=(|cffffcc00F|r) Gather
+UnTip=(|cffffcc00F|r) Return Resources
+Hotkey=F
+Unhotkey=F
+
+[anen]
+Tip=(|cffffcc00Q|r) Ensnare
+Hotkey=Q
+
+[asb1]
+Tip=(|cffffcc00R|r) Submerge
+UnTip=(|cffffcc00R|r) Surface
+Hotkey=R
+Unhotkey=R
+
+[anpa]
+Tip=(|cffffcc00Q|r) Parasite
+Hotkey=Q
+
+[acfu]
+Tip=(|cffffcc00W|r) Frost Armor
+Hotkey=W
+
+[acny]
+Tip=(|cffffcc00E|r) Cyclone
+Hotkey=E
+
+[andm]
+Tip=(|cffffcc00Q|r) Abolish Magic
+Hotkey=Q
+
+[asb2]
+Tip=(|cffffcc00R|r) Submerge
+UnTip=(|cffffcc00R|r) Surface
+Hotkey=R
+Unhotkey=R
+
+// Campaign hero variants - Feral Spirit and Reincarnation
+[acs7]
+Tip=(|cffffcc00W|r) Feral Spirit - [|cffffcc00Level 1|r],(|cffffcc00W|r) Feral Spirit - [|cffffcc00Level 2|r],(|cffffcc00W|r) Feral Spirit - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Feral Spirit - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[anr2]
+Researchtip=(|cffffcc00R|r) Learn Reincarnation
+Researchhotkey=R
+
+// Campaign hero - Rexxar
+[arsg]
+Tip=(|cffffcc00Q|r) Summon Misha - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Summon Misha - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Summon Misha - [|cffffcc00Level 3|r],(|cffffcc00Q|r) Summon Misha - [|cffffcc00Level 4|r]
+Researchtip=(|cffffcc00Q|r) Learn Summon Misha - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[arsq]
+Tip=(|cffffcc00W|r) Summon Quilbeast - [|cffffcc00Level 1|r],(|cffffcc00W|r) Summon Quilbeast - [|cffffcc00Level 2|r],(|cffffcc00W|r) Summon Quilbeast - [|cffffcc00Level 3|r],(|cffffcc00W|r) Summon Quilbeast - [|cffffcc00Level 4|r]
+Researchtip=(|cffffcc00W|r) Learn Summon Quilbeast - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[ansb]
+Tip=(|cffffcc00E|r) Storm Bolt - [|cffffcc00Level 1|r],(|cffffcc00E|r) Storm Bolt - [|cffffcc00Level 2|r],(|cffffcc00E|r) Storm Bolt - [|cffffcc00Level 3|r],(|cffffcc00E|r) Storm Bolt - [|cffffcc00Level 4|r]
+Researchtip=(|cffffcc00E|r) Learn Storm Bolt - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[arsp]
+Tip=(|cffffcc00R|r) Stampede - [|cffffcc00Level 1|r],(|cffffcc00R|r) Stampede - [|cffffcc00Level 2|r]
+Researchtip=(|cffffcc00R|r) Learn Stampede - [|cffffcc00Level %d|r]
+Hotkey=R
+Researchhotkey=R
+
+// Campaign hero - Pandaren Brewmaster
+[ancf]
+Tip=(|cffffcc00Q|r) Breath Of Fire - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Breath Of Fire - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Breath Of Fire - [|cffffcc00Level 3|r],(|cffffcc00Q|r) Breath Of Fire - [|cffffcc00Level 4|r]
+Researchtip=(|cffffcc00Q|r) Learn Breath Of Fire - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[acdh]
+Tip=(|cffffcc00W|r) Drunken Haze - [|cffffcc00Level 1|r],(|cffffcc00W|r) Drunken Haze - [|cffffcc00Level 2|r],(|cffffcc00W|r) Drunken Haze - [|cffffcc00Level 3|r],(|cffffcc00W|r) Drunken Haze - [|cffffcc00Level 4|r]
+Researchtip=(|cffffcc00W|r) Learn Drunken Haze - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[acdb]
+Researchtip=(|cffffcc00E|r) Learn Drunken Brawler - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[acef]
+Tip=(|cffffcc00R|r) Storm,(|cffffcc00R|r)  Earth,(|cffffcc00R|r)  And Fire - [|cffffcc00Level 1|r],(|cffffcc00R|r) Storm,(|cffffcc00R|r)  Earth,(|cffffcc00R|r)  And Fire - [|cffffcc00Level 2|r]
+Researchtip=(|cffffcc00R|r) Learn Storm, Earth, And Fire - [|cffffcc00Level %d|r]
+Hotkey=R
+Researchhotkey=R
+
+// Campaign hero - Shadow Hunter
+[anhw]
+Tip=(|cffffcc00Q|r) Healing Wave - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Healing Wave - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Healing Wave - [|cffffcc00Level 3|r],(|cffffcc00Q|r) Healing Wave - [|cffffcc00Level 4|r]
+Researchtip=(|cffffcc00Q|r) Learn Healing Wave - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[anhx]
+Tip=(|cffffcc00W|r) Hex - [|cffffcc00Level 1|r],(|cffffcc00W|r) Hex - [|cffffcc00Level 2|r],(|cffffcc00W|r) Hex - [|cffffcc00Level 3|r],(|cffffcc00W|r) Hex - [|cffffcc00Level 4|r]
+Researchtip=(|cffffcc00W|r) Learn Hex - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[arsw]
+Tip=(|cffffcc00E|r) Serpent Ward - [|cffffcc00Level 1|r],(|cffffcc00E|r) Serpent Ward - [|cffffcc00Level 2|r],(|cffffcc00E|r) Serpent Ward - [|cffffcc00Level 3|r],(|cffffcc00E|r) Serpent Ward - [|cffffcc00Level 4|r]
+Researchtip=(|cffffcc00E|r) Learn Serpent Ward - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[aols]
+Tip=(|cffffcc00R|r) Voodoo Spirits - [|cffffcc00Level 1|r],(|cffffcc00R|r) Voodoo Spirits - [|cffffcc00Level 2|r]
+Researchtip=(|cffffcc00R|r) Learn Voodoo Spirits - [|cffffcc00Level %d|r]
+Hotkey=R
+Researchhotkey=R
+
+// Campaign hero - Tauren Chieftain
+[aos2]
+Tip=(|cffffcc00Q|r) Shockwave - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Shockwave - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Shockwave - [|cffffcc00Level 3|r],(|cffffcc00Q|r) Shockwave - [|cffffcc00Level 4|r]
+Researchtip=(|cffffcc00Q|r) Learn Shockwave - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[aow2]
+Tip=(|cffffcc00W|r) War Stomp - [|cffffcc00Level 1|r],(|cffffcc00W|r) War Stomp - [|cffffcc00Level 2|r],(|cffffcc00W|r) War Stomp - [|cffffcc00Level 3|r],(|cffffcc00W|r) War Stomp - [|cffffcc00Level 4|r]
+Researchtip=(|cffffcc00W|r) Learn War Stomp - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[aor2]
+Researchtip=(|cffffcc00E|r) Learn Endurance Aura - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[aor3]
+Researchtip=(|cffffcc00R|r) Learn Reincarnation - [|cffffcc00Level %d|r]
+Researchhotkey=R
+
+// Campaign units - reveal, transport, Goblin Sapper, and workers
+[andt]
+Tip=(|cffffcc00R|r) Reveal
+Hotkey=R
+
+[aloa]
+Tip=(|cffffcc00Q|r) Load
+Hotkey=Q
+
+[adro]
+Tip=(|cffffcc00W|r) Unload All
+Hotkey=W
+
+[asds]
+Tip=(|cffffcc00Q|r) Kaboom!
+Hotkey=Q
+
+[ahr3]
+Tip=(|cffffcc00F|r) Gather
+UnTip=(|cffffcc00F|r) Return Resources
+Hotkey=F
+Unhotkey=F
+
+[acsf]
+Tip=(|cffffcc00W|r) Feral Spirit
+Hotkey=W
+
+// Neutral hero - Beastmaster
+[ANsg]
+Tip=(|cffffcc00Q|r) Summon Bear - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Summon Bear - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Summon Bear - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Summon Bear - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[ANsq]
+Tip=(|cffffcc00W|r) Quilbeast - [|cffffcc00Level 1|r],(|cffffcc00W|r) Quilbeast - [|cffffcc00Level 2|r],(|cffffcc00W|r) Quilbeast - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Quilbeast - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[ANsw]
+Tip=(|cffffcc00E|r) Summon Hawk - [|cffffcc00Level 1|r],(|cffffcc00E|r) Summon Hawk - [|cffffcc00Level 2|r],(|cffffcc00E|r) Summon Hawk - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00E|r) Learn Summon Hawk - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[ANst]
+Tip=(|cffffcc00R|r) Stampede
+Researchtip=(|cffffcc00R|r) Learn Stampede
+Hotkey=R
+Researchhotkey=R
+
+// Neutral hero - Dark Ranger
+[ansi]
+Tip=(|cffffcc00Q|r) Silence - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Silence - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Silence - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Silence - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[anba]
+Tip=(|cffffcc00W|r) Black Arrow - [|cffffcc00Level 1|r],(|cffffcc00W|r) Black Arrow - [|cffffcc00Level 2|r],(|cffffcc00W|r) Black Arrow - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Black Arrow - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[andr]
+Tip=(|cffffcc00E|r) Life Drain - [|cffffcc00Level 1|r],(|cffffcc00E|r) Life Drain - [|cffffcc00Level 2|r],(|cffffcc00E|r) Life Drain - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00E|r) Learn Life Drain - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[anch]
+Tip=(|cffffcc00R|r) Charm
+Researchtip=(|cffffcc00R|r) Learn Charm
+Hotkey=R
+Researchhotkey=R
+
+// Neutral hero - Naga Sea Witch
+[anfl]
+Tip=(|cffffcc00Q|r) Forked Lightning - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Forked Lightning - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Forked Lightning - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Forked Lightning - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[anfa]
+Tip=(|cffffcc00W|r) Frost Arrows - [|cffffcc00Level 1|r],(|cffffcc00W|r) Frost Arrows - [|cffffcc00Level 2|r],(|cffffcc00W|r) Frost Arrows - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Frost Arrows - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[anms]
+Tip=(|cffffcc00E|r) Activate Mana Shield - [|cffffcc00Level 1|r],(|cffffcc00E|r) Activate Mana Shield - [|cffffcc00Level 2|r],(|cffffcc00E|r) Activate Mana Shield - [|cffffcc00Level 3|r]
+UnTip=(|cffffcc00E|r) Deactivate Mana Shield
+Researchtip=(|cffffcc00E|r) Learn Activate Mana Shield - [|cffffcc00Level %d|r]
+Hotkey=E
+Unhotkey=E
+Researchhotkey=E
+
+[anto]
+Tip=(|cffffcc00R|r) Tornado
+Researchtip=(|cffffcc00R|r) Learn Tornado
+Hotkey=R
+Researchhotkey=R
+
+// Neutral hero - Pandaren Brewmaster
+[anbf]
+Tip=(|cffffcc00Q|r) Breath of Fire - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Breath of Fire - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Breath of Fire - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Breath of Fire - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[andh]
+Tip=(|cffffcc00W|r) Drunken Haze - [|cffffcc00Level 1|r],(|cffffcc00W|r) Drunken Haze - [|cffffcc00Level 2|r],(|cffffcc00W|r) Drunken Haze - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Drunken Haze - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[andb]
+Researchtip=(|cffffcc00E|r) Learn Drunken Brawler - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[anef]
+Tip=(|cffffcc00R|r) Storm, Earth, And Fire
+Researchtip=(|cffffcc00R|r) Learn Storm, Earth, And Fire
+Hotkey=R
+Researchhotkey=R
+
+// Neutral hero - Pit Lord
+[anrf]
+Tip=(|cffffcc00Q|r) Rain of Fire - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Rain of Fire - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Rain of Fire - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Rain of Fire - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[anht]
+Tip=(|cffffcc00W|r) Howl of Terror - [|cffffcc00Level 1|r],(|cffffcc00W|r) Howl of Terror - [|cffffcc00Level 2|r],(|cffffcc00W|r) Howl of Terror - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Howl of Terror - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[anca]
+Researchtip=(|cffffcc00E|r) Learn Cleaving Attack - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[ando]
+Tip=(|cffffcc00R|r) Doom
+Researchtip=(|cffffcc00R|r) Learn Doom
+Hotkey=R
+Researchhotkey=R
+
+// Neutral hero - Firelord
+[anso]
+Tip=(|cffffcc00Q|r) Soul Burn - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Soul Burn - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Soul Burn - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Soul Burn - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[anlm]
+Tip=(|cffffcc00W|r) Summon Lava Spawn - [|cffffcc00Level 1|r],(|cffffcc00W|r) Summon Lava Spawn - [|cffffcc00Level 2|r],(|cffffcc00W|r) Summon Lava Spawn - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Summon Lava Spawn - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[ania]
+Tip=(|cffffcc00E|r) Incinerate - [|cffffcc00Level 1|r],(|cffffcc00E|r) Incinerate - [|cffffcc00Level 2|r],(|cffffcc00E|r) Incinerate - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00E|r) Learn Incinerate - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[anvc]
+Tip=(|cffffcc00R|r) Volcano
+Researchtip=(|cffffcc00R|r) Learn Volcano
+Hotkey=R
+Researchhotkey=R
+
+// Neutral hero - Alchemist
+[anhs]
+Tip=(|cffffcc00Q|r) Healing Spray - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Healing Spray - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Healing Spray - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Healing Spray - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[anab]
+Tip=(|cffffcc00E|r) Acid Bomb - [|cffffcc00Level 1|r],(|cffffcc00E|r) Acid Bomb - [|cffffcc00Level 2|r],(|cffffcc00E|r) Acid Bomb - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00E|r) Learn Acid Bomb - [|cffffcc00Level %d|r]
+Hotkey=E
+Researchhotkey=E
+
+[ancr]
+Tip=(|cffffcc00W|r) Chemical Rage - [|cffffcc00Level 1|r],(|cffffcc00W|r) Chemical Rage - [|cffffcc00Level 2|r],(|cffffcc00W|r) Chemical Rage - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Chemical Rage - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[antm]
+Tip=(|cffffcc00R|r) Transmute
+Researchtip=(|cffffcc00R|r) Learn Transmute
+Hotkey=R
+Researchhotkey=R
+
+// Neutral hero - Tinker and upgraded ability variants
+[ansy]
+Tip=(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Pocket Factory - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[ans1]
+Tip=(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Pocket Factory - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[ans2]
+Tip=(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Pocket Factory - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[ans3]
+Tip=(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 1|r],(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 2|r],(|cffffcc00Q|r) Pocket Factory - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00Q|r) Learn Pocket Factory - [|cffffcc00Level %d|r]
+Hotkey=Q
+Researchhotkey=Q
+
+[ancs]
+Tip=(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 1|r],(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 2|r],(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Cluster Rockets - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[anc1]
+Tip=(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 1|r],(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 2|r],(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Cluster Rockets - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[anc2]
+Tip=(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 1|r],(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 2|r],(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Cluster Rockets - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[anc3]
+Tip=(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 1|r],(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 2|r],(|cffffcc00W|r) Cluster Rockets - [|cffffcc00Level 3|r]
+Researchtip=(|cffffcc00W|r) Learn Cluster Rockets - [|cffffcc00Level %d|r]
+Hotkey=W
+Researchhotkey=W
+
+[aneg]
+Researchtip=(|cffffcc00E|r) Learn Engineering Upgrade - [|cffffcc00Level %d|r]
+Researchhotkey=E
+
+[anrg]
+Tip=(|cffffcc00R|r) Robo-Goblin
+Researchtip=(|cffffcc00R|r) Learn Robo-Goblin
+Hotkey=R
+Researchhotkey=R
+
+[ang1]
+Tip=(|cffffcc00R|r) Robo-Goblin
+Researchtip=(|cffffcc00R|r) Learn Robo-Goblin
+Hotkey=R
+Researchhotkey=R
+
+[ang2]
+Tip=(|cffffcc00R|r) Robo-Goblin
+Researchtip=(|cffffcc00R|r) Learn Robo-Goblin
+Hotkey=R
+Researchhotkey=R
+
+[ang3]
+Tip=(|cffffcc00R|r) Robo-Goblin
+Researchtip=(|cffffcc00R|r) Learn Robo-Goblin
+Hotkey=R
+Researchhotkey=R
+
+// Neutral units and alternate hero abilities
+[anwk]
+Tip=(|cffffcc00E|r) Wind Walk
+Hotkey=E
+
+[anta]
+Tip=(|cffffcc00W|r) Taunt
+Hotkey=W
+
+[acrf]
+Tip=(|cffffcc00R|r) Rain of Fire
+Hotkey=R
+
+[anbl]
+Tip=(|cffffcc00Q|r) Blink
+Hotkey=Q
+
+[afzy]
+Tip=(|cffffcc00Q|r) Frenzy
+Hotkey=Q
+
+[asdg]
+Tip=(|cffffcc00Q|r) Kaboom!
+Hotkey=Q
+
+[asd1]
+Tip=(|cffffcc00Q|r) Kaboom!
+Hotkey=Q
+
+[asd2]
+Tip=(|cffffcc00Q|r) Kaboom!
+Hotkey=Q
+
+[asd3]
+Tip=(|cffffcc00Q|r) Kaboom!
+Hotkey=Q
+
+// Neutral creeps - shared active abilities
+[acbk]
+Tip=(|cffffcc00Q|r) Black Arrow
+Hotkey=Q
+
+[acbb]
+Tip=(|cffffcc00Q|r) Bloodlust
+Hotkey=Q
+
+[acbl]
+Tip=(|cffffcc00Q|r) Bloodlust
+Hotkey=Q
+
+[acbc]
+Tip=(|cffffcc00Q|r) Breath of Fire
+Hotkey=Q
+
+[acbz]
+Tip=(|cffffcc00Q|r) Blizzard
+Hotkey=Q
+
+[accn]
+Tip=(|cffffcc00Q|r) Cannibalize
+Hotkey=Q
+
+[accv]
+Tip=(|cffffcc00Q|r) Crushing Wave
+Hotkey=Q
+
+[accw]
+Tip=(|cffffcc00Q|r) Cold Arrows
+Hotkey=Q
+
+[accs]
+Tip=(|cffffcc00Q|r) Curse
+Hotkey=Q
+
+[acdc]
+Tip=(|cffffcc00Q|r) Death Coil
+Hotkey=Q
+
+[acdv]
+Tip=(|cffffcc00Q|r) Devour
+Hotkey=Q
+
+[acen]
+Tip=(|cffffcc00Q|r) Ensnare
+Hotkey=Q
+
+[aenr]
+Tip=(|cffffcc00Q|r) Entangling Roots
+Hotkey=Q
+
+[aenw]
+Tip=(|cffffcc00Q|r) Entangling Roots
+Hotkey=Q
+
+[acff]
+Tip=(|cffffcc00Q|r) Faerie Fire
+Hotkey=Q
+
+[afa2]
+Tip=(|cffffcc00Q|r) Faerie Fire
+Hotkey=Q
+
+[acfb]
+Tip=(|cffffcc00Q|r) Firebolt
+Hotkey=Q
+
+[acfd]
+Tip=(|cffffcc00Q|r) Finger of Pain
+Hotkey=Q
+
+[acfn]
+Tip=(|cffffcc00Q|r) Frost Nova
+Hotkey=Q
+
+[anh2]
+Tip=(|cffffcc00Q|r) Heal
+Hotkey=Q
+
+[achw]
+Tip=(|cffffcc00Q|r) Healing Ward
+Hotkey=Q
+
+[achv]
+Tip=(|cffffcc00Q|r) Healing Wave
+Hotkey=Q
+
+[acht]
+Tip=(|cffffcc00Q|r) Howl of Terror
+Hotkey=Q
+
+[actb]
+Tip=(|cffffcc00Q|r) Hurl Boulder
+Hotkey=Q
+
+[acbf]
+Tip=(|cffffcc00Q|r) Breath of Frost
+Hotkey=Q
+
+[acdr]
+Tip=(|cffffcc00Q|r) Life Drain
+Hotkey=Q
+
+[ambb]
+Tip=(|cffffcc00Q|r) Mana Burn
+Hotkey=Q
+
+[ambd]
+Tip=(|cffffcc00Q|r) Mana Burn
+Hotkey=Q
+
+[acmo]
+Tip=(|cffffcc00Q|r) Monsoon
+Hotkey=Q
+
+[acpa]
+Tip=(|cffffcc00Q|r) Parasite
+Hotkey=Q
+
+[acpu]
+Tip=(|cffffcc00Q|r) Purge
+Hotkey=Q
+
+[acrd]
+Tip=(|cffffcc00Q|r) Raise Dead
+Hotkey=Q
+
+[acro]
+Tip=(|cffffcc00Q|r) Roar
+Hotkey=Q
+
+[acr2]
+Tip=(|cffffcc00Q|r) Rejuvenation
+Hotkey=Q
+
+[acsi]
+Tip=(|cffffcc00Q|r) Silence
+Hotkey=Q
+
+[acs2]
+Tip=(|cffffcc00Q|r) Slow
+Hotkey=Q
+
+[acdm]
+Tip=(|cffffcc00W|r) Abolish Magic
+Hotkey=W
+
+[acca]
+Tip=(|cffffcc00W|r) Carrion Swarm
+Hotkey=W
+
+[accb]
+Tip=(|cffffcc00W|r) Frost Bolt
+Hotkey=W
+
+[accy]
+Tip=(|cffffcc00W|r) Cyclone
+Hotkey=W
+
+[acde]
+Tip=(|cffffcc00W|r) Devour Magic
+Hotkey=W
+
+[acds]
+Tip=(|cffffcc00W|r) Activate Divine Shield
+Hotkey=W
+
+[achx]
+Tip=(|cffffcc00W|r) Hex
+Hotkey=W
+
+[acs9]
+Tip=(|cffffcc00W|r) Feral Spirit
+Hotkey=W
+
+[acsh]
+Tip=(|cffffcc00Q|r) Shockwave
+Hotkey=Q
+
+[anfb]
+Tip=(|cffffcc00W|r) Firebolt
+Hotkey=W
+
+[acfl]
+Tip=(|cffffcc00W|r) Forked Lightning
+Hotkey=W
+
+[anh1]
+Tip=(|cffffcc00Q|r) Heal
+Hotkey=Q
+
+[acim]
+Tip=(|cffffcc00W|r) Activate Immolation
+UnTip=(|cffffcc00W|r) Deactivate Immolation
+Hotkey=W
+Unhotkey=W
+
+[acls]
+Tip=(|cffffcc00W|r) Lightning Shield
+Hotkey=W
+
+[acmf]
+Tip=(|cffffcc00W|r) Activate Mana Shield
+UnTip=(|cffffcc00W|r) Deactivate Mana Shield
+Hotkey=W
+Unhotkey=W
+
+[acrj]
+Tip=(|cffffcc00W|r) Rejuvenation
+Hotkey=W
+
+[acsa]
+Tip=(|cffffcc00W|r) Searing Arrows
+Hotkey=W
+
+[actc]
+Tip=(|cffffcc00W|r) Slam
+Hotkey=W
+
+[acsl]
+Tip=(|cffffcc00W|r) Sleep
+Hotkey=W
+
+[acsw]
+Tip=(|cffffcc00Q|r) Slow
+Hotkey=Q
+
+[awrs]
+Tip=(|cffffcc00W|r) War Stomp
+Hotkey=W
+
+[acwb]
+Tip=(|cffffcc00W|r) Web
+Hotkey=W
+
+[ache]
+Tip=(|cffffcc00W|r) Cast Ray of Disruption
+Hotkey=W
+
+[acwe]
+Tip=(|cffffcc00E|r) Summon Sea Elemental
+Hotkey=E
+
+[accl]
+Tip=(|cffffcc00E|r) Chain Lightning
+Hotkey=E
+
+[accr]
+Tip=(|cffffcc00E|r) Cripple
+Hotkey=E
+
+[acif]
+Tip=(|cffffcc00E|r) Inner Fire
+Hotkey=E
+
+[acps]
+Tip=(|cffffcc00E|r) Possession
+Hotkey=E
+
+[acss]
+Tip=(|cffffcc00E|r) Shadow Strike
+Hotkey=E
+
+[aslp]
+Tip=(|cffffcc00E|r) Summon Prawns
+Hotkey=E
+
+[awrh]
+Tip=(|cffffcc00E|r) War Stomp
+Hotkey=E
+
+[acad]
+Tip=(|cffffcc00R|r) Animate Dead
+Hotkey=R
+
+[acch]
+Tip=(|cffffcc00R|r) Charm
+Hotkey=R
+
+[acpy]
+Tip=(|cffffcc00R|r) Polymorph
+Hotkey=R
+
+[anin]
+Tip=(|cffffcc00R|r) Inferno
+Hotkey=R
