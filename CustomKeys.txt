@@ -1,0 +1,4093 @@
+///////////////////////////////////////////////////////////////////////////////
+// This file was created with
+// AucT DotA CustomKeys Generator
+// https://dotacustomkeys.auct.eu/
+// 
+// Map: DotA Allstars v6.83-6.83d
+//
+///////////////////////////////////////////////////////////////////////////////
+
+[a0jz]
+Tip=[|cff81BAFFF|r] Burst
+Hotkey=F
+[a0rk]
+Tip=[|cff81BAFFF|r] Courier Shield
+Hotkey=F
+[a0ot]
+Tip=[|cff81BAFFD|r] Change Courier Type
+Hotkey=D
+[h0de]
+Tip=[|cff81BAFFE|r] Resume Delivery
+Hotkey=E
+[a138]
+Tip=[|cff81BAFFW|r] Drop Items
+Hotkey=W
+[a1as]
+Tip=[|cff81BAFFQ|r] Return Home
+Hotkey=Q
+//Transfer Items
+[h085]
+Tip=[|cff81BAFFT|r] Transfer Items
+Hotkey=T
+[h0bv]
+Tip=[|cff81BAFFR|r] Collect Your Items
+Hotkey=R
+//Find Secret Shop
+[a2ks]
+Tip=[|cff81BAFFG|r] Fild Secret Shop
+Hotkey=G
+////////////////////////////////////
+//           Creeps   |cffffcc00  //
+////////////////////////////////////
+[Act2]
+Tip=[|cff81BAFFQ|r] Slam
+Hotkey=Q
+
+[Acuf]
+Tip=[|cff81BAFFW|r] Unholy frenzy
+Hotkey=W
+
+
+
+[Acf2]
+Tip=[|cff81BAFFD|r] Frost Armor
+Hotkey=D
+[Anh1]
+Tip=[|cff81BAFFQ|r] Heal
+Hotkey=Q
+[Acpu]
+Tip=[|cff81BAFFQ|r] Purge
+Hotkey=Q
+[Ambd]
+Tip=[|cff81BAFFQ|r] Mana Burn
+Hotkey=Q
+[Acsh]
+Tip=[|cff81BAFFQ|r] Shockwave
+Hotkey=Q
+[A0xd]
+Tip=[|cff81BAFFQ|r] Frost Attack
+Hotkey=Q
+[Acen]
+Tip=[|cff81BAFFQ|r] Ensnare
+Hotkey=Q
+[Acrd]
+Tip=[|cff81BAFFW|r] Raise Dead
+Hotkey=W
+[Awrs]
+Tip=[|cff81BAFFQ|r] War Stomp
+Hotkey=Q
+[Anto]
+Tip=[|cff81BAFFQ|r] Tornado
+Hotkey=Q
+[A0wz]
+Tip=[|cff81BAFFQ|r] Thunder Clap
+Hotkey=Q
+[A0gv]
+Tip=[|cff81BAFFQ|r] Mana Burn [|cffffcc00Level 1|r]
+Hotkey=Q
+[A0jv]
+Tip=[|cff81BAFFQ|r] Mana Burn - [|cffffcc00Level 2|r]
+Hotkey=Q
+[A0jw]
+Tip=[|cff81BAFFQ|r] Mana Burn - [|cffffcc00Level 3|r]
+Hotkey=Q
+[Accl]
+Tip=[|cff81BAFFQ|r] Chain Lightning
+Hotkey=Q
+
+
+/////////////////////////////////
+//The Oracle (Nerif)
+[n0md]
+Hotkey=F
+Buttonpos=3,1
+//Fortune's End
+[A2qt]
+Tip=[|cff81BAFFQ|r] Fortune's End - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Fortune's End - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Fortune's End - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Fortune's End - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Fortune's End - [|cffffcc00Level %d|r]"
+Hotkey=Q
+UnHotkey=Q
+Researchhotkey=Q
+
+//Fate's Edict
+[A2t5]
+Tip=[|cff81BAFFW|r] Fate's Edict - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Fate's Edict - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Fate's Edict - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Fate's Edict - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Fate's Edict - [|cffffcc00Level %d|r]"
+Hotkey=W
+UnHotkey=W
+Researchhotkey=W
+
+//Purifying Flames
+[A2sg]
+Tip=[|cff81BAFFE|r] Purifying Flames - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Purifying Flames - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Purifying Flames - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Purifying Flames - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Purifying Flames - [|cffffcc00Level %d|r]"
+Hotkey=E
+UnHotkey=E
+Researchhotkey=E
+
+//False Promise
+[A2tf]
+Tip=[|cff81BAFFR|r] False Promise - [|cffffcc00Level 1|r],[|cff81BAFFR|r] False Promise - [|cffffcc00Level 2|r],[|cff81BAFFR|r] False Promise - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn False Promise - [|cffffcc00Level %d|r]"
+Hotkey=R
+UnHotkey=R
+Researchhotkey=R
+
+
+/////////////////////////////////
+//The earth spirit (Kaolin)
+[n0mu]
+Buttonpos=0,2
+Hotkey=Z
+
+//Stone Caller
+[A2th]
+Tip=[|cff81BAFFD|r] Stone Caller
+Hotkey=D
+UnHotkey=D
+
+//Stone Caller
+[A31k]
+Tip=[|cff81BAFFD|r] Stone Caller
+Hotkey=D
+UnHotkey=D
+//Stone Caller
+[A31i]
+Tip=[|cff81BAFFD|r] Stone Caller
+Hotkey=D
+UnHotkey=D
+//Stone Caller
+[A31l]
+Tip=[|cff81BAFFD|r] Stone Caller
+Hotkey=D
+UnHotkey=D
+//Stone Caller
+[A31g]
+Tip=[|cff81BAFFD|r] Stone Caller
+Hotkey=D
+UnHotkey=D
+//Stone Caller
+[A31j]
+Tip=[|cff81BAFFD|r] Stone Caller
+Hotkey=D
+UnHotkey=D
+[A31h]
+Tip=[|cff81BAFFD|r] Stone Caller
+Hotkey=D
+UnHotkey=D
+
+[A2s9]
+Tip=[|cff81BAFFF|r] Petrify
+Hotkey=F
+UnHotkey=F
+
+//Boulder Smash
+[A2qm]
+Tip=[|cff81BAFFQ|r] Boulder Smash - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Boulder Smash - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Boulder Smash - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Boulder Smash - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Boulder Smash - [|cffffcc00Level %d|r]"
+Hotkey=Q
+UnHotkey=Q
+Researchhotkey=Q
+
+//Boulder Smash 6.79
+[A2uu]
+Tip=[|cff81BAFFQ|r] Boulder Smash - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Boulder Smash - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Boulder Smash - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Boulder Smash - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Boulder Smash - [|cffffcc00Level %d|r]"
+Hotkey=Q
+UnHotkey=Q
+Researchhotkey=Q
+
+//Rolling Boulder
+[A2tj]
+Tip=[|cff81BAFFW|r] Rolling Boulder - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Rolling Boulder - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Rolling Boulder - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Rolling Boulder - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Rolling Boulder - [|cffffcc00Level %d|r]"
+Hotkey=W
+UnHotkey=W
+Researchhotkey=W
+
+//Geomagnetic Grip
+[A2qi]
+Tip=[|cff81BAFFE|r] Geomagnetic Grip - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Geomagnetic Grip - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Geomagnetic Grip - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Geomagnetic Grip - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Geomagnetic Grip - [|cffffcc00Level %d|r]"
+Hotkey=E
+UnHotkey=E
+Researchhotkey=E
+
+//Magnetize
+[A2ti]
+Tip=[|cff81BAFFR|r] Magnetize - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Magnetize - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Magnetize - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Magnetize - [|cffffcc00Level %d|r]"
+Hotkey=R
+UnHotkey=R
+Researchhotkey=R
+
+//Winter Wyvern
+[n0m7]
+Hotkey=F
+Buttonpos=3,1
+[A2NE]
+Tip=[|cff81BAFFQ|r] Arctic Burn - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Arctic Burn - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Arctic Burn - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Arctic Burn - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Arctic Burn - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2LA]
+Tip=[|cff81BAFFW|r] Splinter Blast - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Splinter Blast - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Splinter Blast - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Splinter Blast - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Splinter Blast - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2LB]
+Tip=[|cff81BAFFR|r] Cold Embrace - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Cold Embrace - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Cold Embrace - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Cold Embrace - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0Z0]
+Tip=[|cff81BAFFR|r] Winter's Curse - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Winter's Curse - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Winter's Curse - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Winter's Curse - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+
+//Arc Warden
+[n0mk]
+Hotkey=A
+Buttonpos=0,1
+[A2M1]
+Tip=[|cff81BAFFQ|r] Flux - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Flux - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Flux - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Flux - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Flux - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2LM]
+Tip=[|cff81BAFFW|r] Magnetic Field - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Magnetic Field - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Magnetic Field - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Magnetic Field - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Magnetic Field - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2LL]
+Tip=[|cff81BAFFE|r] Spark Wraith - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Spark Wraith - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Spark Wraith - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Spark Wraith - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Spark Wraith - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A2M0]
+Tip=[|cff81BAFFR|r] Tempest Double - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Tempest Double - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Tempest Double - [|cffffcc00Level 3|r],[|cff81BAFFR|r] Tempest Double - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFR|r] Learn Tempest Double - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+//Kunkka
+[H06S]
+Hotkey=Q
+Buttonpos=0,0
+[A136]
+Tip=[|cff81BAFFQ|r] Torrent - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Torrent - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Torrent - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Torrent - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Torrent - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A13t]
+Researchtip="[|cff81BAFFW|r] Learn Tidebringer - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A13d]
+Tip=[|cff81BAFFE|r] Return
+Hotkey=E
+[A11n]
+Tip=[|cff81BAFFE|r] X marks the spot - [|cffffcc00Level 1|r],[|cff81BAFFE|r] X marks the spot - [|cffffcc00Level 2|r],[|cff81BAFFE|r] X marks the spot - [|cffffcc00Level 3|r],[|cff81BAFFE|r] X marks the spot - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn X marks the spot - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A11k]
+Tip=[|cff81BAFFR|r] Ghost Ship - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Ghost Ship - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Ghost Ship - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Ghost Ship - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Beastmaster (Rexxar)
+[H00D]
+Hotkey=W
+Buttonpos=1,0
+[A0o1]
+Tip=[|cff81BAFFQ|r] Wild Axes - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Wild Axes - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Wild Axes - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Wild Axes - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Wild Axes - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+Buttonpos=0,2
+[A0oo]
+Tip=[|cff81BAFFW|r] Call of the Wild - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Call of the Wild - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Call of the Wild - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Call of the Wild - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Call of the Wild - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+Buttonpos=1,2
+[A2u5]
+Tip=[|cff81BAFFF|r] Call of the Wild - [|cffffcc00Level 1|r],[|cff81BAFFF|r] Call of the Wild - [|cffffcc00Level 2|r],[|cff81BAFFF|r] Call of the Wild - [|cffffcc00Level 3|r],[|cff81BAFFF|r] Call of the Wild - [|cffffcc00Level 4|r]
+Hotkey=F
+Buttonpos=2,1
+[A0bd]
+Researchtip="[|cff81BAFFE|r] Learn Inner Beast - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+Buttonpos=2,2
+[A0o2]
+Tip=[|cff81BAFFR|r] Primal Roar - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Primal Roar - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Primal Roar - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Primal Roar - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A289]
+Tip=[|cff81BAFFR|r] Primal Roar - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Primal Roar - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Primal Roar - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Primal Roar - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Centaur Warchief (Bradwarden)
+[H000]
+Hotkey=E
+Buttonpos=2,0
+[A00s]
+Tip=[|cff81BAFFQ|r] Hoof Stomp - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Hoof Stomp - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Hoof Stomp - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Hoof Stomp - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Hoof Stomp - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2on]
+Tip=[|cff81BAFFW|r] Double Edge - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Double Edge - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Double Edge - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Double Edge - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Double Edge - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A00v]
+Researchtip="[|cff81BAFFE|r] Learn Return - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A01l]
+Researchtip="[|cff81BAFFR|r] Learn Great Fortitude - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+[A2O6]
+Tip=[|cff81BAFFR|r] Stampede - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Stampede - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Stampede - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Stampede - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Earthshaker (Raigor Stonehoof)
+[OTCH]
+Hotkey=R
+Buttonpos=3,0
+[A0sk]
+Tip=[|cff81BAFFQ|r] Fissure - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Fissure - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Fissure - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Fissure - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Fissure - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0dl]
+Tip=[|cff81BAFFW|r] Enchant Totem - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Enchant Totem - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Enchant Totem - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Enchant Totem - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Enchant Totem - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0dj]
+Researchtip="[|cff81BAFFE|r] Learn Aftershock - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0dh]
+Tip=[|cff81BAFFR|r] Echo Slam - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Echo Slam - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Echo Slam - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Echo Slam - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1ob]
+Tip=[|cff81BAFFR|r] Echo Slam - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Echo Slam - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Echo Slam - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Echo Slam - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Omniknight (Purist Thunderwrath)
+[HARF]
+Hotkey=A
+Buttonpos=0,1
+[A08n]
+Tip=[|cff81BAFFQ|r] Purification - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Purification - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Purification - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Purification - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Purification - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A08v]
+Tip=[|cff81BAFFW|r] Repel - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Repel - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Repel - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Repel - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Repel - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A06a]
+Researchtip="[|cff81BAFFE|r] Learn Degen Aura - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0er]
+Tip=[|cff81BAFFR|r] Guardian Angel - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Guardian Angel - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Guardian Angel - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Guardian Angel - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+//Guardian Angel (aghanims)
+[A2s8]
+Tip=[|cff81BAFFR|r] Guardian Angel - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Guardian Angel - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Guardian Angel - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Guardian Angel - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+/////////////////////////////////
+//Pandaren Brewmaster (Mangix)
+[NPBM]
+Hotkey=S
+Buttonpos=1,1
+[A06m]
+Tip=[|cff81BAFFQ|r] Thunder Clap - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Thunder Clap - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Thunder Clap - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Thunder Clap - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Thunder Clap - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[Acdh]
+Tip=[|cff81BAFFW|r] Drunken Haze - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Drunken Haze - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Drunken Haze - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Drunken Haze - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Drunken Haze - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0mx]
+Researchtip="[|cff81BAFFE|r] Learn Drunken Brawler - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0mq]
+Tip=[|cff81BAFFR|r] Primal Split - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Primal Split - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Primal Split - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Primal Split - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1b6]
+Tip=[|cff81BAFFR|r] Primal Split - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Primal Split - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Primal Split - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Primal Split - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+/////////////////////////////////
+//Earth
+[Actb]
+Tip=[|cff81BAFFW|r] Hurl Boulder
+Hotkey=W
+Buttonpos=1,2
+[Acpv]
+Buttonpos=1,1
+[Acmi]
+Buttonpos=2,2
+[Acrk]
+Buttonpos=2,1
+//Taunt
+[Anta]
+Tip=[|cff81BAFFR|r] Taunt
+Hotkey=R
+UnHotkey=R
+Buttonpos=3,2
+Unbuttonpos=3,2
+/////////////////////////////////
+//Storm
+[Anwk]
+Tip=[|cff81BAFFE|r] Wind Walk
+Hotkey=E
+Buttonpos=2,2
+[Accy]
+Tip=[|cff81BAFFR|r] Cyclone
+Hotkey=R
+Buttonpos=3,2
+[Adsm]
+Tip=[|cff81BAFFQ|r] Dispel Magic
+Hotkey=Q
+Buttonpos=0,2
+/////////////////////////////////
+//Rogue Knight (Sven)
+[H001]
+Hotkey=D
+Buttonpos=2,1
+[A190]
+Tip=[|cff81BAFFQ|r] Storm Bolt - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Storm Bolt - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Storm Bolt - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Storm Bolt - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Storm Bolt - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A01k]
+Researchtip="[|cff81BAFFW|r] Learn Great Cleave - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A2is]
+Tip=[|cff81BAFFE|r] Warcry - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Warcry - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Warcry - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Warcry - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Warcry - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A1wh]
+Tip=[|cff81BAFFR|r] God's Strength - [|cffffcc00Level 1|r],[|cff81BAFFR|r] God's Strength - [|cffffcc00Level 2|r],[|cff81BAFFR|r] God's Strength - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn God's Strength - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Stone Giant (Tiny)
+[UCRL]
+Hotkey=F
+Buttonpos=3,1
+[A0ll]
+Tip=[|cff81BAFFQ|r] Avalanche - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Avalanche - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Avalanche - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Avalanche - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Avalanche - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0bz]
+Tip=[|cff81BAFFW|r] Toss - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Toss - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Toss - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Toss - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Toss - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A19q]
+Researchtip="[|cff81BAFFE|r] Learn Craggy Exterior - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0cy]
+Researchtip="[|cff81BAFFR|r] Learn Grow! - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+/////////////////////////////////
+//Tauren Chieftain (Cairne Bloodhoof)
+[O015]
+Hotkey=Z
+Buttonpos=0,2
+[A1aa]
+Tip=[|cff81BAFFQ|r] Echo Stomp - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Echo Stomp - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Echo Stomp - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Echo Stomp - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Echo Stomp - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1a8]
+Tip=[|cff81BAFFW|r] Ancestral Spirit - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Ancestral Spirit - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Ancestral Spirit - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Ancestral Spirit - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Ancestral Spirit - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A21j]
+Tip=[|cff81BAFFW|r] End Ancestral Spirit
+Hotkey=W
+
+[A1cd]
+Researchtip="[|cff81BAFFE|r] Learn Natural Order - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A1a1]
+Tip=[|cff81BAFFR|r] Earth Splitter - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Earth Splitter - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Earth Splitter - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Earth Splitter - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2zh]
+Tip=[|cff81BAFFR|r] Earth Splitter - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Earth Splitter - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Earth Splitter - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Earth Splitter - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+
+//Ancestral Spirit
+
+//End Ancestral Spirit
+[A2ni]
+Tip=[|cff81BAFFW|r] End Ancestral Spirit
+Hotkey=W
+
+//Echo Stomp
+[A2lk]
+Tip=[|cff81BAFFQ|r] Echo Stomp
+Hotkey=Q
+
+/////////////////////////////////
+//Treant Protector (Rooftrellen)
+[HAMG]
+Hotkey=X
+Buttonpos=1,2
+
+//Eyes In The Forest
+[A01v]
+Tip=[|cff81BAFFD|r] Eyes In The Forest
+Hotkey=D
+UnHotkey=D
+
+[A01z]
+Tip=[|cff81BAFFQ|r] Nature's Guise - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Nature's Guise - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Nature's Guise - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Nature's Guise - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Nature's Guise - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A26n]
+Tip=[|cff81BAFFW|r] Leech Seed - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Leech Seed - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Leech Seed - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Leech Seed - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Leech Seed - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A24o]
+Tip=[|cff81BAFFE|r] Living Armor - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Living Armor - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Living Armor - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Living Armor - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Living Armor - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A2ML]
+Tip=[|cff81BAFFE|r] Living Armor - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Living Armor - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Living Armor - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Living Armor - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Living Armor - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A07z]
+Tip=[|cff81BAFFR|r] Overgrowth - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Overgrowth - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Overgrowth - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Overgrowth - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Guardian Wisp (Io)
+[o01f]
+Hotkey=C
+Buttonpos=2,2
+[A24b]
+Tip=[|cff81BAFFD|r] Push Out Spirits - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Push Out Spirits - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Push Out Spirits - [|cffffcc00Level 3|r],[|cff81BAFFD|r] Push Out Spirits - [|cffffcc00Level 4|r]
+Hotkey=D
+[A24a]
+Tip=[|cff81BAFFF|r] Pull In Spirits - [|cffffcc00Level 1|r],[|cff81BAFFF|r] Pull In Spirits - [|cffffcc00Level 2|r],[|cff81BAFFF|r] Pull In Spirits - [|cffffcc00Level 3|r],[|cff81BAFFF|r] Pull In Spirits - [|cffffcc00Level 4|r]
+Hotkey=F
+[A1ta]
+Tip=[|cff81BAFFQ|r] Tether - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Tether - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Tether - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Tether - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Tether - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1tu]
+Tip=[|cff81BAFFQ|r] End Tether - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] End Tether - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] End Tether - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] End Tether - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn End Tether - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1t8]
+Tip=[|cff81BAFFW|r] Spirits - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Spirits - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Spirits - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Spirits - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Spirits - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A28q]
+Tip=[|cff81BAFFE|r] Overcharge - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Overcharge - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Overcharge - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Overcharge - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Overcharge - [|cffffcc00Level %d|r]"
+Untip=[|cff81BAFFE|r] Overcharge - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Overcharge - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Overcharge - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Overcharge - [|cffffcc00Level 4|r]
+Hotkey=E
+Researchhotkey=E
+UnHotkey=E
+[A1tb]
+Tip=[|cff81BAFFR|r] Relocate - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Relocate - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Relocate - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Relocate - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Alchemist (Razzil Darkbrew)
+[N01I]
+Hotkey=V
+Buttonpos=3,2
+[A0il]
+Tip=[|cff81BAFFQ|r] Acid Spray - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Acid Spray - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Acid Spray - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Acid Spray - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Acid Spray - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1ni]
+Tip=[|cff81BAFFW|r] Unstable Concoction - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Unstable Concoction - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Unstable Concoction - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Unstable Concoction - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Unstable Concoction - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+
+[A1nh]
+Tip=[|cff81BAFFW|r] Unstable Concoction - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Unstable Concoction - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Unstable Concoction - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Unstable Concoction - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Unstable Concoction - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0o3]
+Researchtip="[|cff81BAFFE|r] Learn Goblin's Greed - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[Ancr]
+Tip=[|cff81BAFFR|r] Chemical Rage - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Chemical Rage - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Chemical Rage - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Chemical Rage - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+//Goblin (Clockwerk)
+[H00T]
+Hotkey=Q
+Buttonpos=0,0
+[A0z4]
+Tip=[|cff81BAFFQ|r] Battery Assault - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Battery Assault - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Battery Assault - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Battery Assault - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Battery Assault - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0z5]
+Tip=[|cff81BAFFW|r] Power Cog - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Power Cog - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Power Cog - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Power Cog - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Power Cog - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0z6]
+Tip=[|cff81BAFFE|r] Rocket Flare - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Rocket Flare - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Rocket Flare - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Rocket Flare - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Rocket Flare - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0z8]
+Tip=[|cff81BAFFR|r] HookShot - [|cffffcc00Level 1|r],[|cff81BAFFR|r] HookShot - [|cffffcc00Level 2|r],[|cff81BAFFR|r] HookShot - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn HookShot - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1cv]
+Tip=[|cff81BAFFR|r] Hookshot - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Hookshot - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Hookshot - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Hookshot - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Dragon Knight (Knight Davion)
+[HLGR]
+Hotkey=W
+Buttonpos=1,0
+
+//Breathe Fire
+[A03f]
+Tip=[|cff81BAFFQ|r] Breathe Fire - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Breathe Fire - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Breathe Fire - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Breathe Fire - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Breathe Fire - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0ar]
+Tip=[|cff81BAFFW|r] Dragon Tail - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Dragon Tail - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Dragon Tail - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Dragon Tail - [|cffffcc00Level 4|r]
+Hotkey=W
+[A2ai]
+Researchtip="[|cff81BAFFW|r] Learn Dragon Tail - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A0cl]
+Researchtip="[|cff81BAFFE|r] Learn Dragon Blood - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A03g]
+Tip=[|cff81BAFFR|r] Dragon Form - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Dragon Form - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Dragon Form - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Dragon Form - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Sacred Warrior (Huskar)
+[H00Q]
+Hotkey=E
+Buttonpos=2,0
+[A0qp]
+Tip=[|cff81BAFFQ|r] Inner Vitality - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Inner Vitality - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Inner Vitality - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Inner Vitality - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Inner Vitality - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0qn]
+Tip=[|cff81BAFFW|r] Burning Spear - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Burning Spear - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Burning Spear - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Burning Spear - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Burning Spear - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0qq]
+Researchtip="[|cff81BAFFE|r] Learn Berserker's Blood - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0qr]
+Tip=[|cff81BAFFR|r] Life Break - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Life Break - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Life Break - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Life Break - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1b3]
+Tip=[|cff81BAFFR|r] Life Break - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Life Break - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Life Break - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Life Break - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Bristleback (Rigwarl)
+[H008]
+Hotkey=R
+Buttonpos=3,0
+[A0fw]
+Tip=[|cff81BAFFQ|r] Viscous Nasal Goo - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Viscous Nasal Goo - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Viscous Nasal Goo - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Viscous Nasal Goo - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Viscous Nasal Goo - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0gp]
+Tip=[|cff81BAFFW|r] Quill Spray - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Quill Spray - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Quill Spray - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Quill Spray - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Quill Spray - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0m3]
+Researchtip="[|cff81BAFFE|r] Learn Bristleback - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0fv]
+Researchtip="[|cff81BAFFR|r] Learn Warpath - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+
+/////////////////////////////////
+//Phoenix (Icarus)
+[e02f]
+Hotkey=A
+Buttonpos=0,1
+[A1z3]
+Tip=[|cff81BAFFE|r] End Sun Ray - [|cffffcc00Level 1|r],[|cff81BAFFE|r] End Sun Ray - [|cffffcc00Level 2|r],[|cff81BAFFE|r] End Sun Ray - [|cffffcc00Level 3|r],[|cff81BAFFE|r] End Sun Ray - [|cffffcc00Level 4|r]
+Hotkey=E
+[A205]
+Tip=[|cff81BAFFF|r] Sunray Drift - [|cffffcc00Level 1|r],[|cff81BAFFF|r] Sunray Drift - [|cffffcc00Level 2|r],[|cff81BAFFF|r] Sunray Drift - [|cffffcc00Level 3|r],[|cff81BAFFF|r] Sunray Drift - [|cffffcc00Level 4|r]
+Untip=[|cff81BAFFF|r] End Sunray Drift
+Hotkey=F
+UnHotkey=F
+
+[A1rj]
+Tip=[|cff81BAFFQ|r] Icarus Dive - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Icarus Dive - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Icarus Dive - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Icarus Dive - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Icarus Dive - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A20n]
+Tip=[|cff81BAFFQ|r] End Icarus Dive - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] End Icarus Dive - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] End Icarus Dive - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] End Icarus Dive - [|cffffcc00Level 4|r]
+Hotkey=Q
+
+[A1yx]
+Tip=[|cff81BAFFW|r] Fire Spirits - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Fire Spirits - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Fire Spirits - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Fire Spirits - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Fire Spirits - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1z2]
+Tip=[|cff81BAFFW|r] Target Fire Spirits - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Target Fire Spirits - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Target Fire Spirits - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Target Fire Spirits - [|cffffcc00Level 4|r]
+Hotkey=W
+
+[A1yy]
+Tip=[|cff81BAFFE|r] Sun Ray - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Sun Ray - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Sun Ray - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Sun Ray - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Sun Ray - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+
+[A1rk]
+Tip=[|cff81BAFFR|r] Supernova - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Supernova - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Supernova - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Supernova - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2yr]
+Tip=[|cff81BAFFR|r] Supernova - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Supernova - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Supernova - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Supernova - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+//Old skills
+[A2M2]
+Tip=[|cff81BAFFQ|r] Icarus Dive - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Icarus Dive - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Icarus Dive - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Icarus Dive - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Icarus Dive - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2L1]
+Tip=[|cff81BAFFQ|r] Overheat - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Overheat - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Overheat - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Overheat - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Overheat - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2L0]
+Tip=[|cff81BAFFE|r] Sun Ray - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Sun Ray - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Sun Ray - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Sun Ray - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Sun Ray - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+
+/////////////////////////////////
+//Ymir (Tuskarr)
+[e02i]
+Hotkey=S
+Buttonpos=1,1
+[A1yo]
+Tip=[|cff81BAFFQ|r] Ice Shards - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Ice Shards - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Ice Shards - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Ice Shards - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Ice Shards - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1s7]
+Tip=[|cff81BAFFW|r] Snowball - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Snowball - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Snowball - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Snowball - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Snowball - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+//681b
+[A2xk]
+Tip=[|cff81BAFFW|r] Release Snowball - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Release Snowball - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Release Snowball - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Release Snowball - [|cffffcc00Level 4|r]
+Hotkey=W
+[A1yr]
+Tip=[|cff81BAFFE|r] Frozen Sigil - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Frozen Sigil - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Frozen Sigil - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Frozen Sigil - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Frozen Sigil - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A1yq]
+Tip=[|cff81BAFFR|r] Walrus Punch - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Walrus Punch - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Walrus Punch - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Walrus Punch - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Legion Commander (Tresdin)
+[E02K]
+Hotkey=D
+Buttonpos=2,1
+[A2jb]
+Tip=[|cff81BAFFQ|r] Overwhelming Odds - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Overwhelming Odds - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Overwhelming Odds - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Overwhelming Odds - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Overwhelming Odds - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2j2]
+Tip=[|cff81BAFFW|r] Press The Attack - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Press The Attack - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Press The Attack - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Press The Attack - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Press The Attack - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2ey]
+Researchtip="[|cff81BAFFE|r] Learn Moment of Courage - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A2ci]
+Tip=[|cff81BAFFR|r] Duel - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Duel - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Duel - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Duel - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Goblin Shredder (Rizzark)
+[E032]
+Hotkey=F
+Buttonpos=3,1
+
+//Chakram
+[A2yo]
+Tip=[|cff81BAFFF|r] Chakram - [|cffffcc00Level 1|r],[|cff81BAFFF|r] Chakram - [|cffffcc00Level 2|r],[|cff81BAFFF|r] Chakram - [|cffffcc00Level 3|r]
+Hotkey=F
+UnHotkey=F
+[A2e6]
+Tip=[|cff81BAFFF|r] Chakram Return - [|cffffcc00Level 1|r],[|cff81BAFFF|r] Chakram Return - [|cffffcc00Level 2|r],[|cff81BAFFF|r] Chakram Return - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFF|r] Learn Chakram Return - [|cffffcc00Level %d|r]"
+Hotkey=F
+Researchhotkey=F
+[A2fk]
+Tip=[|cff81BAFFQ|r] Whirling Death - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Whirling Death - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Whirling Death - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Whirling Death - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Whirling Death - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2e3]
+Tip=[|cff81BAFFW|r] Timber Chain - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Timber Chain - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Timber Chain - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Timber Chain - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Timber Chain - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2e4]
+Researchtip="[|cff81BAFFE|r] Learn Reactive Armor - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A2e5]
+Tip=[|cff81BAFFR|r] Chakram - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Chakram - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Chakram - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Chakram - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2fx]
+Tip=[|cff81BAFFR|r] Chakram Return - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Chakram Return - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Chakram Return - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Chakram Return - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+//Crystal Maiden (Rylai Crestfall)
+[HJAI]
+Hotkey=Q
+Buttonpos=0,0
+[A1e9]
+Tip=[|cff81BAFFQ|r] Crystal Nova - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Crystal Nova - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Crystal Nova - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Crystal Nova - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Crystal Nova - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A04c]
+Tip=[|cff81BAFFW|r] Frostbite - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Frostbite - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Frostbite - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Frostbite - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Frostbite - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[Ahab]
+Researchtip="[|cff81BAFFE|r] Learn Brilliance Aura - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A03r]
+Tip=[|cff81BAFFR|r] Freezing Field - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Freezing Field - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Freezing Field - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Freezing Field - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A0av]
+Tip=[|cff81BAFFR|r] Freezing Field - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Freezing Field - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Freezing Field - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Freezing Field - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Enchantress (Aiushtha)
+[EMOO]
+Hotkey=W
+Buttonpos=1,0
+[A0dw]
+Researchtip="[|cff81BAFFQ|r] Learn Untouchable - [|cffffcc00Level %d|r]"
+Researchhotkey=Q
+[A0dx]
+Tip=[|cff81BAFFW|r] Enchant - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Enchant - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Enchant - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Enchant - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Enchant - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A01b]
+Tip=[|cff81BAFFE|r] Nature's Attendants - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Nature's Attendants - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Nature's Attendants - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Nature's Attendants - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Nature's Attendants - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0dy]
+Tip=[|cff81BAFFR|r] Impetus - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Impetus - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Impetus - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Impetus - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1wb]
+Tip=[|cff81BAFFR|r] Impetus - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Impetus - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Impetus - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Impetus - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Faerie Dragon (Puck)
+[N00B]
+Hotkey=E
+Buttonpos=2,0
+[A0sa]
+Tip=[|cff81BAFFF|r] Ethereal Jaunt
+Hotkey=F
+[A0s9]
+Tip=[|cff81BAFFQ|r] Illusory Orb - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Illusory Orb - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Illusory Orb - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Illusory Orb - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Illusory Orb - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0sc]
+Tip=[|cff81BAFFW|r] Waning Rift - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Waning Rift - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Waning Rift - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Waning Rift - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Waning Rift - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0sb]
+Tip=[|cff81BAFFE|r] Phase Shift - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Phase Shift - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Phase Shift - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Phase Shift - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Phase Shift - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0s8]
+Tip=[|cff81BAFFR|r] Dream Coil - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Dream Coil - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Dream Coil - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Dream Coil - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1qp]
+Tip=[|cff81BAFFR|r] Dream Coil - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Dream Coil - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Dream Coil - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Dream Coil - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Holy Knight (Chen)
+[H00A]
+Hotkey=R
+Buttonpos=3,0
+[A0km]
+Tip=[|cff81BAFFQ|r] Penitence - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Penitence - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Penitence - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Penitence - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Penitence - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0lv]
+Tip=[|cff81BAFFW|r] Test of Faith - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Test of Faith - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Test of Faith - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Test of Faith - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Test of Faith - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2mc]
+Tip=[|cff81BAFFD|r] Test of Faith - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Test of Faith - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Test of Faith - [|cffffcc00Level 3|r],[|cff81BAFFD|r] Test of Faith - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFD|r] Learn Test of Faith - [|cffffcc00Level %d|r]"
+Hotkey=D
+Researchhotkey=D
+[A28t]
+Tip=[|cff81BAFFE|r] Holy Persuasion - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Holy Persuasion - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Holy Persuasion - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Holy Persuasion - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Holy Persuasion - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A2yn]
+Tip=[|cff81BAFFE|r] Holy Persuasion - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Holy Persuasion - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Holy Persuasion - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Holy Persuasion - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Holy Persuasion - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0lt]
+Tip=[|cff81BAFFR|r] Hand of God - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Hand of God - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Hand of God - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Hand of God - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1cs]
+Tip=[|cff81BAFFR|r] Hand of God - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Hand of God - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Hand of God - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Hand of God - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Keeper of the Light (Ezalor)
+[HBLM]
+Hotkey=A
+Buttonpos=0,1
+[A11w]
+Tip=[|cff81BAFFF|r] Blinding light level 3
+Hotkey=F
+[A11x]
+Tip=[|cff81BAFFF|r] Blinding light
+Hotkey=F
+[A11v]
+Tip=[|cff81BAFFF|r] Blinding light level 2
+Hotkey=F
+[A11y]
+Tip=[|cff81BAFFD|r] Recall level 2
+Hotkey=D
+[A11z]
+Tip=[|cff81BAFFD|r] Recall level 3
+Hotkey=D
+[A10u]
+Tip=[|cff81BAFFD|r] Recall
+Hotkey=D
+[A085]
+Tip=[|cff81BAFFQ|r] Illuminate - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Illuminate - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Illuminate - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Illuminate - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Illuminate - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A121]
+Tip=[|cff81BAFFQ|r] Illuminate discharge - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Illuminate discharge - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Illuminate discharge - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Illuminate discharge - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Illuminate discharge - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A10x]
+Tip=[|cff81BAFFW|r] Mana Leak - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Mana Leak - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Mana Leak - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Mana Leak - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Mana Leak - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A112]
+Tip=[|cff81BAFFE|r] Chakra Magic - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Chakra Magic - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Chakra Magic - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Chakra Magic - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Chakra Magic - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A11t]
+Tip=[|cff81BAFFR|r] Spirit form - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Spirit form - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Spirit form - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Spirit form - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+//6.81b
+[A2xq]
+Researchtip="[|cff81BAFFR|r] Learn Spirit form - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+[A2xr]
+Researchtip="[|cff81BAFFR|r] Learn Spirit form - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+
+/////////////////////////////////
+//Lord of Olympia (Zeus)
+[HMBR]
+Hotkey=S
+Buttonpos=1,1
+[A020]
+Tip=[|cff81BAFFQ|r] Arc Lightning - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Arc Lightning - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Arc Lightning - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Arc Lightning - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Arc Lightning - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0jc]
+Tip=[|cff81BAFFW|r] Lightning Bolt - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Lightning Bolt - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Lightning Bolt - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Lightning Bolt - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Lightning Bolt - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+//681b
+[A2wq]
+Tip=[|cff81BAFFW|r] Lightning Bolt - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Lightning Bolt - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Lightning Bolt - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Lightning Bolt - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Lightning Bolt - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0n5]
+Researchtip="[|cff81BAFFE|r] Learn Static Field - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A29g]
+Tip=[|cff81BAFFR|r] Thundergod's Wrath - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Thundergod's Wrath - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Thundergod's Wrath - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Thundergod's Wrath - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A29h]
+Tip=[|cff81BAFFR|r] Thundergod's Wrath - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Thundergod's Wrath - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Thundergod's Wrath - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Thundergod's Wrath - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Prophet (Furion)
+[EMNS]
+Hotkey=D
+Buttonpos=2,1
+[A21e]
+Tip=[|cff81BAFFQ|r] Sprout - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Sprout - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Sprout - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Sprout - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Sprout - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A01o]
+Tip=[|cff81BAFFW|r] Teleportation - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Teleportation - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Teleportation - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Teleportation - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Teleportation - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[Aefn]
+Tip=[|cff81BAFFE|r] Force of Nature - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Force of Nature - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Force of Nature - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Force of Nature - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Force of Nature - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A1w8]
+Tip=[|cff81BAFFR|r] Wrath of Nature - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Wrath of Nature - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Wrath of Nature - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Wrath of Nature - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1w9]
+Tip=[|cff81BAFFR|r] Wrath of Nature - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Wrath of Nature - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Wrath of Nature - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Wrath of Nature - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Silencer (Nortrom)
+[N01A]
+Hotkey=F
+Buttonpos=3,1
+[A14l]
+Tip=[|cff81BAFFQ|r] Curse of the Silent - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Curse of the Silent - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Curse of the Silent - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Curse of the Silent - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Curse of the Silent - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0lz]
+Tip=[|cff81BAFFW|r] Glaives of Wisdom - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Glaives of Wisdom - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Glaives of Wisdom - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Glaives of Wisdom - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Glaives of Wisdom - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0mc]
+Researchtip="[|cff81BAFFE|r] Learn Last Word - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A2nt]
+Tip=[|cff81BAFFE|r] Last Word - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Last Word - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Last Word - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Last Word - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Last Word - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0l3]
+Tip=[|cff81BAFFR|r] Global Silence - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Global Silence - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Global Silence - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Global Silence - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+//Global Silence (aghanims)
+[A2qc]
+Tip=[|cff81BAFFR|r] Global Silence - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Global Silence - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Global Silence - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Global Silence - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+/////////////////////////////////
+//Slayer (Lina Inverse)
+[H004]
+Hotkey=Z
+Buttonpos=0,2
+[A01f]
+Tip=[|cff81BAFFQ|r] Dragon Slave - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Dragon Slave - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Dragon Slave - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Dragon Slave - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Dragon Slave - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A027]
+Tip=[|cff81BAFFW|r] Light Strike Array - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Light Strike Array - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Light Strike Array - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Light Strike Array - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Light Strike Array - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A18x]
+Researchtip="[|cff81BAFFE|r] Learn Fiery Soul - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A01p]
+Tip=[|cff81BAFFR|r] Laguna Blade - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Laguna Blade - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Laguna Blade - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Laguna Blade - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A09z]
+Tip=[|cff81BAFFR|r] Laguna Blade - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Laguna Blade - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Laguna Blade - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Laguna Blade - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Storm Spirit (Raijin Thunderkeg)
+[H00S]
+Hotkey=X
+Buttonpos=1,2
+[A14p]
+Tip=[|cff81BAFFQ|r] Static Remnant - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Static Remnant - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Static Remnant - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Static Remnant - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Static Remnant - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A14r]
+Tip=[|cff81BAFFW|r] Electric Vortex - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Electric Vortex - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Electric Vortex - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Electric Vortex - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Electric Vortex - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0qw]
+Researchtip="[|cff81BAFFE|r] Learn Overload - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A14o]
+Tip=[|cff81BAFFR|r] Ball Lightning - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Ball Lightning - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Ball Lightning - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Ball Lightning - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Windrunner (Alleria)
+[N0EG]
+Hotkey=C
+Buttonpos=2,2
+[A12j]
+Tip=[|cff81BAFFQ|r] Shackleshot - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shackleshot - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shackleshot - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shackleshot - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shackleshot - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A12k]
+Tip=[|cff81BAFFW|r] Powershot - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Powershot - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Powershot - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Powershot - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Powershot - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A14i]
+Tip=[|cff81BAFFE|r] Windrunner - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Windrunner - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Windrunner - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Windrunner - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Windrunner - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A12p]
+Tip=[|cff81BAFFR|r] Focus Fire - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Focus Fire - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Focus Fire - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Focus Fire - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1d6]
+Tip=[|cff81BAFFR|r] Focus Fire - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Focus Fire - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Focus Fire - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Focus Fire - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Far Seer (Thrall)
+[e02j]
+Hotkey=V
+Buttonpos=3,2
+[A1tv]
+Tip=[|cff81BAFFQ|r] Thunder Strike - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Thunder Strike - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Thunder Strike - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Thunder Strike - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Thunder Strike - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1sw]
+Tip=[|cff81BAFFW|r] Glimpse - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Glimpse - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Glimpse - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Glimpse - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Glimpse - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1su]
+Tip=[|cff81BAFFE|r] Kinetic Field - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Kinetic Field - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Kinetic Field - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Kinetic Field - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Kinetic Field - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A1u6]
+Tip=[|cff81BAFFR|r] Static Storm - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Static Storm - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Static Storm - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Static Storm - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+//aghanim
+[A2v8]
+Tip=[|cff81BAFFR|r] Static Storm - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Static Storm - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Static Storm - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Static Storm - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+////////////////////////////////
+//Inteligence Sentinel 2
+
+/////////////////////////////////
+//Ogre Magi (Aggron Stonebreaker)
+[HMKG]
+Hotkey=Q
+Buttonpos=0,0
+[A2kq]
+Tip=[|cff81BAFFF|r] Unrefined Fireblast - [|cffffcc00Level 1|r],[|cff81BAFFF|r] Unrefined Fireblast - [|cffffcc00Level 2|r],[|cff81BAFFF|r] Unrefined Fireblast - [|cffffcc00Level 3|r],[|cff81BAFFF|r] Unrefined Fireblast - [|cffffcc00Level 4|r]
+Hotkey=F
+[A04w]
+Tip=[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Fireblast - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A08d]
+Tip=[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Fireblast - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A08a]
+Tip=[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Fireblast - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A089]
+Tip=[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Fireblast - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Fireblast - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A011]
+Tip=[|cff81BAFFW|r] Ignite - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Ignite - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A007]
+Tip=[|cff81BAFFW|r] Ignite - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Ignite - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A01t]
+Tip=[|cff81BAFFW|r] Ignite - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Ignite - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A00f]
+Tip=[|cff81BAFFW|r] Ignite - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Ignite - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Ignite - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A08f]
+Tip=[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Bloodlust - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A08g]
+Tip=[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Bloodlust - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A08i]
+Tip=[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Bloodlust - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A083]
+Tip=[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Bloodlust - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Bloodlust - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A088]
+Researchtip="[|cff81BAFFR|r] Learn Multi Cast - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+
+/////////////////////////////////
+//Goblin Techies (Squee and Spleen)
+[H00K]
+Hotkey=W
+Buttonpos=1,0
+[A1wf]
+Tip=[|cff81BAFFD|r] Focused Detonate - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Focused Detonate - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Focused Detonate - [|cffffcc00Level 3|r],[|cff81BAFFD|r] Focused Detonate - [|cffffcc00Level 4|r]
+Hotkey=D
+[A02t]
+Tip=[|cff81BAFFF|r] Detonate
+Hotkey=F
+[A05j]
+Tip=[|cff81BAFFQ|r] Land Mines - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Land Mines - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Land Mines - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Land Mines - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Land Mines - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A06h]
+Tip=[|cff81BAFFW|r] Stasis Trap - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Stasis Trap - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Stasis Trap - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Stasis Trap - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Stasis Trap - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A06b]
+Tip=[|cff81BAFFE|r] Suicide Squad Attack! - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Suicide Squad Attack! - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Suicide Squad Attack! - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Suicide Squad Attack! - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Suicide Squad Attack! - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0ak]
+Tip=[|cff81BAFFR|r] Remote Mines - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Remote Mines - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Remote Mines - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Remote Mines - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1fy]
+Tip=[|cff81BAFFR|r] Remote Mines - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Remote Mines - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Remote Mines - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Remote Mines - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Remote Mine
+[A0am]
+Tip=[|cff81BAFFQ|r] Detonate
+Hotkey=Q
+[A0a3]
+Tip=[|cff81BAFFQ|r] Detonate
+Hotkey=Q
+[A0a4]
+Tip=[|cff81BAFFQ|r] Detonate
+Hotkey=Q
+[A1fz]
+Tip=[|cff81BAFFQ|r] Detonate
+Hotkey=Q
+
+/////////////////////////////////
+//Twin Head Dragon (Jakiro)
+[E00P]
+Hotkey=E
+Buttonpos=2,0
+[A0o7]
+Tip=[|cff81BAFFQ|r] Dual Breath - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Dual Breath - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Dual Breath - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Dual Breath - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Dual Breath - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0o6]
+Tip=[|cff81BAFFW|r] Ice Path - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Ice Path - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Ice Path - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Ice Path - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Ice Path - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0o8]
+Researchtip="[|cff81BAFFE|r] Learn Liquid Fire - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+//Liquid fire 6.79
+[A2vo]
+Tip=[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Liquid Fire - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+//Liquid fire 6.79
+[A2um]
+Tip=[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Liquid Fire - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Liquid Fire - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0o5]
+Tip=[|cff81BAFFR|r] Macropyre - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Macropyre - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Macropyre - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Macropyre - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1b1]
+Tip=[|cff81BAFFR|r] Macropyre - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Macropyre - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Macropyre - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Macropyre - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Tinker (Boush)
+[NTIN]
+Hotkey=R
+Buttonpos=3,0
+[A049]
+Tip=[|cff81BAFFQ|r] Laser - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Laser - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Laser - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Laser - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Laser - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2wb]
+Tip=[|cff81BAFFQ|r] Laser - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Laser - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Laser - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Laser - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Laser - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A05e]
+Tip=[|cff81BAFFW|r] Heat Seeking Missile - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Heat Seeking Missile - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Heat Seeking Missile - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Heat Seeking Missile - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Heat Seeking Missile - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2wa]
+Tip=[|cff81BAFFW|r] Heat Seeking Missile - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Heat Seeking Missile - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Heat Seeking Missile - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Heat Seeking Missile - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Heat Seeking Missile - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0bq]
+Tip=[|cff81BAFFE|r] March of the Machines - [|cffffcc00Level 1|r],[|cff81BAFFE|r] March of the Machines - [|cffffcc00Level 2|r],[|cff81BAFFE|r] March of the Machines - [|cffffcc00Level 3|r],[|cff81BAFFE|r] March of the Machines - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn March of the Machines - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A065]
+Tip=[|cff81BAFFR|r] Rearm - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Rearm - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Rearm - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Rearm - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Shadow Shaman (Rhasta)
+[ORKN]
+Hotkey=A
+Buttonpos=0,1
+[A010]
+Tip=[|cff81BAFFQ|r] Forked Lightning - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Forked Lightning - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Forked Lightning - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Forked Lightning - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Forked Lightning - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0rx]
+Tip=[|cff81BAFFW|r] Voodoo - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Voodoo - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Voodoo - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Voodoo - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Voodoo - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A00p]
+Tip=[|cff81BAFFE|r] Shackles - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Shackles - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Shackles - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Shackles - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Shackles - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A00h]
+Tip=[|cff81BAFFR|r] Mass Serpent Ward - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Mass Serpent Ward - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Mass Serpent Ward - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Mass Serpent Ward - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A0a1]
+Tip=[|cff81BAFFR|r] Mass Serpent Ward - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Mass Serpent Ward - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Mass Serpent Ward - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Mass Serpent Ward - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Grand Magus (Rubick)
+[e02x]
+Hotkey=S
+Buttonpos=1,1
+[A27f]
+Tip=[|cff81BAFFQ|r] Telekinesis - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Telekinesis - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Telekinesis - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Telekinesis - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Telekinesis - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A27x]
+Tip=[|cff81BAFFQ|r] Telekinesis Land - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Telekinesis Land - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Telekinesis Land - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Telekinesis Land - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Telekinesis Land - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A27g]
+Tip=[|cff81BAFFW|r] Fade Bolt - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Fade Bolt - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Fade Bolt - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Fade Bolt - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Fade Bolt - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A27v]
+Researchtip="[|cff81BAFFE|r] Learn Null Field - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A27h]
+Tip=[|cff81BAFFR|r] Spell Steal - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Spell Steal - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Spell Steal - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Spell Steal - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+//aghanim
+[A2v9]
+Tip=[|cff81BAFFR|r] Spell Steal - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Spell Steal - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Spell Steal - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Spell Steal - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Skywrath Mage (Dragonus)
+[H0DO]
+Hotkey=D
+Buttonpos=2,1
+[A2be]
+Tip=[|cff81BAFFQ|r] Arcane Bolt - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Arcane Bolt - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Arcane Bolt - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Arcane Bolt - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Arcane Bolt - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2it]
+Tip=[|cff81BAFFW|r] Concussive Shot - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Concussive Shot - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Concussive Shot - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Concussive Shot - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Concussive Shot - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2hn]
+Tip=[|cff81BAFFE|r] Ancient Seal - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Ancient Seal - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Ancient Seal - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Ancient Seal - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Ancient Seal - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A2bg]
+Tip=[|cff81BAFFR|r] Mystic Flare - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Mystic Flare - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Mystic Flare - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Mystic Flare - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+//aghanim
+[A2tu]
+Tip=[|cff81BAFFR|r] Mystic Flare - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Mystic Flare - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Mystic Flare - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Mystic Flare - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Anti-Mage (Magina)
+[EDEM]
+Hotkey=Q
+Buttonpos=0,0
+[A022]
+Researchtip="[|cff81BAFFQ|r] Learn Mana Break - [|cffffcc00Level %d|r]"
+Researchhotkey=Q
+[Aebl]
+Tip=[|cff81BAFFW|r] Blink - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Blink - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Blink - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Blink - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Blink - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0ky]
+Researchtip="[|cff81BAFFE|r] Learn Spell Shield - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0e3]
+Tip=[|cff81BAFFR|r] Mana Void - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Mana Void - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Mana Void - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Mana Void - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2we]
+Tip=[|cff81BAFFR|r] Mana Void - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Mana Void - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Mana Void - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Mana Void - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+/////////////////////////////////
+//Dwarven Sniper (Kardel Sharpeye)
+[USYL]
+Hotkey=W
+Buttonpos=1,0
+
+[A2zo]
+Tip=[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shrapnel - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2zp]
+Tip=[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shrapnel - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A064]
+Tip=[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shrapnel - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2zq]
+Tip=[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shrapnel - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2zr]
+Tip=[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shrapnel - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+
+[A064]
+Tip=[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shrapnel - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shrapnel - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A03s]
+Researchtip="[|cff81BAFFW|r] Learn Headshot - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A03u]
+Researchtip="[|cff81BAFFE|r] Learn Take Aim - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A04p]
+Tip=[|cff81BAFFR|r] Assassinate - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Assassinate - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Assassinate - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Assassinate - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Juggernaut (Yurnero)
+[NBBC]
+Hotkey=E
+Buttonpos=2,0
+[A05g]
+Tip=[|cff81BAFFQ|r] Blade Fury - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Blade Fury - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Blade Fury - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Blade Fury - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Blade Fury - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A047]
+Tip=[|cff81BAFFW|r] Healing Ward - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Healing Ward - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Healing Ward - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Healing Ward - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Healing Ward - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A00k]
+Researchtip="[|cff81BAFFE|r] Learn Blade Dance - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0m1]
+Tip=[|cff81BAFFR|r] Omnislash - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Omnislash - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Omnislash - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Omnislash - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1ax]
+Tip=[|cff81BAFFR|r] Omnislash - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Omnislash - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Omnislash - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Omnislash - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Lone Druid (Syllabear)
+[N01O]
+Hotkey=R
+Buttonpos=3,0
+[A1ec]
+Tip=[|cff81BAFFD|r] Battle Cry - [|cffffcc00Level 1|r]
+Hotkey=D
+[A0ai]
+Tip=[|cff81BAFFD|r] Battle Cry - [|cffffcc00Level 1|r]
+Hotkey=D
+[A1ed]
+Tip=[|cff81BAFFD|r] Battle Cry - [|cffffcc00Level 1|r]
+Hotkey=D
+[A0a5]
+Tip=[|cff81BAFFQ|r] Summon Spirit Bear - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Summon Spirit Bear - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Summon Spirit Bear - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Summon Spirit Bear - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Summon Spirit Bear - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1ef]
+Tip=[|cff81BAFFW|r] Rabid - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Rabid - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1ee]
+Tip=[|cff81BAFFW|r] Rabid - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Rabid - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1eg]
+Tip=[|cff81BAFFW|r] Rabid - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Rabid - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1eh]
+Tip=[|cff81BAFFW|r] Rabid - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Rabid - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1ei]
+Tip=[|cff81BAFFW|r] Rabid - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Rabid - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Rabid - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0a8]
+Researchtip="[|cff81BAFFE|r] Learn Synergy - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0ag]
+Tip=[|cff81BAFFR|r] Bear Form - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Bear Form - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Bear Form - [|cffffcc00Level 3|r]
+UnTip=[|cff81BAFFR|r] Lone Druid Form
+Researchtip="[|cff81BAFFR|r] Learn Bear Form / Lone Druid Form - [|cffffcc00Level %d|r]"
+Hotkey=R
+Unhotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Spirit Bear
+[A0a7]
+Tip=[|cff81BAFFW|r] Return
+Hotkey=W
+
+/////////////////////////////////
+//Moon Rider (Luna Moonfang)
+[E005]
+Hotkey=A
+Buttonpos=0,1
+[A042]
+Tip=[|cff81BAFFQ|r] Lucent Beam - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Lucent Beam - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Lucent Beam - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Lucent Beam - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Lucent Beam - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A041]
+Researchtip="[|cff81BAFFW|r] Learn Moon Glaive - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A062]
+Researchtip="[|cff81BAFFE|r] Learn Lunar Blessing - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A054]
+Tip=[|cff81BAFFR|r] Eclipse - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Eclipse - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Eclipse - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Eclipse - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A00u]
+Tip=[|cff81BAFFR|r] Eclipse - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Eclipse - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Eclipse - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Eclipse - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Morphling (Morphling)
+[O00P]
+Hotkey=S
+Buttonpos=1,1
+[A0kx]
+Tip=[|cff81BAFFD|r] Morph Agility - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Morph Agility - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Morph Agility - [|cffffcc00Level 3|r],[|cff81BAFFD|r] Morph Agility - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Morph Agility - [|cffffcc00Level %d|r]"
+Hotkey=D
+Researchhotkey=E
+[A0kw]
+Tip=[|cff81BAFFF|r] Morph Strength - [|cffffcc00Level 1|r],[|cff81BAFFF|r] Morph Strength - [|cffffcc00Level 2|r],[|cff81BAFFF|r] Morph Strength - [|cffffcc00Level 3|r],[|cff81BAFFF|r] Morph Strength - [|cffffcc00Level 4|r]
+Hotkey=F
+[A0fn]
+Tip=[|cff81BAFFQ|r] Waveform - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Waveform - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Waveform - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Waveform - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Waveform - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0g6]
+Tip=[|cff81BAFFW|r] Adaptive Strike - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Adaptive Strike - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Adaptive Strike - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Adaptive Strike - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Adaptive Strike - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0g8]
+Tip=[|cff81BAFFR|r] Replicate - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Replicate - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Replicate - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Replicate - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A0gc]
+Tip=[|cff81BAFFR|r] Morph Replicate - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Morph Replicate - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Morph Replicate - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Morph Replicate - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Naga Siren (Slithice)
+[HC49]
+Hotkey=D
+Buttonpos=2,1
+[A063]
+Tip=[|cff81BAFFQ|r] Mirror Image - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Mirror Image - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Mirror Image - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Mirror Image - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Mirror Image - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A24d]
+Tip=[|cff81BAFFW|r] Ensnare - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Ensnare - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Ensnare - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Ensnare - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Ensnare - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2ku]
+Tip=[|cff81BAFFE|r] Rip Tide - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Rip Tide - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Rip Tide - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Rip Tide - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Rip Tide - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A24e]
+Tip=[|cff81BAFFR|r] End Song of the Siren - [|cffffcc00Level 1|r],[|cff81BAFFR|r] End Song of the Siren - [|cffffcc00Level 2|r],[|cff81BAFFR|r] End Song of the Siren - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn End Song of the Siren - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A07u]
+Tip=[|cff81BAFFR|r] Song of the Siren - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Song of the Siren - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Song of the Siren - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Song of the Siren - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Phantom Lancer (Azwraith)
+[OGRH]
+Hotkey=F
+Buttonpos=3,1
+[A10d]
+Tip=[|cff81BAFFQ|r] Spirit Lance - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Spirit Lance - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Spirit Lance - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Spirit Lance - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Spirit Lance - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0d7]
+Tip=[|cff81BAFFW|r] Doppelwalk - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Doppelwalk - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Doppelwalk - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Doppelwalk - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Doppelwalk - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A30c]
+Tip=[|cff81BAFFW|r] Doppelganger - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Doppelganger - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Doppelganger - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Doppelganger - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Doppelganger - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0db]
+Researchtip="[|cff81BAFFR|r] Learn Juxtapose - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+[A0yk]
+Researchtip="[|cff81BAFFE|r] Learn Phantom Rush - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+
+/////////////////////////////////
+//Priestess of the Moon (Mirana Nightshade)
+[N01V]
+Hotkey=Z
+Buttonpos=0,2
+[A0kv]
+Tip=[|cff81BAFFQ|r] Starfall - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Starfall - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Starfall - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Starfall - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Starfall - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0l8]
+Tip=[|cff81BAFFW|r] Elune's Arrow - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Elune's Arrow - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Elune's Arrow - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Elune's Arrow - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Elune's Arrow - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0ln]
+Tip=[|cff81BAFFE|r] Leap - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Leap - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Leap - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Leap - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Leap - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0ku]
+Tip=[|cff81BAFFR|r] Moonlight Shadow - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Moonlight Shadow - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Moonlight Shadow - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Moonlight Shadow - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Stealth Assassin (Rikimaru)
+[HC92]
+Hotkey=X
+Buttonpos=1,2
+[A0rg]
+Tip=[|cff81BAFFQ|r] Smoke Screen - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Smoke Screen - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Smoke Screen - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Smoke Screen - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Smoke Screen - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0k9]
+Tip=[|cff81BAFFR|r] Blink Strike - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Blink Strike - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Blink Strike - [|cffffcc00Level 3|r],[|cff81BAFFR|r] Blink Strike - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFR|r] Learn Blink Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2yx]
+Tip=[|cff81BAFFR|r] Blink Strike
+Researchtip="[|cff81BAFFR|r] Learn Blink Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2yy]
+Tip=[|cff81BAFFR|r] Blink Strike
+Researchtip="[|cff81BAFFR|r] Learn Blink Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2yv]
+Tip=[|cff81BAFFR|r] Blink Strike
+Researchtip="[|cff81BAFFR|r] Learn Blink Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2yw]
+Tip=[|cff81BAFFR|r] Blink Strike
+Researchtip="[|cff81BAFFR|r] Learn Blink Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2yz]
+Tip=[|cff81BAFFR|r] Blink Strike
+Researchtip="[|cff81BAFFR|r] Learn Blink Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2z0]
+Tip=[|cff81BAFFR|r] Blink Strike
+Researchtip="[|cff81BAFFR|r] Learn Blink Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2zl]
+Tip=[|cff81BAFFR|r] Blink Strike
+Researchtip="[|cff81BAFFR|r] Learn Blink Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A0dz]
+Researchtip="[|cff81BAFFE|r] Learn Backstab - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A00j]
+Researchtip="[|cff81BAFFW|r] Learn Permanent Invisibility - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+
+/////////////////////////////////
+//Troll Warlord (Jah'rakal)
+[N016]
+Hotkey=C
+Buttonpos=2,2
+[A0be]
+Tip=[|cff81BAFFQ|r] Berserker Rage - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Berserker Rage - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Berserker Rage - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Berserker Rage - [|cffffcc00Level 4|r]
+UnTip=[|cff81BAFFQ|r] Ranged Form
+Researchtip="[|cff81BAFFQ|r] Learn Berserker Rage - [|cffffcc00Level %d|r]"
+Hotkey=Q
+UnHotkey=Q
+Researchhotkey=Q
+[A21m]
+Tip=[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 4|r]
+Hotkey=W
+[A21l]
+Researchtip="[|cff81BAFFW|r] Learn Whirling Axes - [|cffffcc00Level %d|r]"
+Researchbuttonpos=1,0
+Researchhotkey=W
+[A21n]
+Tip=[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Whirling Axes - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A21l]
+Tip=[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Whirling Axes - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Whirling Axes - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0o0]
+Researchtip="[|cff81BAFFE|r] Learn Fervor - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A1ej]
+Tip=[|cff81BAFFR|r] Battle Trance - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Battle Trance - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Battle Trance - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Battle Trance - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Gyrocopter (Aurel Vlaicu)
+[e02n]
+Hotkey=V
+Buttonpos=3,2
+[A1so]
+Tip=[|cff81BAFFQ|r] Rocket Barrage - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Rocket Barrage - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Rocket Barrage - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Rocket Barrage - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Rocket Barrage - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1sq]
+Tip=[|cff81BAFFW|r] Homing Missile - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Homing Missile - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Homing Missile - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Homing Missile - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Homing Missile - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A229]
+Tip=[|cff81BAFFE|r] Flak Canon - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Flak Canon - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Flak Canon - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Flak Canon - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Flak Canon - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A1t5]
+Tip=[|cff81BAFFR|r] Call Down - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Call Down - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Call Down - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Call Down - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A235]
+Tip=[|cff81BAFFR|r] Call Down - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Call Down - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Call Down - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Call Down - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+////////////////////////////////
+//Agility Sentinel 2
+
+/////////////////////////////////
+//Drow Ranger (Traxex)
+[NBRN]
+Hotkey=Q
+Buttonpos=0,0
+[A026]
+Tip=[|cff81BAFFQ|r] Frost Arrows - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Frost Arrows - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Frost Arrows - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Frost Arrows - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Frost Arrows - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0qb]
+Tip=[|cff81BAFFW|r] Silence - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Silence - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2wf]
+Tip=[|cff81BAFFW|r] Silence - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Silence - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A029]
+Researchtip="[|cff81BAFFE|r] Learn Trueshot Aura - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A2O2]
+Tip=[|cff81BAFFE|r] Trueshot Aura - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Trueshot Aura - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Trueshot Aura - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Trueshot Aura - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Trueshot Aura - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0vc]
+Researchtip="[|cff81BAFFR|r] Learn Marksmanship - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+
+/////////////////////////////////
+//Templar Assassin (Lanaya)
+[E01Y]
+Hotkey=W
+Buttonpos=1,0
+[A0rt]
+Tip=[|cff81BAFFF|r] Trap
+Hotkey=F
+[A2xj]
+Tip=[|cff81BAFFF|r] Trap
+Hotkey=F
+
+[A1ea]
+Tip=[|cff81BAFFQ|r] Refraction - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Refraction - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Refraction - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Refraction - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Refraction - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0rv]
+Tip=[|cff81BAFFW|r] Meld - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Meld - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Meld - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Meld - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Meld - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0ro]
+Researchtip="[|cff81BAFFE|r] Learn Psi Blades - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0rp]
+Tip=[|cff81BAFFR|r] Psionic Trap - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Psionic Trap - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Psionic Trap - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Psionic Trap - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Psionic Trap
+[A0rq]
+Tip=[|cff81BAFFQ|r] Trap
+Hotkey=Q
+
+/////////////////////////////////
+//Ursa Warrior (Ulfsaar Fuzzy Wuzzy)
+[HUTH]
+Hotkey=E
+Buttonpos=2,0
+[A03y]
+Tip=[|cff81BAFFQ|r] Earthshock - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Earthshock - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Earthshock - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Earthshock - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Earthshock - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1n4]
+Tip=[|cff81BAFFW|r] Overpower - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Overpower - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Overpower - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Overpower - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Overpower - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1p9]
+Tip=[|cff81BAFFW|r] Overpower - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Overpower - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Overpower - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Overpower - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Overpower - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[Anic]
+Researchtip="[|cff81BAFFE|r] Learn Fury Swipes - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+//681b
+[A2x2]
+Researchtip="[|cff81BAFFE|r] Learn Fury Swipes - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0lc]
+Tip=[|cff81BAFFR|r] Enrage - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Enrage - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Enrage - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Enrage - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Vengeful Spirit (Shendelzare Silkwood)
+[HVWD]
+Hotkey=R
+Buttonpos=3,0
+[A02a]
+Tip=[|cff81BAFFQ|r] Magic Missile - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Magic Missile - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Magic Missile - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Magic Missile - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Magic Missile - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A17o]
+Tip=[|cff81BAFFW|r] Wave of Terror - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Wave of Terror - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Wave of Terror - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Wave of Terror - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Wave of Terror - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[Acac]
+Researchtip="[|cff81BAFFE|r] Learn Command Aura - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0in]
+Tip=[|cff81BAFFR|r] Nether Swap - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Nether Swap - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Nether Swap - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Nether Swap - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1aw]
+Tip=[|cff81BAFFR|r] Nether Swap - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Nether Swap - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Nether Swap - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Nether Swap - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Bounty Hunter (Gondar)
+[NAKA]
+Hotkey=A
+Buttonpos=0,1
+[A004]
+Tip=[|cff81BAFFQ|r] Shuriken Toss - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shuriken Toss - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shuriken Toss - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shuriken Toss - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shuriken Toss - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1iq]
+Researchtip="[|cff81BAFFW|r] Learn Jinada - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A07a]
+Tip=[|cff81BAFFE|r] Wind Walk - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Wind Walk - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Wind Walk - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Wind Walk - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Wind Walk - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0b4]
+Tip=[|cff81BAFFR|r] Track - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Track - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Track - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Track - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Ember Spirit (Xin)
+[N0M0]
+Hotkey=S
+Buttonpos=1,1
+[A2jl]
+Tip=[|cff81BAFFF|r] Fire Remnant Target - [|cffffcc00Level 1|r],[|cff81BAFFF|r] Fire Remnant Target - [|cffffcc00Level 2|r],[|cff81BAFFF|r] Fire Remnant Target - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Fire Remnant Target - [|cffffcc00Level %d|r]"
+Hotkey=F
+Researchhotkey=R
+[A2h3]
+Tip=[|cff81BAFFQ|r] Searing Chains - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Searing Chains - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Searing Chains - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Searing Chains - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Searing Chains - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2h0]
+Tip=[|cff81BAFFW|r] Sleight of Fist - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Sleight of Fist - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Sleight of Fist - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Sleight of Fist - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Sleight of Fist - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2hs]
+Tip=[|cff81BAFFE|r] Flame Ward - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Flame Ward - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Flame Ward - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Flame Ward - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Flame Ward - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A2jr]
+Tip=[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Fire Remnant - [|cffffcc00Level %d|r]"
+Hotkey=R
+UnHotkey=R
+Researchhotkey=R
+Buttonpos=3,2
+Unbuttonpos=3,2
+Researchbuttonpos=3,0
+[A2jp]
+Tip=[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Fire Remnant - [|cffffcc00Level %d|r]"
+Hotkey=R
+UnHotkey=R
+Researchhotkey=R
+Buttonpos=3,2
+Unbuttonpos=3,2
+Researchbuttonpos=3,0
+[A2jq]
+Tip=[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Fire Remnant - [|cffffcc00Level %d|r]"
+Hotkey=R
+UnHotkey=R
+Researchhotkey=R
+Buttonpos=3,2
+Unbuttonpos=3,2
+Researchbuttonpos=3,0
+[A2jo]
+Tip=[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Fire Remnant - [|cffffcc00Level %d|r]"
+Hotkey=R
+UnHotkey=R
+Researchhotkey=R
+Buttonpos=3,2
+Unbuttonpos=3,2
+Researchbuttonpos=3,0
+[A2jk]
+Tip=[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Fire Remnant - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Fire Remnant - [|cffffcc00Level %d|r]"
+Hotkey=R
+UnHotkey=R
+Researchhotkey=R
+Buttonpos=3,2
+Unbuttonpos=3,2
+Researchbuttonpos=3,0
+
+
+
+/////////////////////////////////
+//Axe (Mogul Kahn)
+[OPGH]
+Hotkey=Q
+Buttonpos=0,0
+[A0i6]
+Tip=[|cff81BAFFQ|r] Berserker's Call - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Berserker's Call - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Berserker's Call - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Berserker's Call - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Berserker's Call - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0s1]
+Tip=[|cff81BAFFW|r] Battle Hunger - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Battle Hunger - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Battle Hunger - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Battle Hunger - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Battle Hunger - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0c6]
+Researchtip="[|cff81BAFFE|r] Learn Counter Helix - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0e2]
+Tip=[|cff81BAFFR|r] Culling Blade - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Culling Blade - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Culling Blade - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Culling Blade - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1mr]
+Tip=[|cff81BAFFR|r] Culling Blade - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Culling Blade - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Culling Blade - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Culling Blade - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Chaos Knight (Nessaj)
+[U00A]
+Hotkey=W
+Buttonpos=1,0
+[A055]
+Tip=[|cff81BAFFQ|r] Chaos Bolt - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Chaos Bolt - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Chaos Bolt - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Chaos Bolt - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Chaos Bolt - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0rw]
+Tip=[|cff81BAFFW|r] Reality Rift - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Reality Rift - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Reality Rift - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Reality Rift - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Reality Rift - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A03n]
+Researchtip="[|cff81BAFFE|r] Learn Critical Strike - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A03o]
+Tip=[|cff81BAFFR|r] Phantasm - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Phantasm - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Phantasm - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Phantasm - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Doom Bringer (Lucifer)
+[UC42]
+Hotkey=E
+Buttonpos=2,0
+[A1or]
+Tip=[|cff81BAFFD|r] Frost Armor - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Frost Armor - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Frost Armor - [|cffffcc00Level 3|r]
+Hotkey=D
+[A1os]
+Tip=[|cff81BAFFD|r] Thunder Clap - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Thunder Clap - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Thunder Clap - [|cffffcc00Level 3|r]
+Hotkey=D
+[A1oz]
+Tip=[|cff81BAFFD|r] Heal - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Heal - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Heal - [|cffffcc00Level 3|r]
+Hotkey=D
+[A1ov]
+Tip=[|cff81BAFFD|r] Shockwave - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Shockwave - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Shockwave - [|cffffcc00Level 3|r]
+Hotkey=D
+[A1p4]
+Tip=[|cff81BAFFD|r] Tornado - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Tornado - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Tornado - [|cffffcc00Level 3|r]
+Hotkey=D
+[A1ot]
+Tip=[|cff81BAFFD|r] ManaBurn - [|cffffcc00Level 1|r],[|cff81BAFFD|r] ManaBurn - [|cffffcc00Level 2|r],[|cff81BAFFD|r] ManaBurn - [|cffffcc00Level 3|r]
+Hotkey=D
+[A1ou]
+Tip=[|cff81BAFFD|r] Purge - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Purge - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Purge - [|cffffcc00Level 3|r]
+Hotkey=D
+[A1oq]
+Tip=[|cff81BAFFD|r] Chainlightning - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Chainlightning - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Chainlightning - [|cffffcc00Level 3|r]
+Hotkey=D
+[A1p0]
+Tip=[|cff81BAFFD|r] War Stomp - [|cffffcc00Level 1|r],[|cff81BAFFD|r] War Stomp - [|cffffcc00Level 2|r],[|cff81BAFFD|r] War Stomp - [|cffffcc00Level 3|r]
+Hotkey=D
+[A1p6]
+Tip=[|cff81BAFFD|r] Ensare - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Ensare - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Ensare - [|cffffcc00Level 3|r]
+Hotkey=D
+[A1p5]
+Tip=[|cff81BAFFF|r] Raise Dead - [|cffffcc00Level 1|r],[|cff81BAFFF|r] Raise Dead - [|cffffcc00Level 2|r],[|cff81BAFFF|r] Raise Dead - [|cffffcc00Level 3|r]
+Hotkey=F
+[A10r]
+Tip=[|cff81BAFFQ|r] Devour - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Devour - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Devour - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Devour - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Devour - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1op]
+Tip=[|cff81BAFFW|r] Scorched Earth - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Scorched Earth - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Scorched Earth - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Scorched Earth - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Scorched Earth - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A094]
+Tip=[|cff81BAFFE|r] LVL? Death - [|cffffcc00Level 1|r],[|cff81BAFFE|r] LVL? Death - [|cffffcc00Level 2|r],[|cff81BAFFE|r] LVL? Death - [|cffffcc00Level 3|r],[|cff81BAFFE|r] LVL? Death - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn LVL? Death - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0a2]
+Tip=[|cff81BAFFR|r] Doom - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Doom - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Doom - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Doom - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A0mu]
+Tip=[|cff81BAFFR|r] Doom - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Doom - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Doom - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Doom - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Lifestealer (N'aix)
+[U007]
+Hotkey=R
+Buttonpos=3,0
+[A0t2]
+Tip=[|cff81BAFFQ|r] Rage - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Rage - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Rage - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Rage - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Rage - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+//Rage 6.79
+[A2tt]
+Tip=[|cff81BAFFQ|r] Rage - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Rage - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Rage - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Rage - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Rage - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0ss]
+Tip=Feast - [|cffffcc00Level 1|r],Feast - [|cffffcc00Level 2|r],Feast - [|cffffcc00Level 3|r],Feast - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Feast - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A194]
+Tip=[|cff81BAFFE|r] Open Wounds - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Open Wounds - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Open Wounds - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Open Wounds - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Open Wounds - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0sx]
+Tip=[|cff81BAFFR|r] Consume - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Consume - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Consume - [|cffffcc00Level 3|r]
+Hotkey=R
+[A0sw]
+Tip=[|cff81BAFFR|r] Infest - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Infest - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Infest - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Infest - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Lord of Avernus (Abaddon)
+[UDEA]
+Hotkey=A
+Buttonpos=0,1
+[A0i3]
+Tip=[|cff81BAFFQ|r] Death coil - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Death coil - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Death coil - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Death coil - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Death coil - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0mf]
+Tip=[|cff81BAFFW|r] Aphotic Shield - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Aphotic Shield - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Aphotic Shield - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Aphotic Shield - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Aphotic Shield - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0mg]
+Researchtip="[|cff81BAFFE|r] Learn Frostmourne - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0ns]
+Tip=[|cff81BAFFR|r] Borrowed Time - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Borrowed Time - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Borrowed Time - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Borrowed Time - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1da]
+Tip=[|cff81BAFFR|r] Borrowed Time - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Borrowed Time - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Borrowed Time - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Borrowed Time - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Lycanthrope (Banehallow)
+[U008]
+Hotkey=S
+Buttonpos=1,1
+[A03d]
+Tip=[|cff81BAFFQ|r] Summon Wolves - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Summon Wolves - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Summon Wolves - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Summon Wolves - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Summon Wolves - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0zf]
+Tip=[|cff81BAFFW|r] Howl - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Howl - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Howl - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Howl - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Howl - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A03e]
+Researchtip="[|cff81BAFFE|r] Learn Feral Impulse - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A093]
+Tip=[|cff81BAFFR|r] Shapeshift - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Shapeshift - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Shapeshift - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Shapeshift - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Night Stalker (Balanar)
+[UDRE]
+Hotkey=D
+Buttonpos=2,1
+[A02h]
+Tip=[|cff81BAFFQ|r] Void - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Void - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Void - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Void - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Void - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A08c]
+Tip=[|cff81BAFFW|r] Crippling Fear - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Crippling Fear - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Crippling Fear - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Crippling Fear - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Crippling Fear - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A08e]
+Tip=[|cff81BAFFW|r] Crippling Fear - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Crippling Fear - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Crippling Fear - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Crippling Fear - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Crippling Fear - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A086]
+Researchtip="[|cff81BAFFE|r] Learn Hunter in the Night - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A03k]
+Tip=[|cff81BAFFR|r] Darkness - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Darkness - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Darkness - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Darkness - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1b0]
+Tip=[|cff81BAFFR|r] Darkness - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Darkness - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Darkness - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Darkness - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Pit Lord (Azgalor)
+[N00R]
+Hotkey=F
+Buttonpos=3,1
+[A26o]
+Tip=[|cff81BAFFQ|r] Firestorm - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Firestorm - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Firestorm - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Firestorm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Firestorm - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A01i]
+Tip=[|cff81BAFFQ|r] Firestorm - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Firestorm - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Firestorm - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Firestorm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Firestorm - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0ra]
+Tip=[|cff81BAFFW|r] Pit of Malice - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Pit of Malice - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Pit of Malice - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Pit of Malice - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Pit of Malice - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A288]
+Tip=[|cff81BAFFE|r] Expulsion - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Expulsion - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Expulsion - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Expulsion - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Expulsion - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[AIcd]
+Researchtip="[|cff81BAFFE|r] Learn Atrophy Aura - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0r0]
+Tip=[|cff81BAFFR|r] Dark Rift - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Dark Rift - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Dark Rift - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Dark Rift - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Butcher (Pudge)
+[U00F]
+Hotkey=Z
+Buttonpos=0,2
+[A06i]
+Tip=[|cff81BAFFQ|r] Meat Hook - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Meat Hook - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Meat Hook - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Meat Hook - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Meat Hook - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A06k]
+Tip=[|cff81BAFFW|r] Rot - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Rot - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Rot - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Rot - [|cffffcc00Level 4|r]
+UnTip=[|cff81BAFFW|r] Deactivate Rot
+Researchtip="[|cff81BAFFW|r] Learn Rot - [|cffffcc00Level %d|r]"
+Hotkey=W
+Unhotkey=W
+Researchhotkey=W
+[A06d]
+Researchtip="[|cff81BAFFE|r] Learn Flesh Heap - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0fl]
+Tip=[|cff81BAFFR|r] Dismember - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Dismember - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Dismember - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Dismember - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1cx]
+Tip=[|cff81BAFFR|r] Dismember - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Dismember - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Dismember - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Dismember - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Skeleton King (King Leoric)
+[NC00]
+Hotkey=X
+Buttonpos=1,2
+[Ahtb]
+Tip=[|cff81BAFFQ|r] Hellfire Blast - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Hellfire Blast - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Hellfire Blast - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Hellfire Blast - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Hellfire Blast - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[Auav]
+Researchtip="[|cff81BAFFW|r] Learn Vampiric Aura - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[Aocr]
+Researchtip="[|cff81BAFFE|r] Learn Critical Strike - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+
+
+
+//Mortal Strike
+[A2s0]
+Tip=[|cff81BAFFE|r] Mortal Strike - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Mortal Strike - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Mortal Strike - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Mortal Strike - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Mortal Strike - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+
+[A01y]
+Researchtip="[|cff81BAFFR|r] Learn Reincarnation - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+
+/////////////////////////////////
+//Slithereen Guard (Slardar)
+[UC91]
+Hotkey=C
+Buttonpos=2,2
+[A05c]
+Tip=[|cff81BAFFQ|r] Sprint - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Sprint - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Sprint - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Sprint - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Sprint - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A29k]
+Tip=[|cff81BAFFW|r] Slithereen Crush - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Slithereen Crush - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Slithereen Crush - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Slithereen Crush - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Slithereen Crush - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0jj]
+Researchtip="[|cff81BAFFE|r] Learn Bash - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A034]
+Tip=[|cff81BAFFR|r] Amplify Damage - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Amplify Damage - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Amplify Damage - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Amplify Damage - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Undying (Dirge)
+[H00R]
+Hotkey=V
+Buttonpos=3,2
+[A15s]
+Tip=[|cff81BAFFQ|r] Decay - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Decay - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Decay - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Decay - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Decay - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0r5]
+Tip=[|cff81BAFFW|r] Soul Rip - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Soul Rip - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Soul Rip - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Soul Rip - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Soul Rip - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A15v]
+Tip=[|cff81BAFFE|r] Tombstone - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Tombstone - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Tombstone - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Tombstone - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Tombstone - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A15j]
+Tip=[|cff81BAFFR|r] Flesh Golem - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Flesh Golem - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Flesh Golem - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Flesh Golem - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Tidehunter (Leviathan)
+[OFAR]
+Hotkey=Q
+Buttonpos=0,0
+[A046]
+Tip=[|cff81BAFFQ|r] Gush - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Gush - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Gush - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Gush - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Gush - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A04e]
+Researchtip="[|cff81BAFFW|r] Learn Kraken Shell - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A226]
+Tip=[|cff81BAFFE|r] Anchor Smash - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Anchor Smash - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Anchor Smash - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Anchor Smash - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Anchor Smash - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A29i]
+Tip=[|cff81BAFFR|r] Ravage - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Ravage - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Ravage - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Ravage - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Magnataur (Magnus)
+[UC11]
+Hotkey=W
+Buttonpos=1,0
+[A02s]
+Tip=[|cff81BAFFQ|r] Shock Wave - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shock Wave - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shock Wave - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shock Wave - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shock Wave - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A037]
+Tip=[|cff81BAFFW|r] Empower - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Empower - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Empower - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Empower - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Empower - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1rd]
+Tip=[|cff81BAFFE|r] Skewer - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Skewer - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Skewer - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Skewer - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Skewer - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A29l]
+Tip=[|cff81BAFFR|r] Reverse Polarity - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Reverse Polarity - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Reverse Polarity - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Reverse Polarity - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Spiritbreaker (Barathrum)
+[O00J]
+Buttonpos=2,0
+Hotkey=E
+[A1p8]
+Tip=[|cff81BAFFQ|r] Charge of Darkness - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Charge of Darkness - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Charge of Darkness - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Charge of Darkness - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Charge of Darkness - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1vu]
+Tip=[|cff81BAFFQ|r] End Charge - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] End Charge - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] End Charge - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] End Charge - [|cffffcc00Level 4|r]
+Hotkey=Q
+[A0es]
+Researchtip="[|cff81BAFFW|r] Learn Empowering Haste - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A30f]
+Tip=[|cff81BAFFW|r] Empowering Haste - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Empowering Haste - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Empowering Haste - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Empowering Haste - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Empowering Haste - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0g5]
+Researchtip="[|cff81BAFFE|r] Learn Greater Bash - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0g4]
+Tip=[|cff81BAFFR|r] Nether Strike - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Nether Strike - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Nether Strike - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Nether Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1d8]
+Tip=[|cff81BAFFR|r] Nether Strike - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Nether Strike - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Nether Strike - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Nether Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Sand King (Crixalis)
+[U00K]
+Buttonpos=3,0
+Hotkey=R
+[A06o]
+Tip=[|cff81BAFFQ|r] Burrowstrike - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Burrowstrike - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Burrowstrike - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Burrowstrike - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Burrowstrike - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0h0]
+Tip=[|cff81BAFFW|r] Sand Storm - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Sand Storm - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Sand Storm - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Sand Storm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Sand Storm - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0fa]
+Researchtip="[|cff81BAFFE|r] Learn Caustic Finale - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A06r]
+Tip=[|cff81BAFFR|r] Epicenter - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Epicenter - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Epicenter - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Epicenter - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1b4]
+Tip=[|cff81BAFFR|r] Epicenter - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Epicenter - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Epicenter - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Epicenter - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Bane Elemental (Atropos)
+[OSHD]
+Hotkey=Q
+[A2oi]
+Tip=[|cff81BAFFQ|r] Enfeeble - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Enfeeble - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Enfeeble - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Enfeeble - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Enfeeble - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0gk]
+Tip=[|cff81BAFFW|r] Brain Sap - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Brain Sap - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Brain Sap - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Brain Sap - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Brain Sap - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A04y]
+Tip=[|cff81BAFFE|r] Nightmare - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Nightmare - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Nightmare - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Nightmare - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Nightmare - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A2O9]
+Tip=[|cff81BAFFE|r] Nightmare End
+Hotkey=E
+[A02q]
+Tip=[|cff81BAFFR|r] Fiend's Grip - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Fiend's Grip - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Fiend's Grip - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Fiend's Grip - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1d9]
+Tip=[|cff81BAFFR|r] Fiend's Grip - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Fiend's Grip - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Fiend's Grip - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Fiend's Grip - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Dark Seer (Ish'kafel)
+[H00N]
+Hotkey=W
+Buttonpos=1,0
+[A0qe]
+Tip=[|cff81BAFFQ|r] Vacuum - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Vacuum - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Vacuum - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Vacuum - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Vacuum - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0qg]
+Tip=[|cff81BAFFW|r] Ion Shell - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Ion Shell - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Ion Shell - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Ion Shell - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Ion Shell - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0r7]
+Tip=[|cff81BAFFE|r] Surge - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Surge - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Surge - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Surge - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Surge - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0qk]
+Tip=[|cff81BAFFR|r] Wall of Replica - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Wall of Replica - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Wall of Replica - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Wall of Replica - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A21q]
+Tip=[|cff81BAFFR|r] Wall of Replica - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Wall of Replica - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Wall of Replica - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Wall of Replica - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Death Prophet (Krobelus)
+[UC76]
+Hotkey=E
+Buttonpos=2,0
+[A02m]
+Tip=[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Carrion Swarm - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A06n]
+Tip=[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Carrion Swarm - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A072]
+Tip=[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Carrion Swarm - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A074]
+Tip=[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Carrion Swarm - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A078]
+Tip=[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Carrion Swarm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Carrion Swarm - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0p6]
+Tip=[|cff81BAFFW|r] Silence - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Silence - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A07h]
+Tip=[|cff81BAFFW|r] Silence - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Silence - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A07i]
+Tip=[|cff81BAFFW|r] Silence - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Silence - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A07j]
+Tip=[|cff81BAFFW|r] Silence - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Silence - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A07m]
+Tip=[|cff81BAFFW|r] Silence - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Silence - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Silence - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A02c]
+Researchtip="[|cff81BAFFE|r] Learn Witchcraft - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A073]
+Tip=[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Exorcism - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A03j]
+Tip=[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Exorcism - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A04j]
+Tip=[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Exorcism - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A04m]
+Tip=[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Exorcism - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A04n]
+Tip=[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Exorcism - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Exorcism - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Demon Witch (Lion)
+[UC18]
+Hotkey=R
+Buttonpos=3,0
+[A0x5]
+Tip=[|cff81BAFFQ|r] Impale - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Impale - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Impale - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Impale - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Impale - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0mn]
+Tip=[|cff81BAFFW|r] Voodoo - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Voodoo - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Voodoo - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Voodoo - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Voodoo - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A02n]
+Tip=[|cff81BAFFE|r] Mana Drain - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Mana Drain - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Mana Drain - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Mana Drain - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Mana Drain - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A095]
+Tip=[|cff81BAFFR|r] Finger of Death - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Finger of Death - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Finger of Death - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Finger of Death - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A09w]
+Tip=[|cff81BAFFR|r] Finger of Death - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Finger of Death - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Finger of Death - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Finger of Death - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Enigma (Darchrow)
+[UKTL]
+Hotkey=A
+Buttonpos=0,1
+[A0i7]
+Tip=[|cff81BAFFQ|r] Malefice - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Malefice - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Malefice - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Malefice - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Malefice - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A180]
+Tip=[|cff81BAFFW|r] Demonic Conversion - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Demonic Conversion - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Demonic Conversion - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Demonic Conversion - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Demonic Conversion - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0b1]
+Tip=[|cff81BAFFE|r] Midnight Pulse - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Midnight Pulse - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Midnight Pulse - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Midnight Pulse - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Midnight Pulse - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A1bx]
+Tip=[|cff81BAFFR|r] Black Hole - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Black Hole - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Black Hole - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Black Hole - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+//aghanim
+[A2tx]
+Tip=[|cff81BAFFR|r] Black Hole - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Black Hole - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Black Hole - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Black Hole - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Lich (Kel'Thuzad)
+[ULIC]
+Hotkey=S
+Buttonpos=1,1
+[A07f]
+Tip=[|cff81BAFFQ|r] Frost Nova - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Frost Nova - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Frost Nova - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Frost Nova - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Frost Nova - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A08r]
+Tip=[|cff81BAFFW|r] Frost Armor - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Frost Armor - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Frost Armor - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Frost Armor - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Frost Armor - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A053]
+Tip=[|cff81BAFFE|r] Dark Ritual - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Dark Ritual - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Dark Ritual - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Dark Ritual - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Dark Ritual - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A05t]
+Tip=[|cff81BAFFR|r] Chain Frost - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Chain Frost - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Chain Frost - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Chain Frost - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A08h]
+Tip=[|cff81BAFFR|r] Chain Frost - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Chain Frost - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Chain Frost - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Chain Frost - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Necrolyte (Rotund'jere)
+[U00E]
+Hotkey=D
+Buttonpos=2,1
+[A05v]
+Tip=[|cff81BAFFQ|r] Death Pulse - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Death Pulse - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Death Pulse - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Death Pulse - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Death Pulse - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A01n]
+Researchtip="[|cff81BAFFW|r] Learn Heartstopper Aura - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A060]
+Researchtip="[|cff81BAFFE|r] Learn Sadist - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A067]
+Tip=[|cff81BAFFR|r] Reaper's Scythe - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Reaper's Scythe - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Reaper's Scythe - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Reaper's Scythe - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A08p]
+Tip=[|cff81BAFFR|r] Reaper's Scythe - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Reaper's Scythe - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Reaper's Scythe - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Reaper's Scythe - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Oblivion (Pugna)
+[H00H]
+Hotkey=F
+Buttonpos=3,1
+[A0mt]
+Tip=[|cff81BAFFQ|r] Nether Blast - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Nether Blast - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Nether Blast - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Nether Blast - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Nether Blast - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0ce]
+Tip=[|cff81BAFFW|r] Decrepify - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Decrepify - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Decrepify - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Decrepify - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Decrepify - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2td]
+Tip=[|cff81BAFFW|r] Decrepify - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Decrepify - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Decrepify - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Decrepify - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Decrepify - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A09d]
+Tip=[|cff81BAFFE|r] Nether Ward - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Nether Ward - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Nether Ward - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Nether Ward - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Nether Ward - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0cc]
+Tip=[|cff81BAFFR|r] Life Drain - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Life Drain - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Life Drain - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Life Drain - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A02z]
+Tip=[|cff81BAFFR|r] Life Drain - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Life Drain - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Life Drain - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Life Drain - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+[A08t]
+Tip=[|cff81BAFFW|r] Mana Flare / Stop Mana Flare
+Hotkey=W
+
+/////////////////////////////////
+//Obsidian Destroyer (Harbinger)
+[U00P]
+Hotkey=Z
+Buttonpos=0,2
+[A0oi]
+Tip=[|cff81BAFFQ|r] Arcane Orb - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Arcane Orb - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Arcane Orb - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Arcane Orb - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Arcane Orb - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0oj]
+Tip=[|cff81BAFFW|r] Astral Imprisonment - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Astral Imprisonment - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Astral Imprisonment - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Astral Imprisonment - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Astral Imprisonment - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0if]
+Researchtip="[|cff81BAFFE|r] Learn Essence Aura - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0ok]
+Tip=[|cff81BAFFR|r] Sanity's Eclipse - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Sanity's Eclipse - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Sanity's Eclipse - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Sanity's Eclipse - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1vw]
+Tip=[|cff81BAFFR|r] Sanity's Eclipse - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Sanity's Eclipse - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Sanity's Eclipse - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Sanity's Eclipse - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Queen of Pain (Akasha)
+[UC01]
+Hotkey=X
+Buttonpos=1,2
+[A0q7]
+Tip=[|cff81BAFFQ|r] Shadow Strike - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shadow Strike - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shadow Strike - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shadow Strike - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shadow Strike - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0me]
+Tip=[|cff81BAFFW|r] Blink - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Blink - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Blink - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Blink - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Blink - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A04a]
+Tip=[|cff81BAFFE|r] Scream of Pain - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Scream of Pain - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Scream of Pain - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Scream of Pain - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Scream of Pain - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A28r]
+Tip=[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Sonic Wave - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A28s]
+Tip=[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Sonic Wave - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+[A306]
+Tip=[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Sonic Wave - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A307]
+Tip=[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Sonic Wave - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Sonic Wave - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+/////////////////////////////////
+//Warlock (Demnok Lannik)
+[E01C]
+Hotkey=C
+Buttonpos=2,2
+[A0j5]
+Tip=[|cff81BAFFQ|r] Fatal Bonds - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Fatal Bonds - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Fatal Bonds - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Fatal Bonds - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Fatal Bonds - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0as]
+Tip=[|cff81BAFFW|r] Shadow Word - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Shadow Word - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Shadow Word - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Shadow Word - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Shadow Word - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A06p]
+Tip=[|cff81BAFFE|r] Upheaval - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Upheaval - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Upheaval - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Upheaval - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Upheaval - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[s008]
+Tip=[|cff81BAFFR|r] Rain of Chaos - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Rain of Chaos - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Rain of Chaos - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Rain of Chaos - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[s00u]
+Tip=[|cff81BAFFR|r] Rain of Chaos - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Rain of Chaos - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Rain of Chaos - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Rain of Chaos - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Shadow Demon (Eredar)
+[e02h]
+Hotkey=V
+Buttonpos=3,2
+[A1s9]
+Tip=[|cff81BAFFF|r] Release Shadow Posion - [|cffffcc00Level 1|r],[|cff81BAFFF|r] Release Shadow Posion - [|cffffcc00Level 2|r],[|cff81BAFFF|r] Release Shadow Posion - [|cffffcc00Level 3|r],[|cff81BAFFF|r] Release Shadow Posion - [|cffffcc00Level 4|r]
+Hotkey=F
+[A1s8]
+Tip=[|cff81BAFFQ|r] Disruption - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Disruption - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Disruption - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Disruption - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Disruption - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1sb]
+Tip=[|cff81BAFFW|r] Soul Catcher - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Soul Catcher - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Soul Catcher - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Soul Catcher - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Soul Catcher - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1s4]
+Tip=[|cff81BAFFE|r] Shadow Poison - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Shadow Poison - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Shadow Poison - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Shadow Poison - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Shadow Poison - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A1sa]
+Tip=[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Demonic Purge - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+//6.81b
+[A2xi]
+Researchtip="[|cff81BAFFR|r] Learn Demonic Purge - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+[A2xe]
+Researchtip="[|cff81BAFFR|r] Learn Demonic Purge - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+[A2xb]
+Tip=[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 3|r]
+Hotkey=R
+[A2xc]
+Tip=[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 3|r]
+Hotkey=R
+[A2y4]
+Tip=[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 3|r]
+Hotkey=R
+[A2y4]
+Tip=[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 3|r]
+Hotkey=R
+[A2y4]
+Tip=[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 3|r]
+Hotkey=R
+[A2xh]
+Tip=[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Demonic Purge - [|cffffcc00Level 3|r]
+Hotkey=R
+/////////////////////////////////
+//Batrider (Jin'zakk)
+[O016]
+Hotkey=Q
+Buttonpos=0,0
+[A1el]
+Tip=[|cff81BAFFQ|r] Sticky Napalm - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Sticky Napalm - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Sticky Napalm - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Sticky Napalm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Sticky Napalm - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A19v]
+Tip=[|cff81BAFFW|r] Flamebreak - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Flamebreak - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Flamebreak - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Flamebreak - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Flamebreak - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A19z]
+Tip=[|cff81BAFFE|r] Firefly - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Firefly - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Firefly - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Firefly - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Firefly - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A19o]
+Tip=[|cff81BAFFR|r] Flaming Lasso - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Flaming Lasso - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Flaming Lasso - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Flaming Lasso - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Shadow Priest (Dazzle)
+[N01W]
+Hotkey=W
+Buttonpos=1,0
+[A0nq]
+Tip=[|cff81BAFFQ|r] Poison Touch - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Poison Touch - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Poison Touch - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Poison Touch - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Poison Touch - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+//6.81b
+[A2x6]
+Tip=[|cff81BAFFQ|r] Poison Touch - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Poison Touch - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Poison Touch - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Poison Touch - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Poison Touch - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+//End 6.81b
+[A10l]
+Tip=[|cff81BAFFW|r] Shallow Grave - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Shallow Grave - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Shallow Grave - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Shallow Grave - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Shallow Grave - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0or]
+Tip=[|cff81BAFFE|r] Shadow Wave - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Shadow Wave - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Shadow Wave - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Shadow Wave - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Shadow Wave - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A10q]
+Tip=[|cff81BAFFR|r] Weave - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Weave - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Weave - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Weave - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1db]
+Tip=[|cff81BAFFR|r] Weave - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Weave - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Weave - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Weave - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Invoker (Kael)
+[H00U]
+Hotkey=E
+Buttonpos=2,0
+[A21w]
+Tip=[|cff81BAFFQ|r] Quas - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Quas - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Quas - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Quas - [|cffffcc00Level 4|r],[|cff81BAFFQ|r] Quas - [|cffffcc00Level 5|r],[|cff81BAFFQ|r] Quas - [|cffffcc00Level 6|r],[|cff81BAFFQ|r] Quas - [|cffffcc00Level 7|r]
+Researchtip="[|cff81BAFFQ|r] Learn Quas - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A21x]
+Tip=[|cff81BAFFW|r] Wex - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Wex - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Wex - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Wex - [|cffffcc00Level 4|r],[|cff81BAFFW|r] Wex - [|cffffcc00Level 5|r],[|cff81BAFFW|r] Wex - [|cffffcc00Level 6|r],[|cff81BAFFW|r] Wex - [|cffffcc00Level 7|r]
+Researchtip="[|cff81BAFFW|r] Learn Wex - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A21v]
+Tip=[|cff81BAFFE|r] Exort - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Exort - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Exort - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Exort - [|cffffcc00Level 4|r],[|cff81BAFFE|r] Exort - [|cffffcc00Level 5|r],[|cff81BAFFE|r] Exort - [|cffffcc00Level 6|r],[|cff81BAFFE|r] Exort - [|cffffcc00Level 7|r]
+Researchtip="[|cff81BAFFE|r] Learn Exort - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A21y]
+Tip=[|cff81BAFFR|r] Invoke - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Invoke - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Invoke - [|cffffcc00Level 3|r],[|cff81BAFFR|r] Invoke - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFR|r] Learn Invoke - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1gu]
+Tip=[|cff81BAFFR|r] Invoke - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Invoke - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Invoke - [|cffffcc00Level 3|r],[|cff81BAFFR|r] Invoke - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFR|r] Learn Invoke - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Invoker plus
+
+//Sun Strike
+[A0vg]
+
+//Chaos Meteor
+[A0vn]
+
+//Forge Spirit
+[A0vo]
+
+//Cold Snap
+[A0vz]
+
+//Ghost Walk
+[A0xl]
+
+//Ice Wall
+[A0vp]
+
+//Alacrity
+[A0vq]
+
+//Tornado
+[A0vk]
+
+//EMP
+[A0vs]
+
+//Defeaning Blast
+[A0vm]
+
+/////////////////////////////////
+//Necro'lic (Visage)
+[uc60]
+Hotkey=R
+Buttonpos=3,0
+[A08x]
+Tip=[|cff81BAFFQ|r] Grave Chill - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Grave Chill - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Grave Chill - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Grave Chill - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Grave Chill - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1na]
+Tip=[|cff81BAFFW|r] Soul Assumption - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Soul Assumption - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Soul Assumption - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Soul Assumption - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Soul Assumption - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0vx]
+Researchtip="[|cff81BAFFE|r] Learn Gravekeeper's Cloak - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A1ne]
+Tip=[|cff81BAFFR|r] Summon Familiars - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Summon Familiars - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Summon Familiars - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Summon Familiars - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A2ig]
+Tip=[|cff81BAFFR|r] Summon Familiars - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Summon Familiars - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Summon Familiars - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Summon Familiars - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Familiar
+[A1nb]
+Tip=[|cff81BAFFQ|r] Stone Form
+UnTip=[|cff81BAFFQ|r] Stone Form
+Hotkey=Q
+UnHotkey=Q
+[A1nl]
+Tip=[|cff81BAFFQ|r] Stone Form
+UnTip=[|cff81BAFFQ|r] Stone Form
+Hotkey=Q
+UnHotkey=Q
+[A1nc]
+Tip=[|cff81BAFFQ|r] Stone Form
+UnTip=[|cff81BAFFQ|r] Stone Form
+Hotkey=Q
+UnHotkey=Q
+[A1nm]
+Tip=[|cff81BAFFQ|r] Stone Form
+UnTip=[|cff81BAFFQ|r] Stone Form
+Hotkey=Q
+UnHotkey=Q
+[A1nd]
+Tip=[|cff81BAFFQ|r] Stone Form
+UnTip=[|cff81BAFFQ|r] Stone Form
+Hotkey=Q
+UnHotkey=Q
+[A1nn]
+Tip=[|cff81BAFFQ|r] Stone Form
+UnTip=[|cff81BAFFQ|r] Stone Form
+Hotkey=Q
+UnHotkey=Q
+[A2iz]
+Tip=[|cff81BAFFQ|r] Stone Form
+UnTip=[|cff81BAFFQ|r] Stone Form
+Hotkey=Q
+UnHotkey=Q
+[A2j0]
+Tip=[|cff81BAFFQ|r] Stone Form
+UnTip=[|cff81BAFFQ|r] Stone Form
+Hotkey=Q
+UnHotkey=Q
+[A2j1]
+Tip=[|cff81BAFFQ|r] Stone Form
+UnTip=[|cff81BAFFQ|r] Stone Form
+Hotkey=Q
+UnHotkey=Q
+
+/////////////////////////////////
+//Tormented Soul (Leshrac the Malicious)
+[EKEE]
+Hotkey=A
+Buttonpos=0,1
+[A06w]
+Tip=[|cff81BAFFQ|r] Split Earth - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Split Earth - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Split Earth - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Split Earth - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Split Earth - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A20t]
+Tip=[|cff81BAFFW|r] Diabolic Edict - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Diabolic Edict - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Diabolic Edict - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Diabolic Edict - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Diabolic Edict - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A035]
+Tip=[|cff81BAFFW|r] Diabolic Edict - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Diabolic Edict - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Diabolic Edict - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Diabolic Edict - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Diabolic Edict - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A06v]
+Tip=[|cff81BAFFE|r] Lightning Storm - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Lightning Storm - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Lightning Storm - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Lightning Storm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Lightning Storm - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A21f]
+Tip=[|cff81BAFFR|r] Pulse Nova - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Pulse Nova - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Pulse Nova - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Pulse Nova - [|cffffcc00Level %d|r]"
+Hotkey=R
+UnHotkey=R
+Researchhotkey=R
+[A21g]
+Tip=[|cff81BAFFR|r] Pulse Nova - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Pulse Nova - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Pulse Nova - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Pulse Nova - [|cffffcc00Level %d|r]"
+Hotkey=R
+UnHotkey=R
+Researchhotkey=R
+[A21h]
+Tip=[|cff81BAFFR|r] Deactivate - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Deactivate - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Deactivate - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Deactivate - [|cffffcc00Level %d|r]"
+Hotkey=R
+UnHotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Witch Doctor (Vol'Jin)
+[E01A]
+Hotkey=S
+Buttonpos=1,1
+[A0nm]
+Tip=[|cff81BAFFQ|r] Paralyzing Cask - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Paralyzing Cask - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Paralyzing Cask - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Paralyzing Cask - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Paralyzing Cask - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0ne]
+Tip=[|cff81BAFFW|r] Voodoo Restoration - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Voodoo Restoration - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Voodoo Restoration - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Voodoo Restoration - [|cffffcc00Level 4|r]
+UnTip=[|cff81BAFFW|r] Deactivate Voodoo Restoration
+Researchtip="[|cff81BAFFW|r] Learn Voodoo Restoration - [|cffffcc00Level %d|r]"
+Hotkey=W
+UnHotkey=W
+Researchhotkey=W
+[A0no]
+Tip=[|cff81BAFFE|r] Maledict - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Maledict - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Maledict - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Maledict - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Maledict - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A0nt]
+Tip=[|cff81BAFFR|r] Death Ward - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Death Ward - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Death Ward - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Death Ward - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A0nx]
+Tip=[|cff81BAFFR|r] Death Ward - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Death Ward - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Death Ward - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Death Ward - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Ancient Apparition (Kaldr)
+[n0hp]
+Hotkey=D
+Buttonpos=2,1
+[A1mg]
+Tip=[|cff81BAFFQ|r] Cold feet - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Cold feet - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Cold feet - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Cold feet - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Cold feet - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1hs]
+Tip=[|cff81BAFFW|r] Ice Vortex - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Ice Vortex - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Ice Vortex - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Ice Vortex - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Ice Vortex - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1hq]
+Tip=[|cff81BAFFE|r] Chilling Touch - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Chilling Touch - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Chilling Touch - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Chilling Touch - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Chilling Touch - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A1mi]
+Tip=[|cff81BAFFR|r] Ice Blast - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Ice Blast - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Ice Blast - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Ice Blast - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1mn]
+Tip=[|cff81BAFFR|r] Release Ice Blast - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Release Ice Blast - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Release Ice Blast - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Release Ice Blast - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+//Ice Blast (aghanims)
+[A2qe]
+Tip=[|cff81BAFFR|r] Ice Blast - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Ice Blast - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Ice Blast - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Ice Blast - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+/////////////////////////////////
+//Bloodseeker (Strygwyr)
+[HVSH]
+Hotkey=Q
+Buttonpos=0,0
+[A0ec]
+Tip=[|cff81BAFFQ|r] Bloodrage - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Bloodrage - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Bloodrage - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Bloodrage - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Bloodrage - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A311]
+Tip=[|cff81BAFFQ|r] Bloodrage - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Bloodrage - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Bloodrage - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Bloodrage - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Bloodrage - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2x9]
+Tip=[|cff81BAFFW|r] Bloodrage - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Bloodrage - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Bloodrage - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Bloodrage - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Bloodrage - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0le]
+Researchtip="[|cff81BAFFW|r] Learn Blood Bath - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A0i8]
+Researchtip="[|cff81BAFFE|r] Learn Strygwyr's Thirst - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0lh]
+Tip=[|cff81BAFFR|r] Rupture - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Rupture - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Rupture - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Rupture - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Bone Fletcher (Bone Clinkz)
+[E004]
+Hotkey=W
+Buttonpos=1,0
+[A030]
+Tip=[|cff81BAFFQ|r] Strafe - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Strafe - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Strafe - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Strafe - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Strafe - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[Ahfa]
+Tip=[|cff81BAFFW|r] Searing Arrows - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Searing Arrows - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Searing Arrows - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Searing Arrows - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Searing Arrows - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+//Searing arrows 6.79
+[A2uo]
+Tip=[|cff81BAFFW|r] Searing Arrows - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Searing Arrows - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Searing Arrows - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Searing Arrows - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Searing Arrows - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A025]
+Tip=[|cff81BAFFE|r] Wind Walk - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Wind Walk - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Wind Walk - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Wind Walk - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Wind Walk - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A04q]
+Tip=[|cff81BAFFR|r] Death Pact - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Death Pact - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Death Pact - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Death Pact - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Broodmother (Black Arachia)
+[U006]
+Hotkey=E
+Buttonpos=2,0
+[A0bh]
+Tip=[|cff81BAFFQ|r] Spawn Spiderlings - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Spawn Spiderlings - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Spawn Spiderlings - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Spawn Spiderlings - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Spawn Spiderlings - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2zv]
+Tip=[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Spin Web - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2zs]
+Tip=[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Spin Web - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2zt]
+Tip=[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Spin Web - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2zw]
+Tip=[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Spin Web - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2zx]
+Tip=[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Spin Web - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2zu]
+Tip=[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Spin Web - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Spin Web - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0bk]
+Researchtip="[|cff81BAFFE|r] Learn Incapacitating Bite - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0wq]
+Tip=[|cff81BAFFR|r] Insatiable Hunger - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Insatiable Hunger - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Insatiable Hunger - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Insatiable Hunger - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Nerubian Assassin (Anub'arak)
+[U000]
+Hotkey=R
+Buttonpos=3,0
+[A0x7]
+Tip=[|cff81BAFFQ|r] Impale - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Impale - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Impale - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Impale - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Impale - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1h5]
+Tip=[|cff81BAFFW|r] Mana Burn - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Mana Burn - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Mana Burn - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Mana Burn - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Mana Burn - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A2ko]
+Tip=[|cff81BAFFE|r] Spiked Carapace - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Spiked Carapace - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Spiked Carapace - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Spiked Carapace - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Spiked Carapace - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A09u]
+Tip=[|cff81BAFFR|r] Vendetta - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Vendetta - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Vendetta - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Vendetta - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Scarab
+[A1hh]
+Tip=[|cff81BAFFQ|r] Infestation
+Hotkey=Q
+UnHotkey=Q
+
+//Burrow
+[A1gc]
+Tip=[|cff81BAFFR|r] Burrow
+Hotkey=R
+UnHotkey=R
+
+/////////////////////////////////
+//Nerubian Weaver (Anub'seran)
+[UBAL]
+Hotkey=A
+Buttonpos=0,1
+[A1qw]
+Tip=[|cff81BAFFQ|r] The Swarm - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] The Swarm - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] The Swarm - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] The Swarm - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn The Swarm - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0ca]
+Tip=[|cff81BAFFW|r] Shukuchi - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Shukuchi - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Shukuchi - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Shukuchi - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Shukuchi - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0cg]
+Researchtip="[|cff81BAFFE|r] Learn Geminate Attack - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0ct]
+Tip=[|cff81BAFFR|r] Time Lapse - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Time Lapse - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Time Lapse - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Time Lapse - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Phantom Assassin (Mortred)
+[EWAR]
+Hotkey=S
+Buttonpos=1,1
+[A0ym]
+Tip=[|cff81BAFFQ|r] Stifling Dagger - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Stifling Dagger - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Stifling Dagger - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Stifling Dagger - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Stifling Dagger - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0pl]
+Tip=[|cff81BAFFW|r] Blink Strike - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Blink Strike - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Blink Strike - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Blink Strike - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Blink Strike - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A03p]
+Researchtip="[|cff81BAFFE|r] Learn Blur - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A03q]
+Researchtip="[|cff81BAFFR|r] Learn Coup de Grace - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+
+/////////////////////////////////
+//Shadow Fiend (Nevermore)
+[NFIR]
+Hotkey=D
+Buttonpos=2,1
+[A0br]
+Researchtip="[|cff81BAFFW|r] Learn Necromastery - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A0fu]
+Researchtip="[|cff81BAFFE|r] Learn Presence of the Dark Lord - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0ey]
+Tip=[|cff81BAFFQ|r] Shadowraze 200 - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Shadowraze 200 - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Shadowraze 200 - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Shadowraze 200 - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Shadowraze 200 - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0fh]
+Tip=[|cff81BAFFW|r] Shadowraze 450 - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Shadowraze 450 - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Shadowraze 450 - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Shadowraze 450 - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Shadowraze 450 - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0f0]
+Tip=[|cff81BAFFE|r] Shadowraze 700 - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Shadowraze 700 - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Shadowraze 700 - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Shadowraze 700 - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Shadowraze 700 - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A29j]
+Tip=[|cff81BAFFR|r] Requiem of Souls - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Requiem of Souls - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Requiem of Souls - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Requiem of Souls - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Soul Keeper (Terrorblade)
+[EEVI]
+Hotkey=F
+Buttonpos=3,1
+[A1ra]
+Tip=[|cff81BAFFD|r] Cancel Soul Steal - [|cffffcc00Level 1|r],[|cff81BAFFD|r] Cancel Soul Steal - [|cffffcc00Level 2|r],[|cff81BAFFD|r] Cancel Soul Steal - [|cffffcc00Level 3|r],[|cff81BAFFD|r] Cancel Soul Steal - [|cffffcc00Level 4|r]
+Hotkey=D
+[A27a]
+Tip=[|cff81BAFFQ|r] Reflection - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Reflection - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Reflection - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Reflection - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Reflection - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A2KZ]
+Tip=[|cff81BAFFQ|r] Reflection - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Reflection - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Reflection - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Reflection - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Reflection - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+
+[A0H4]
+Tip=[|cff81BAFFW|r] Conjure Image - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Conjure Image - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Conjure Image - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Conjure Image - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Conjure Image - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A275]
+Tip=[|cff81BAFFW|r] Zeal - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Zeal - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Zeal - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Zeal - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Zeal - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1ri]
+Tip=[|cff81BAFFE|r] Metamorphosis - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Metamorphosis - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Metamorphosis - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Metamorphosis - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Metamorphosis - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+
+[A1RI]
+Tip=[|cff81BAFFE|r] Metamorphosis - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Metamorphosis - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Metamorphosis - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Metamorphosis - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Metamorphosis - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A07q]
+Tip=[|cff81BAFFR|r] Sunder - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Sunder - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Sunder - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Sunder - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Spectre (Mercurial)
+[E01B]
+Hotkey=Z
+Buttonpos=0,2
+[A0ha]
+Tip=[|cff81BAFFF|r] Reality
+Hotkey=F
+[A0hw]
+Tip=[|cff81BAFFQ|r] Spectral Dagger - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Spectral Dagger - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Spectral Dagger - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Spectral Dagger - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Spectral Dagger - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0fx]
+Researchtip="[|cff81BAFFW|r] Learn Desolate - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A0na]
+Researchtip="[|cff81BAFFE|r] Learn Dispersion - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0h9]
+Tip=[|cff81BAFFR|r] Haunt - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Haunt - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Haunt - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Haunt - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Venomancer (Lesale Deathbriger)
+[EC57]
+Hotkey=X
+Buttonpos=1,2
+[A173]
+Tip=[|cff81BAFFQ|r] Venomous Gale - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Venomous Gale - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Venomous Gale - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Venomous Gale - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Venomous Gale - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0my]
+Researchtip="[|cff81BAFFW|r] Learn Poison Sting - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A0ms]
+Tip=[|cff81BAFFE|r] Plague Ward - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Plague Ward - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Plague Ward - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Plague Ward - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFE|r] Learn Plague Ward - [|cffffcc00Level %d|r]"
+Hotkey=E
+Researchhotkey=E
+[A013]
+Tip=[|cff81BAFFR|r] Poison Nova - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Poison Nova - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Poison Nova - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Poison Nova - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A0a6]
+Tip=[|cff81BAFFR|r] Poison Nova - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Poison Nova - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Poison Nova - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Poison Nova - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Netherdrake (Viper)
+[EC77]
+Hotkey=C
+Buttonpos=2,2
+[A09v]
+Tip=[|cff81BAFFQ|r] Poison Attack - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Poison Attack - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Poison Attack - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Poison Attack - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Poison Attack - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1a3]
+Researchtip="[|cff81BAFFW|r] Learn Nethertoxin - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A0mm]
+Researchtip="[|cff81BAFFE|r] Learn Corrosive Skin - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A080]
+Tip=[|cff81BAFFR|r] Viper Strike - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Viper Strike - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Viper Strike - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Viper Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1uz]
+Tip=[|cff81BAFFR|r] Viper Strike - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Viper Strike - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Viper Strike - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Viper Strike - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Geomancer (Meepo)
+[H00I]
+Hotkey=V
+Buttonpos=3,2
+[A0nb]
+Tip=[|cff81BAFFQ|r] Earthbind - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Earthbind - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Earthbind - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Earthbind - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Earthbind - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0n8]
+Tip=[|cff81BAFFW|r] Poof - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Poof - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Poof - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Poof - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Poof - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0n7]
+Researchtip="[|cff81BAFFE|r] Learn Geostrike - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0mw]
+Researchtip="[|cff81BAFFR|r] Learn Divided We Stand - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+[A27c]
+Researchtip="[|cff81BAFFR|r] Learn Divided We Stand - [|cffffcc00Level %d|r]"
+Researchhotkey=R
+
+/////////////////////////////////
+//Lightning Revenant (Razor)
+[E002]
+Hotkey=Q
+Buttonpos=0,0
+[A1e7]
+Tip=[|cff81BAFFQ|r] Plasma Field - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Plasma Field - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Plasma Field - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Plasma Field - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Plasma Field - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1dp]
+Tip=[|cff81BAFFW|r] Static Link - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Static Link - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Static Link - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Static Link - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Static Link - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1e6]
+Researchtip="[|cff81BAFFE|r] Learn Unstable Current - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A1ao]
+Tip=[|cff81BAFFR|r] Eye of the Storm - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Eye of the Storm - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Eye of the Storm - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Eye of the Storm - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+[A1uv]
+Tip=[|cff81BAFFR|r] Eye of the Storm - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Eye of the Storm - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Eye of the Storm - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Eye of the Storm - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Murloc Nightcrawler (Slark)
+[h071]
+Hotkey=W
+Buttonpos=1,0
+[A1im]
+Tip=[|cff81BAFFQ|r] Dark Pact - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Dark Pact - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Dark Pact - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Dark Pact - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Dark Pact - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A1j7]
+Tip=[|cff81BAFFW|r] Pounce - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Pounce - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Pounce - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Pounce - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Pounce - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A1hr]
+Researchtip="[|cff81BAFFE|r] Learn Essence Shift - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A1in]
+Tip=[|cff81BAFFR|r] Shadow Dance - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Shadow Dance - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Shadow Dance - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Shadow Dance - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Faceless Void (Darkterror)
+[EC45]
+Hotkey=E
+Buttonpos=2,0
+[A0lk]
+Tip=[|cff81BAFFQ|r] Time Walk - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Time Walk - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Time Walk - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Time Walk - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFQ|r] Learn Time Walk - [|cffffcc00Level %d|r]"
+Hotkey=Q
+Researchhotkey=Q
+[A0cz]
+Researchtip="[|cff81BAFFW|r] Learn Backtrack - [|cffffcc00Level %d|r]"
+Researchhotkey=W
+[A081]
+Researchtip="[|cff81BAFFE|r] Learn Time Lock - [|cffffcc00Level %d|r]"
+Researchhotkey=E
+[A0j1]
+Tip=[|cff81BAFFR|r] Chronosphere - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Chronosphere - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Chronosphere - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Chronosphere - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+//Chronosphere (with aghanim's scepter)
+[A1d7]
+Tip=[|cff81BAFFR|r] Chronosphere - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Chronosphere - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Chronosphere - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Chronosphere - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
+
+/////////////////////////////////
+//Gorgon (Medusa)
+[H00V]
+Hotkey=R
+Buttonpos=3,0
+[A1c0]
+Tip=[|cff81BAFFQ|r] Split Shot - [|cffffcc00Level 1|r],[|cff81BAFFQ|r] Split Shot - [|cffffcc00Level 2|r],[|cff81BAFFQ|r] Split Shot - [|cffffcc00Level 3|r],[|cff81BAFFQ|r] Split Shot - [|cffffcc00Level 4|r]
+UnTip=[|cff81BAFFQ|r] Deactivate Split Shot
+Researchtip="[|cff81BAFFQ|r] Learn Split Shot - [|cffffcc00Level %d|r]"
+Hotkey=Q
+UnHotkey=Q
+Researchhotkey=Q
+[A0g2]
+Tip=[|cff81BAFFW|r] Mystic Snake - [|cffffcc00Level 1|r],[|cff81BAFFW|r] Mystic Snake - [|cffffcc00Level 2|r],[|cff81BAFFW|r] Mystic Snake - [|cffffcc00Level 3|r],[|cff81BAFFW|r] Mystic Snake - [|cffffcc00Level 4|r]
+Researchtip="[|cff81BAFFW|r] Learn Mystic Snake - [|cffffcc00Level %d|r]"
+Hotkey=W
+Researchhotkey=W
+[A0mp]
+Tip=[|cff81BAFFE|r] Mana Shield - [|cffffcc00Level 1|r],[|cff81BAFFE|r] Mana Shield - [|cffffcc00Level 2|r],[|cff81BAFFE|r] Mana Shield - [|cffffcc00Level 3|r],[|cff81BAFFE|r] Mana Shield - [|cffffcc00Level 4|r]
+UnTip=[|cff81BAFFE|r] Deactivate Mana Shield
+Researchtip="[|cff81BAFFE|r] Learn Mana Shield - [|cffffcc00Level %d|r]"
+Hotkey=E
+UnHotkey=E
+Researchhotkey=E
+[A1at]
+Tip=[|cff81BAFFR|r] Stone Gaze - [|cffffcc00Level 1|r],[|cff81BAFFR|r] Stone Gaze - [|cffffcc00Level 2|r],[|cff81BAFFR|r] Stone Gaze - [|cffffcc00Level 3|r]
+Researchtip="[|cff81BAFFR|r] Learn Stone Gaze - [|cffffcc00Level %d|r]"
+Hotkey=R
+Researchhotkey=R
