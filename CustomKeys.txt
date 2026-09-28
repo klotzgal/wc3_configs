@@ -4096,6 +4096,11 @@ Researchhotkey=R
 // Keep these object IDs separate from the DotA-specific entries above.
 
 // Shared and neutral unit commands
+// Siege units - Attack Ground (Mortar Team, Demolisher, Meat Wagon, Glaive Thrower).
+[CmdAttackGround]
+Tip=(|cffffcc00E|r) Attack Ground
+Hotkey=E
+
 [anei]
 Tip=(|cffffcc00R|r) Select User
 Hotkey=R
@@ -4117,30 +4122,30 @@ Tip=(|cffffcc00D|r) Hide
 Hotkey=D
 
 [ahar]
-Tip=(|cffffcc00F|r) Gather
-UnTip=(|cffffcc00F|r) Return Resources
-Hotkey=F
-Unhotkey=F
+Tip=(|cffffcc00Q|r) Gather
+UnTip=(|cffffcc00Q|r) Return Resources
+Hotkey=Q
+Unhotkey=Q
 
 // HUMAN - Peasant, Militia, and Arcane Tower
 [amic]
 Tip=(|cffffcc00W|r) Call to Arms
-UnTip=(|cffffcc00E|r) Back to Work
+UnTip=(|cffffcc00W|r) Back to Work
 Hotkey=W
-Unhotkey=E
+Unhotkey=W
 
 [ahta]
 Tip=(|cffffcc00Q|r) Reveal
 Hotkey=Q
 
 [ahrp]
-Tip=(|cffffcc00D|r) Repair
-Hotkey=D
+Tip=(|cffffcc00W|r) Repair
+Hotkey=W
 
 [amil]
-Tip=(|cffffcc00W|r) Call to Arms
+Tip=(|cffffcc00E|r) Call to Arms
 UnTip=(|cffffcc00E|r) Return to Work
-Hotkey=W
+Hotkey=E
 Unhotkey=E
 
 // Human - Footman
@@ -4303,8 +4308,8 @@ Tip=(|cffffcc00W|r) Stand Down
 Hotkey=W
 
 [arep]
-Tip=(|cffffcc00D|r) Repair
-Hotkey=D
+Tip=(|cffffcc00W|r) Repair
+Hotkey=W
 
 // Orc - Troll Berserker
 [absk]
@@ -4475,16 +4480,16 @@ Tip=(|cffffcc00Q|r) Sacrifice
 Hotkey=Q
 
 [auns]
-Tip=(|cffffcc00W|r) Unsummon Building
-Hotkey=W
+Tip=(|cffffcc00E|r) Unsummon Building
+Hotkey=E
 
 [arst]
-Tip=(|cffffcc00D|r) Restore
-Hotkey=D
+Tip=(|cffffcc00W|r) Restore
+Hotkey=W
 
 [aaha]
-Tip=(|cffffcc00F|r) Gather
-Hotkey=F
+Tip=(|cffffcc00Q|r) Gather
+Hotkey=Q
 
 [alam]
 Tip=(|cffffcc00R|r) Sacrifice
@@ -4496,10 +4501,10 @@ Tip=(|cffffcc00Q|r) Cannibalize
 Hotkey=Q
 
 [ahrl]
-Tip=(|cffffcc00F|r) Gather
-UnTip=(|cffffcc00F|r) Return Resources
-Hotkey=F
-Unhotkey=F
+Tip=(|cffffcc00Q|r) Gather
+UnTip=(|cffffcc00Q|r) Return Resources
+Hotkey=Q
+Unhotkey=Q
 
 // Undead - Crypt Fiend
 [aweb]
@@ -4727,16 +4732,16 @@ Tip=(|cffffcc00Q|r) Replenish Mana and Life
 Hotkey=Q
 
 [aren]
-Tip=(|cffffcc00D|r) Renew
-Hotkey=D
-
-[adtn]
-Tip=(|cffffcc00W|r) Detonate
+Tip=(|cffffcc00W|r) Renew
 Hotkey=W
 
+[adtn]
+Tip=(|cffffcc00E|r) Detonate
+Hotkey=E
+
 [awha]
-Tip=(|cffffcc00F|r) Gather
-Hotkey=F
+Tip=(|cffffcc00Q|r) Gather
+Hotkey=Q
 
 // Night Elf - Archer and Hippogryph
 [aco2]
@@ -4934,10 +4939,10 @@ Researchhotkey=R
 
 // NAGA - workers and units
 [anha]
-Tip=(|cffffcc00F|r) Gather
-UnTip=(|cffffcc00F|r) Return Resources
-Hotkey=F
-Unhotkey=F
+Tip=(|cffffcc00Q|r) Gather
+UnTip=(|cffffcc00Q|r) Return Resources
+Hotkey=Q
+Unhotkey=Q
 
 [anen]
 Tip=(|cffffcc00Q|r) Ensnare
@@ -5094,10 +5099,10 @@ Tip=(|cffffcc00Q|r) Kaboom!
 Hotkey=Q
 
 [ahr3]
-Tip=(|cffffcc00F|r) Gather
-UnTip=(|cffffcc00F|r) Return Resources
-Hotkey=F
-Unhotkey=F
+Tip=(|cffffcc00Q|r) Gather
+UnTip=(|cffffcc00Q|r) Return Resources
+Hotkey=Q
+Unhotkey=Q
 
 [acsf]
 Tip=(|cffffcc00W|r) Feral Spirit
@@ -5678,3 +5683,651 @@ Hotkey=R
 [anin]
 Tip=(|cffffcc00R|r) Inferno
 Hotkey=R
+
+// Build command keeps its default B key; only menu choices use the grid.
+// QWER / ASDF / ZXCV follow the 4x3 construction card.
+
+// Human construction menu
+
+[htow]
+Tip=(|cffffcc00Q|r) Build Town Hall
+Hotkey=Q
+Buttonpos=0,0
+
+[hbar]
+Tip=(|cffffcc00W|r) Build Barracks
+Hotkey=W
+Buttonpos=1,0
+
+[hlum]
+Tip=(|cffffcc00E|r) Build Lumber Mill
+Hotkey=E
+Buttonpos=2,0
+
+[hbla]
+Tip=(|cffffcc00R|r) Build Blacksmith
+Hotkey=R
+Buttonpos=3,0
+
+[hhou]
+Tip=(|cffffcc00A|r) Build Farm
+Hotkey=A
+Buttonpos=0,1
+
+[halt]
+Tip=(|cffffcc00S|r) Build Altar of Kings
+Hotkey=S
+Buttonpos=1,1
+
+[hars]
+Tip=(|cffffcc00D|r) Build Arcane Sanctum
+Hotkey=D
+Buttonpos=2,1
+
+[harm]
+Tip=(|cffffcc00F|r) Build Workshop
+Hotkey=F
+Buttonpos=3,1
+
+[hwtw]
+Tip=(|cffffcc00Z|r) Build Scout Tower
+Hotkey=Z
+Buttonpos=0,2
+
+[hgra]
+Tip=(|cffffcc00X|r) Build Gryphon Aviary
+Hotkey=X
+Buttonpos=1,2
+
+[hvlt]
+Tip=(|cffffcc00C|r) Build Arcane Vault
+Hotkey=C
+Buttonpos=2,2
+
+// Orc construction menu
+
+[ogre]
+Tip=(|cffffcc00Q|r) Build Great Hall
+Hotkey=Q
+Buttonpos=0,0
+
+[obar]
+Tip=(|cffffcc00W|r) Build Barracks
+Hotkey=W
+Buttonpos=1,0
+
+[ofor]
+Tip=(|cffffcc00E|r) Build War Mill
+Hotkey=E
+Buttonpos=2,0
+
+[owtw]
+Tip=(|cffffcc00R|r) Build Watch Tower
+Hotkey=R
+Buttonpos=3,0
+
+[otrb]
+Tip=(|cffffcc00A|r) Build Burrow
+Hotkey=A
+Buttonpos=0,1
+
+[oalt]
+Tip=(|cffffcc00S|r) Build Altar of Storms
+Hotkey=S
+Buttonpos=1,1
+
+[osld]
+Tip=(|cffffcc00D|r) Build Spirit Lodge
+Hotkey=D
+Buttonpos=2,1
+
+[obea]
+Tip=(|cffffcc00F|r) Build Beastiary
+Hotkey=F
+Buttonpos=3,1
+
+[otto]
+Tip=(|cffffcc00Z|r) Build Tauren Totem
+Hotkey=Z
+Buttonpos=0,2
+
+[ovln]
+Tip=(|cffffcc00X|r) Build Voodoo Lounge
+Hotkey=X
+Buttonpos=1,2
+
+// Undead construction menu
+
+[unpl]
+Tip=(|cffffcc00Q|r) Summon Necropolis
+Hotkey=Q
+Buttonpos=0,0
+
+[usep]
+Tip=(|cffffcc00W|r) Summon Crypt
+Hotkey=W
+Buttonpos=1,0
+
+[ugol]
+Tip=(|cffffcc00E|r) Haunt Gold Mine
+Hotkey=E
+Buttonpos=2,0
+
+[ugrv]
+Tip=(|cffffcc00R|r) Summon Graveyard
+Hotkey=R
+Buttonpos=3,0
+
+[uzig]
+Tip=(|cffffcc00A|r) Summon Ziggurat
+Hotkey=A
+Buttonpos=0,1
+
+[uaod]
+Tip=(|cffffcc00S|r) Summon Altar
+Hotkey=S
+Buttonpos=1,1
+
+[utod]
+Tip=(|cffffcc00D|r) Summon Temple of the Damned
+Hotkey=D
+Buttonpos=2,1
+
+[uslh]
+Tip=(|cffffcc00F|r) Summon Slaughterhouse
+Hotkey=F
+Buttonpos=3,1
+
+[usap]
+Tip=(|cffffcc00Z|r) Summon Sacrificial Pit
+Hotkey=Z
+Buttonpos=0,2
+
+[ubon]
+Tip=(|cffffcc00X|r) Summon Boneyard
+Hotkey=X
+Buttonpos=1,2
+
+[utom]
+Tip=(|cffffcc00C|r) Summon Tomb of Relics
+Hotkey=C
+Buttonpos=2,2
+
+// Night Elf construction menu
+
+[etol]
+Tip=(|cffffcc00Q|r) Create Tree of Life
+Hotkey=Q
+Buttonpos=0,0
+
+[eaom]
+Tip=(|cffffcc00W|r) Create Ancient of War
+Hotkey=W
+Buttonpos=1,0
+
+[edob]
+Tip=(|cffffcc00E|r) Create Hunter's Hall
+Hotkey=E
+Buttonpos=2,0
+
+[etrp]
+Tip=(|cffffcc00R|r) Create Ancient Protector
+Hotkey=R
+Buttonpos=3,0
+
+[emow]
+Tip=(|cffffcc00A|r) Create Moon Well
+Hotkey=A
+Buttonpos=0,1
+
+[eate]
+Tip=(|cffffcc00S|r) Create Altar of Elders
+Hotkey=S
+Buttonpos=1,1
+
+[eaoe]
+Tip=(|cffffcc00D|r) Create Ancient of Lore
+Hotkey=D
+Buttonpos=2,1
+
+[eaow]
+Tip=(|cffffcc00Z|r) Create Ancient of Wind
+Hotkey=Z
+Buttonpos=0,2
+
+[edos]
+Tip=(|cffffcc00X|r) Create Chimaera Roost
+Hotkey=X
+Buttonpos=1,2
+
+[eden]
+Tip=(|cffffcc00C|r) Create Ancient of Wonders
+Hotkey=C
+Buttonpos=2,2
+
+// Naga construction menu
+
+[nntt]
+Tip=(|cffffcc00Q|r) Build Temple of Tides
+Hotkey=Q
+Buttonpos=0,0
+
+[nnsg]
+Tip=(|cffffcc00W|r) Build Spawning Grounds
+Hotkey=W
+Buttonpos=1,0
+
+[nnfm]
+Tip=(|cffffcc00E|r) Build Coral Bed
+Hotkey=E
+Buttonpos=2,0
+
+[nntg]
+Tip=(|cffffcc00R|r) Build Tidal Guardian
+Hotkey=R
+Buttonpos=3,0
+
+[nnsa]
+Tip=(|cffffcc00A|r) Build Shrine of Azshara
+Hotkey=A
+Buttonpos=0,1
+
+[nnad]
+Tip=(|cffffcc00S|r) Build Altar of the Depths
+Hotkey=S
+Buttonpos=1,1
+
+// Training buttons follow QWER / ASDF / ZXCV by command-card position.
+// This includes workers and heroes in their production buildings.
+
+// Human - unit and hero training
+
+[hpea]
+Tip=(|cffffcc00Q|r) Train Peasant
+Hotkey=Q
+Buttonpos=0,0
+
+[Hamg]
+Tip=(|cffffcc00Z|r) Summon Archmage
+Revivetip=(|cffffcc00Z|r) Revive Archmage
+Awakentip=(|cffffcc00Z|r) Awaken Archmage
+Hotkey=Z
+Buttonpos=0,2
+
+[Hmkg]
+Tip=(|cffffcc00X|r) Summon Mountain King
+Revivetip=(|cffffcc00X|r) Revive Mountain King
+Awakentip=(|cffffcc00X|r) Awaken Mountain King
+Hotkey=X
+Buttonpos=1,2
+
+[Hpal]
+Tip=(|cffffcc00C|r) Summon Paladin
+Revivetip=(|cffffcc00C|r) Revive Paladin
+Awakentip=(|cffffcc00C|r) Awaken Paladin
+Hotkey=C
+Buttonpos=2,2
+
+[Hblm]
+Tip=(|cffffcc00A|r) Summon Blood Mage
+Revivetip=(|cffffcc00A|r) Revive Blood Mage
+Awakentip=(|cffffcc00A|r) Awaken Blood Mage
+Hotkey=A
+Buttonpos=0,1
+
+[hfoo]
+Tip=(|cffffcc00Q|r) Train Footman
+Hotkey=Q
+Buttonpos=0,0
+
+[hrif]
+Tip=(|cffffcc00W|r) Train Rifleman
+Hotkey=W
+Buttonpos=1,0
+
+[hkni]
+Tip=(|cffffcc00E|r) Train Knight
+Hotkey=E
+Buttonpos=2,0
+
+[hgyr]
+Tip=(|cffffcc00Q|r) Train Flying Machine
+Hotkey=Q
+Buttonpos=0,0
+
+[hmtm]
+Tip=(|cffffcc00W|r) Train Mortar Team
+Hotkey=W
+Buttonpos=1,0
+
+[hmtt]
+Tip=(|cffffcc00E|r) Train Siege Engine
+Hotkey=E
+Buttonpos=2,0
+
+[hrtt]
+Tip=(|cffffcc00E|r) Train Siege Engine
+Hotkey=E
+Buttonpos=2,0
+
+[hsor]
+Tip=(|cffffcc00Q|r) Train Sorceress
+Hotkey=Q
+Buttonpos=0,0
+
+[hmpr]
+Tip=(|cffffcc00W|r) Train Priest
+Hotkey=W
+Buttonpos=1,0
+
+[hspt]
+Tip=(|cffffcc00E|r) Train Spell Breaker
+Hotkey=E
+Buttonpos=2,0
+
+[hdhw]
+Tip=(|cffffcc00Q|r) Train Dragon Hawk
+Hotkey=Q
+Buttonpos=0,0
+
+[hgry]
+Tip=(|cffffcc00W|r) Train Gryphon Rider
+Hotkey=W
+Buttonpos=1,0
+
+// Orc - unit and hero training
+
+[opeo]
+Tip=(|cffffcc00Q|r) Train Peon
+Hotkey=Q
+Buttonpos=0,0
+
+[Oshd]
+Tip=(|cffffcc00A|r) Summon Shadow Hunter
+Revivetip=(|cffffcc00A|r) Revive Shadow Hunter
+Awakentip=(|cffffcc00A|r) Awaken Shadow Hunter
+Hotkey=A
+Buttonpos=0,1
+
+[Obla]
+Tip=(|cffffcc00Z|r) Summon Blademaster
+Revivetip=(|cffffcc00Z|r) Revive Blademaster
+Awakentip=(|cffffcc00Z|r) Awaken Blademaster
+Hotkey=Z
+Buttonpos=0,2
+
+[Ofar]
+Tip=(|cffffcc00X|r) Summon Far Seer
+Revivetip=(|cffffcc00X|r) Revive Far Seer
+Awakentip=(|cffffcc00X|r) Awaken Far Seer
+Hotkey=X
+Buttonpos=1,2
+
+[Otch]
+Tip=(|cffffcc00C|r) Summon Tauren Chieftain
+Revivetip=(|cffffcc00C|r) Revive Tauren Chieftain
+Awakentip=(|cffffcc00C|r) Awaken Tauren Chieftain
+Hotkey=C
+Buttonpos=2,2
+
+[ogru]
+Tip=(|cffffcc00Q|r) Train Grunt
+Hotkey=Q
+Buttonpos=0,0
+
+[ohun]
+Tip=(|cffffcc00W|r) Train Troll Headhunter
+Hotkey=W
+Buttonpos=1,0
+
+[otbk]
+Tip=(|cffffcc00W|r) Train Troll Berserker
+Hotkey=W
+Buttonpos=1,0
+
+[ocat]
+Tip=(|cffffcc00E|r) Train Demolisher
+Hotkey=E
+Buttonpos=2,0
+
+[orai]
+Tip=(|cffffcc00Q|r) Train Raider
+Hotkey=Q
+Buttonpos=0,0
+
+[owyv]
+Tip=(|cffffcc00W|r) Train Wind Rider
+Hotkey=W
+Buttonpos=1,0
+
+[okod]
+Tip=(|cffffcc00E|r) Train Kodo Beast
+Hotkey=E
+Buttonpos=2,0
+
+[otbr]
+Tip=(|cffffcc00R|r) Train Troll Batrider
+Hotkey=R
+Buttonpos=3,0
+
+[oshm]
+Tip=(|cffffcc00Q|r) Train Shaman
+Hotkey=Q
+Buttonpos=0,0
+
+[odoc]
+Tip=(|cffffcc00W|r) Train Troll Witch Doctor
+Hotkey=W
+Buttonpos=1,0
+
+[ospm]
+Tip=(|cffffcc00E|r) Train Spirit Walker
+Hotkey=E
+Buttonpos=2,0
+
+[otau]
+Tip=(|cffffcc00Q|r) Train Tauren
+Hotkey=Q
+Buttonpos=0,0
+
+// Undead - unit and hero training
+
+[uaco]
+Tip=(|cffffcc00Q|r) Train Acolyte
+Hotkey=Q
+Buttonpos=0,0
+
+[Udea]
+Tip=(|cffffcc00Z|r) Summon Death Knight
+Revivetip=(|cffffcc00Z|r) Revive Death Knight
+Awakentip=(|cffffcc00Z|r) Awaken Death Knight
+Hotkey=Z
+Buttonpos=0,2
+
+[Udre]
+Tip=(|cffffcc00X|r) Summon Dreadlord
+Revivetip=(|cffffcc00X|r) Revive Dreadlord
+Awakentip=(|cffffcc00X|r) Awaken Dreadlord
+Hotkey=X
+Buttonpos=1,2
+
+[Ulic]
+Tip=(|cffffcc00C|r) Summon Lich
+Revivetip=(|cffffcc00C|r) Revive Lich
+Awakentip=(|cffffcc00C|r) Awaken Lich
+Hotkey=C
+Buttonpos=2,2
+
+[Ucrl]
+Tip=(|cffffcc00A|r) Summon Crypt Lord
+Revivetip=(|cffffcc00A|r) Revive Crypt Lord
+Awakentip=(|cffffcc00A|r) Awaken Crypt Lord
+Hotkey=A
+Buttonpos=0,1
+
+[ugho]
+Tip=(|cffffcc00Q|r) Train Ghoul
+Hotkey=Q
+Buttonpos=0,0
+
+[ucry]
+Tip=(|cffffcc00W|r) Train Crypt Fiend
+Hotkey=W
+Buttonpos=1,0
+
+[ugar]
+Tip=(|cffffcc00E|r) Train Gargoyle
+Hotkey=E
+Buttonpos=2,0
+
+[umtw]
+Tip=(|cffffcc00Q|r) Train Meat Wagon
+Hotkey=Q
+Buttonpos=0,0
+
+[uabo]
+Tip=(|cffffcc00W|r) Train Abomination
+Hotkey=W
+Buttonpos=1,0
+
+[uobs]
+Tip=(|cffffcc00E|r) Create Obsidian Statue
+Hotkey=E
+Buttonpos=2,0
+
+[unec]
+Tip=(|cffffcc00Q|r) Train Necromancer
+Hotkey=Q
+Buttonpos=0,0
+
+[uban]
+Tip=(|cffffcc00W|r) Train Banshee
+Hotkey=W
+Buttonpos=1,0
+
+[ufro]
+Tip=(|cffffcc00Q|r) Train Frost Wyrm
+Hotkey=Q
+Buttonpos=0,0
+
+// NightElf - unit and hero training
+
+[ewsp]
+Tip=(|cffffcc00Q|r) Train Wisp
+Hotkey=Q
+Buttonpos=0,0
+
+[Edem]
+Tip=(|cffffcc00Z|r) Summon Demon Hunter
+Revivetip=(|cffffcc00Z|r) Revive Demon Hunter
+Awakentip=(|cffffcc00Z|r) Awaken Demon Hunter
+Hotkey=Z
+Buttonpos=0,2
+
+[Ekee]
+Tip=(|cffffcc00X|r) Summon Keeper of the Grove
+Revivetip=(|cffffcc00X|r) Revive Keeper of the Grove
+Awakentip=(|cffffcc00X|r) Awaken Keeper of the Grove
+Hotkey=X
+Buttonpos=1,2
+
+[Emoo]
+Tip=(|cffffcc00C|r) Summon Priestess of the Moon
+Revivetip=(|cffffcc00C|r) Revive Priestess of the Moon
+Awakentip=(|cffffcc00C|r) Awaken Priestess of the Moon
+Hotkey=C
+Buttonpos=2,2
+
+[Ewar]
+Tip=(|cffffcc00A|r) Summon Warden
+Revivetip=(|cffffcc00A|r) Revive Warden
+Awakentip=(|cffffcc00A|r) Awaken Warden
+Hotkey=A
+Buttonpos=0,1
+
+[earc]
+Tip=(|cffffcc00Q|r) Train Archer
+Hotkey=Q
+Buttonpos=0,0
+
+[esen]
+Tip=(|cffffcc00W|r) Train Huntress
+Hotkey=W
+Buttonpos=1,0
+
+[ebal]
+Tip=(|cffffcc00E|r) Train Glaive Thrower
+Hotkey=E
+Buttonpos=2,0
+
+[edry]
+Tip=(|cffffcc00Q|r) Train Dryad
+Hotkey=Q
+Buttonpos=0,0
+
+[edoc]
+Tip=(|cffffcc00W|r) Train Druid of the Claw
+Hotkey=W
+Buttonpos=1,0
+
+[emtg]
+Tip=(|cffffcc00E|r) Train Mountain Giant
+Hotkey=E
+Buttonpos=2,0
+
+[ehip]
+Tip=(|cffffcc00Q|r) Train Hippogryph
+Hotkey=Q
+Buttonpos=0,0
+
+[edot]
+Tip=(|cffffcc00W|r) Train Druid of the Talon
+Hotkey=W
+Buttonpos=1,0
+
+[efdr]
+Tip=(|cffffcc00E|r) Train Fairie Dragon
+Hotkey=E
+Buttonpos=2,0
+
+[echm]
+Tip=(|cffffcc00Q|r) Train Chimaera
+Hotkey=Q
+Buttonpos=0,0
+
+// Naga - unit training
+
+[nmpe]
+Tip=(|cffffcc00Q|r) Train Mur'gul Slave
+Hotkey=Q
+Buttonpos=0,0
+
+[nnmg]
+Tip=(|cffffcc00W|r) Train Mur'gul Reaver
+Hotkey=W
+Buttonpos=1,0
+
+[nmyr]
+Tip=(|cffffcc00Q|r) Train Naga Myrmidon
+Hotkey=Q
+Buttonpos=0,0
+
+[nsnp]
+Tip=(|cffffcc00W|r) Train Snap Dragon
+Hotkey=W
+Buttonpos=1,0
+
+[nhyc]
+Tip=(|cffffcc00E|r) Train Dragon Turtle
+Hotkey=E
+Buttonpos=2,0
+
+[nnsw]
+Tip=(|cffffcc00Q|r) Train Naga Siren
+Hotkey=Q
+Buttonpos=0,0
+
+[nwgs]
+Tip=(|cffffcc00W|r) Train Couatl
+Hotkey=W
+Buttonpos=1,0
