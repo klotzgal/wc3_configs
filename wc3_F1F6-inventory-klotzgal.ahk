@@ -97,13 +97,12 @@ AutoCast(iSpellQWERHotkey)
 }
 
 ; QuickCast
+; Do not send F1 afterward: it reselects the hero and can recenter the camera.
 QuickCast(key)
 {
   SendInput, {%key%}
   Sleep, 10
   Click, Left
-  Sleep, 10
-  SendInput, {F1}
 }
 
 QuickCastS(key)
@@ -111,21 +110,13 @@ QuickCastS(key)
   SendInput, {%key%}
   Sleep, 10
   Click, Left
-  Sleep, 10
-  SendInput, {F1}
 }
 
 SelfCastDoubleTap(key)
 {
-  SendEvent, {LAlt up}
-  Sleep, 10
-  SendEvent, {%key% down}
-  SendEvent, {%key% up}
-  Sleep, 25
-  SendEvent, {%key% down}
-  SendEvent, {%key% up}
-  Sleep, 10
-  SendEvent, {LAlt down}
+  ; A single send keeps physical Alt out of both item-slot taps.
+  SetKeyDelay, 80, 50
+  SendEvent, {%key%}{%key%}
 }
 
 QuickCastAttack()
