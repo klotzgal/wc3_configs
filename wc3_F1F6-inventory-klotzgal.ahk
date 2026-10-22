@@ -124,6 +124,14 @@ $r::QuickCast("r")
 $d::QuickCast("d")
 $f::QuickCast("f")
 
+; Left Alt + spell key = normal cast (choose the target manually).
+<!q::SendInput, {q}
+<!w::SendInput, {w}
+<!e::SendInput, {e}
+<!r::SendInput, {r}
+<!d::SendInput, {d}
+<!f::SendInput, {f}
+
 ; User Specified Hotkeys:
 Xbutton2::Numpad7
 
