@@ -1,131 +1,36 @@
-;;;HOW TO SETUP;;; First download and install Autohotkey
-;;;;;Then Create New Autohotkey Script and copy this into the new .AHK file
-;;;;;OR simply download this file, rename and erase .ahk.TXT to just .AHK
-;;;;;Place in your WC3 folder and create shortcut on desktop
-;;;;;Usually requires right-click and setting to Run as Admin
-;;;;;German Keyboards can Switch NumPad 8 from Y to Z at the bottom
-;;;;;In WC3 press NumLock to pause Script on/off for chat
-;;;;;Now your Invetory hotkeys are switched to TYGHBN
-;;;;;Also disables WinKey or Alt+QQ from closing your game
-;;;;;If mouse supports extra buttons can be remapped at bottom
-
+; Warcraft III / DotA hotkeys for AutoHotkey v1.
+; Inventory: Z, Space, X, V, C, B and the mouse wheel.
+; NumLock pauses the hotkeys; Enter suspends them for chat.
 
 #SingleInstance force		;force a single instance
 #HotkeyInterval 0		;disable the warning dialog if a key is held down
-#InstallKeybdHook		;Forces the unconditional installation of the keyboard hook
 #UseHook On			;might increase responsiveness of hotkeys
-#MaxThreads 20			;use 20 (the max) instead of 10 threads
+#MaxThreads 20			;allow up to 20 concurrent threads (default 10)
 SetBatchLines, -1		;makes the script run at max speed
 SetKeyDelay , -1, -1		;faster response (might be better with -1, 0)
-;Thread, Interrupt , -1, -1	;not sure what this does, could be bad for timers
 SetTitleMatchMode Regex
-SetDefaultMouseSpeed, 0 ;Move the mouse faster for mouse moving commands
 
 IfExist, Frozen Throne.exe
   menu, tray, Icon, Frozen Throne.exe, 1, 1
 
 ;;;;; Variables ;;;;;
 bInChatRoom := False
-bHealthBarOn := False
 Return ; End Auto-Execute Section
 
-; AutoCast Function
-AutoCast(iSpellQWERHotkey)
-{
-  MouseGetPos, iMousePosX, IMousePosY
-  if (iSpellQWERHotkey == 1)
-  {
-    iMouseGotoX := A_ScreenWidth*4//5
-    iMouseGotoY := A_ScreenHeight*4//5
-  }
-  else if (iSpellQWERHotkey == 2)
-  {
-    iMouseGotoX := A_ScreenWidth*4//5
-    iMouseGotoY := A_ScreenHeight*22//25
-  }
-  else if (iSpellQWERHotkey == 3)
-  {    iMouseGotoX := A_ScreenWidth*4//5
-    iMouseGotoY := A_ScreenHeight*19//20
-  }
-  else if (iSpellQWERHotkey == 4)
-  {
-    iMouseGotoX := A_ScreenWidth*17//20
-    iMouseGotoY := A_ScreenHeight*4//5
-  }
-  else if (iSpellQWERHotkey == 5)
-  {
-    iMouseGotoX := A_ScreenWidth*17//20
-    iMouseGotoY := A_ScreenHeight*22//25
-  }
-  else if (iSpellQWERHotkey == 6)
-  {
-    iMouseGotoX := A_ScreenWidth*17//20
-    iMouseGotoY := A_ScreenHeight*19//20
-  }
-  else if (iSpellQWERHotkey == 7)
-  {
-    iMouseGotoX := A_ScreenWidth*9//10
-    iMouseGotoY := A_ScreenHeight*4//5
-  }
-  else if (iSpellQWERHotkey == 8)
-  {
-    iMouseGotoX := A_ScreenWidth*9//10
-    iMouseGotoY := A_ScreenHeight*22//25
-  }
-  else if (iSpellQWERHotkey == 9)
-  {
-    iMouseGotoX := A_ScreenWidth*9//10
-    iMouseGotoY := A_ScreenHeight*19//20
-  }
-  else if (iSpellQWERHotkey == 10)
-  {
-    iMouseGotoX := A_ScreenWidth*19//20
-    iMouseGotoY := A_ScreenHeight*4//5
-  }
-  else if (iSpellQWERHotkey == 11)
-  {
-    iMouseGotoX := A_ScreenWidth*19//20
-    iMouseGotoY := A_ScreenHeight*22//25
-  }
-  else if (iSpellQWERHotkey == 12)
-  {
-    iMouseGotoX := A_ScreenWidth*19//20
-    iMouseGotoY := A_ScreenHeight*19//20
-  }
-  Click, Right, %iMouseGotoX%, %iMouseGotoY%
-  MouseMove, %iMousePosX%, %iMousePosY%
-}
-
 ; QuickCast
+; Do not send F1 afterward: it reselects the hero and can recenter the camera.
 QuickCast(key)
 {
   SendInput, {%key%}
   Sleep, 10
   Click, Left
-  Sleep, 10
-  SendInput, {F1}
-}
-
-QuickCastS(key)
-{
-  SendInput, {%key%}
-  Sleep, 10
-  Click, Left
-  Sleep, 10
-  SendInput, {F1}
 }
 
 SelfCastDoubleTap(key)
 {
-  SendEvent, {LAlt up}
-  Sleep, 10
-  SendEvent, {%key% down}
-  SendEvent, {%key% up}
-  Sleep, 25
-  SendEvent, {%key% down}
-  SendEvent, {%key% up}
-  Sleep, 10
-  SendEvent, {LAlt down}
+  ; A single send keeps physical Alt out of both item-slot taps.
+  SetKeyDelay, 80, 50
+  SendEvent, {%key%}{%key%}
 }
 
 QuickCastAttack()
@@ -201,18 +106,14 @@ Lwin::return
 <!a::return
 
 ; Inventory Keys:
-z::QuickCastS("Numpad7")
-Space::QuickCastS("Numpad8")
-x::QuickCastS("Numpad4")
-v::QuickCastS("Numpad5")
-c::QuickCastS("Numpad1")
-b::QuickCastS("Numpad2")
+z::QuickCast("Numpad7")
+Space::QuickCast("Numpad8")
+x::QuickCast("Numpad4")
+v::QuickCast("Numpad5")
+c::QuickCast("Numpad1")
+b::QuickCast("Numpad2")
 
-; Select hero
-1::SendInput, {1}
-+1::SendInput, +{1}
-
-;
+; Quick-cast attack order.
 a::QuickCastAttack()
 
 ; QuickCast spells
@@ -223,15 +124,20 @@ $r::QuickCast("r")
 $d::QuickCast("d")
 $f::QuickCast("f")
 
+; Left Alt + spell key = normal cast (choose the target manually).
+<!q::SendInput, {q}
+<!w::SendInput, {w}
+<!e::SendInput, {e}
+<!r::SendInput, {r}
+<!d::SendInput, {d}
+<!f::SendInput, {f}
+
 ; User Specified Hotkeys:
 Xbutton2::Numpad7
-;;Mbutton::Tab
-; these^ are middle mouse and extra mouse buttons
 
 ; Wheel item quick-casts
-WheelUp::QuickCastS("Numpad2")
-WheelDown::QuickCastS("Numpad5")
-
-;;LCtrl::Space
-;;Space::LCtrl
-;To swap the Ctrl key with the Spacebar just remove the ;; from the 2 lines above
+WheelUp::QuickCast("Numpad2")
+WheelDown::QuickCast("Numpad5")
+; Shift+wheel is intercepted too, but Shift stays held for the target click.
++WheelUp::QuickCast("Numpad2")
++WheelDown::QuickCast("Numpad5")
